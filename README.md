@@ -1,8 +1,22 @@
 # Docker, DevOps, & Deployments
 
+<p align="center">
+  <img src="Lessons/img/docker.svg" height="150">
+</p>
+
+1. [Course Description](#course-description)
+2. [Course Specifics](#course-specifics)
+3. [Prerequisites](#prerequisites)
+4. [Learning Outcomes](#learning-outcomes)
+5. [Schedule](#schedule)
+6. [Class Assignments](#class-assignments)
+7. [Evaluation](#evaluation)
+8. [Attendance](#attendance)
+9. [Make School Course Policies](#make-school-course-policies)
+
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+In this course students will learn the two main flavors of Developer Operations (DevOps), one that uses containers and one that does not. Students will learn the leading container pattern with Docker and explore the pros and cons of containers by implementing them. Students will also learn about DevOps without containers using AWS and S3 tools. The course will tie both these patterns together with generic patterns of operation, such as environmental design, development controls, and uptime management.
 
 ## Course Specifics
 
@@ -13,8 +27,8 @@ Total Hours: 112.5 hours <br>
 Units:  3 units <br>
 Delivery Method:  Residential <br>
 Class Sessions:  14 classes, 7 labs
-<!--
-## Prerequisites:
+
+## Prerequisites
 
 - [BEW1.1](https://make.sc/bew1-1)
 - [BEW1.2](https://make.sc/bew1-2)
@@ -29,99 +43,28 @@ Students by the end of the course will be able to ...
 4. Design & Implement
 5. Practice
 
-
-
 ## Schedule
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE APRIL 1]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)
-
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Lesson 1] |
-|  2 |  Wednesday, April 3                      | [Lesson 2] |
-|  3 |  Monday, April 8                         | [Lesson 3] |
-|  4 |  Wednesday, April 10                     | [Lesson 4] |
-|  5 |  Monday, April 15                        | [Lesson 5] |
-|  6 |  Wednesday, April 17                     | [Lesson 6] |
-|  7 |  Monday, April 22                        | [Lesson 7] |
-|  8 |  Wednesday, April 24                     | [Lesson 8] |
-|  9 |  Monday, April 29                        | [Lesson 9] |
-| 10 |  Wednesday, May 1                        | [Lesson 10] |
-| 11 |  Monday, May 6                           | [Lesson 11] |
-| 12 |  Wednesday, May 8                        | [Lesson 12] |
-| 13 |  Monday, May 13                          | Final Class (presentations, etc) |
-| 14 |  Wednesday, May 15                       | Final Exams/Presentations |
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Lesson 1] |
-|  2 |  Thursday, April 4                       | [Lesson 2] |
-|  3 |  Tuesday, April 9                        | [Lesson 3] |
-|  4 |  Thursday, April 11                      | [Lesson 4] |
-|  5 |  Tuesday, April 16                       | [Lesson 5] |
-|  6 |  Thursday, April 18                      | [Lesson 6] |
-|  7 |  Tuesday, April 23                       | [Lesson 7] |
-|  8 |  Thursday, April 25                      | [Lesson 8] |
-|  9 |  Tuesday, April 30                       | [Lesson 9] |
-| 10 |  Thursday, May 2                         | [Lesson 10] |
-| 11 |  Tuesday, May 7                          | [Lesson 11] |
-| 12 |  Thursday, May 9                         | [Lesson 12] |
-| 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
-| 14 |  Thursday, May 16                        | Final Exams/Presentations | -->
-
-<p align="center">
-  <img src="DevOps-Roadmap.png" width="600">
-</p>
-
-[Learning to Live in the Terminal]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-
- ## Class Assignments
-
-<!-- - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
-- Projects should be linked to a project page which has a description & requirements. -->
+## Class Assignments
 
 ### Tutorials
 
-Tutorials are to help you get started in a topic.  They are graded on completion only.
+Tutorials are to help you get started in a topic. They are graded on completion only.
 
-- [Do Cool Stuff Tutorial]()
+- [MakeSwarm Tutorial](https://make.sc/makeswarm)
 
 ### Projects
 
-<!-- - [Sample Project](Sample_Project.md)
+ <!-- - [Sample Project](Sample_Project.md)
     -   [Sample Project Rubric](Sample_Rubric.md) -->
 
-**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course.**
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
 - **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
 
-#### Why are we doing this?
+#### Why Are We Doing This?
 
 We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
 
@@ -134,15 +77,10 @@ Through this requirement, we hope to encourage you to think about projects with 
 ### Final Exam
 
 - **Passing the exam is a requirement for passing the class.**
-- You will have 2 hours to complete this exam - it will be in class using paper and pencil, or a format of the instructor's choosing
-- There are no retakes of the exam.
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
-
-### Other Class assignments
 
 ## Evaluation
 
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials
@@ -156,11 +94,11 @@ To pass this course you must meet the following requirements:
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
 
 Attendance requirements for scheduled sessions are:
+
 - No more than two no call no shows per term in any scheduled session.
 - No more than four excused absences per term in any scheduled session.
 
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
-
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan). Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 ## Make School Course Policies
 
