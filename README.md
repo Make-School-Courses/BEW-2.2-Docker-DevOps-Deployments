@@ -1,8 +1,8 @@
-# Docker, DevOps, & Deployments
-
 <p align="center">
   <img src="Lessons/img/docker.svg" height="150">
 </p>
+
+# Docker, DevOps, & Deployments
 
 1. [Course Description](#course-description)
 2. [Course Specifics](#course-specifics)
