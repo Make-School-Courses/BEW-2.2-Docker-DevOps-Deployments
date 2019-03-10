@@ -1,4 +1,5 @@
 - **[Syllabus](README.md)**
+- **[DevOps Roadmap 2019](Lessons/Roadmap.md)**
 - [Operating Systems Crash Course](Lessons/Lesson1.md)
 - [Living in the Terminal](Lessons/Lesson2.md)
 - [Lesson 3](Lessons/Lesson3.md)
@@ -11,4 +12,3 @@
 - [Lesson 10](Lessons/Lesson10.md)
 - [Lesson 11](Lessons/Lesson11.md)
 - [Lesson 12](Lessons/Lesson12.md)
-- **[DevOps Roadmap 2019](Lessons/Roadmap.md)**
