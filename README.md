@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lessons/img/docker.svg" height="150">
+  <img src="Images/docker.svg" height="150">
 </p>
 
 # Docker, DevOps, & Deployments
@@ -10,6 +10,9 @@
 4. [Learning Outcomes](#learning-outcomes)
 5. [Schedule](#schedule)
 6. [Class Assignments](#class-assignments)
+   1. [Tutorials](#tutorials)
+   2. [Projects](#projects)
+   3. [Final Exam](#final-exam)
 7. [Evaluation](#evaluation)
 8. [Attendance](#attendance)
 9. [Make School Course Policies](#make-school-course-policies)
