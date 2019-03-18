@@ -73,6 +73,7 @@
 
 .sidebar ul li strong a {
   font-weight: 700;
+  font-size: 15px;
 }
 
 .sidebar ul li ul.app-sub-sidebar li a {
