@@ -18,7 +18,7 @@ Containers are a powerful way to develop and deploy the application AND it's env
 
 ## Overview/TT I (20 min)
 
-- Present the [following slideshow](https://www.slideshare.net/SnehaInguva/containers-the-what-why-and-how) on contianers and their use cases.
+- Present the [following slideshow](https://www.slideshare.net/SnehaInguva/containers-the-what-why-and-how) on containers and their use cases.
 
 ### Tutorial Time (Rest of Class)
 
