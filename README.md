@@ -48,6 +48,28 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
+**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Tuesday, April 2                        | [Lesson 1] |
+|  2 |  Thursday, April 4                       | [Lesson 2] |
+|  3 |  Tuesday, April 9                        | [Lesson 3] |
+|  4 |  Thursday, April 11                      | [Lesson 4] |
+|  5 |  Tuesday, April 16                       | [Lesson 5] |
+|  6 |  Thursday, April 18                      | [Lesson 6] |
+|  7 |  Tuesday, April 23                       | [Lesson 7] |
+|  8 |  Thursday, April 25                      | [Lesson 8] |
+|  9 |  Tuesday, April 30                       | [Lesson 9] |
+| 10 |  Thursday, May 2                         | [Lesson 10] |
+| 11 |  Tuesday, May 7                          | [Lesson 11] |  
+| 12 |  Thursday, May 9                         | [Lesson 12] |
+| 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
+| 14 |  Thursday, May 16                        | Final Exams/Presentations |
+
+
 ## Class Assignments
 
 ### Tutorials
