@@ -1,6 +1,7 @@
 - **[Syllabus](README.md)**
+- **[Tutorials](https://www.katacoda.com)
 - **Lessons**
-  - [Intro & OS Crash Course](Lessons/Lesson1.md)
+  - [Introduction to Containers](Lessons/Lesson1.md)
   - [Living in the Terminal](Lessons/Lesson2.md)
   - [Lesson 3](Lessons/Lesson3.md)
   - [Lesson 4](Lessons/Lesson4.md)
@@ -16,3 +17,4 @@
   - [$100 Digital Ocean Credit](https://make.sc/docredit)
   - [DevOps Roadmap 2019](Resources/Roadmap.md)
   - [Docker from the Ground Up](Resources/DockerFromTheGroundUp.md)
+  - [Docker ROI Calculator](https://www.docker.com/roicalculator)

@@ -1,4 +1,4 @@
-# Lesson Title
+# Introduction to Containers
 
 ## Minute-by-Minute [OPTIONAL]
 
