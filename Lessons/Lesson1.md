@@ -11,16 +11,20 @@ Containers are a powerful way to develop and deploy the application AND it's env
 
 ## Initial Exercise
 
-### Think, Pair, Share (15 Minutes)
+### Think, Pair, Share (20 min)
+
+Write down...
 
 - What have you heard about **containers**?
 - What do you think a **linux kernel** is?
 
-## Overview/TT I (20 min)
+Then share with a partner. We'll come back together to discuss!
+
+## Overview/TT I (30 min)
 
 - Present the [following slideshow](https://www.slideshare.net/SnehaInguva/containers-the-what-why-and-how) on containers and their use cases.
 
-### Tutorial Time (Rest of Class)
+### Tutorial Time (60 min)
 
 It's time to practice what we've learned in a real-world environment!
 Let's take a real look under the the covers: [What is a Linux Container](https://www.katacoda.com/courses/containers-without-docker)?
