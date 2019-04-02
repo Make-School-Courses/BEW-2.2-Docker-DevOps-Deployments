@@ -1,8 +1,8 @@
 - **[Syllabus](README.md)**
 - **[Tutorials](https://www.katacoda.com)
 - **Lessons**
-  - [Introduction to Containers](Lessons/Lesson1.md)
-  - [Living in the Terminal](Lessons/Lesson2.md)
+  - [Introduction to Docker & LXC](Lessons/Lesson1.md)
+  - [Lesson 2](Lessons/Lesson2.md)
   - [Lesson 3](Lessons/Lesson3.md)
   - [Lesson 4](Lessons/Lesson4.md)
   - [Lesson 5](Lessons/Lesson5.md)

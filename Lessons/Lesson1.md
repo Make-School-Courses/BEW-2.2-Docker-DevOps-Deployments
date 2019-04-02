@@ -1,4 +1,4 @@
-# Introduction to Containers
+# Introduction to Docker & LXC
 
 ## Why You Should Know This (5 min)
 
@@ -22,9 +22,9 @@ Then share with a partner. We'll come back together to discuss!
 
 ## Overview/TT I (30 min)
 
-- Present the [following slideshow](https://www.slideshare.net/SnehaInguva/containers-the-what-why-and-how) on containers and their use cases.
+- Present the [following slideshow](https://www.slideshare.net/janghoonsim/docker-container-and-lightweight-virtualization) on containers and their use cases.
 
-### Tutorial Time (60 min)
+## Tutorial Time (60 min)
 
 It's time to practice what we've learned in a real-world environment!
-Let's take a real look under the the covers: [What is a Linux Container](https://www.katacoda.com/courses/containers-without-docker)?
+Let's take a real look under the the covers using this [Docker Course](https://www.katacoda.com/courses/docker) which will serve as your tutorial this term.

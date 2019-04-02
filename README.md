@@ -54,7 +54,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Lesson 1] |
+|  1 |  Tuesday, April 2                        | [Introduction to Docker & LXC](Lessons/Lessson1.md) |
 |  2 |  Thursday, April 4                       | [Lesson 2] |
 |  3 |  Tuesday, April 9                        | [Lesson 3] |
 |  4 |  Thursday, April 11                      | [Lesson 4] |
@@ -64,19 +64,16 @@ Students by the end of the course will be able to ...
 |  8 |  Thursday, April 25                      | [Lesson 8] |
 |  9 |  Tuesday, April 30                       | [Lesson 9] |
 | 10 |  Thursday, May 2                         | [Lesson 10] |
-| 11 |  Tuesday, May 7                          | [Lesson 11] |  
+| 11 |  Tuesday, May 7                          | [Lesson 11] |
 | 12 |  Thursday, May 9                         | [Lesson 12] |
 | 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
 | 14 |  Thursday, May 16                        | Final Exams/Presentations |
-
 
 ## Class Assignments
 
 ### Tutorials
 
-Tutorials are to help you get started in a topic. They are graded on completion only.
-
-- [MakeSwarm Tutorial](https://make.sc/makeswarm)
+Complete **all 22 scenarios on [KataKoda](https://www.katacoda.com/courses/docker) to pass the course**.
 
 ### Projects
 
