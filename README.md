@@ -10,9 +10,6 @@
 4. [Learning Outcomes](#learning-outcomes)
 5. [Schedule](#schedule)
 6. [Class Assignments](#class-assignments)
-   1. [Tutorials](#tutorials)
-   2. [Projects](#projects)
-   3. [Final Exam](#final-exam)
 7. [Evaluation](#evaluation)
 8. [Attendance](#attendance)
 9. [Make School Course Policies](#make-school-course-policies)
@@ -55,7 +52,7 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tuesday, April 2                        | [Introduction to Docker & LXC](Lessons/Lessson1.md) |
-|  2 |  Thursday, April 4                       | [Lesson 2] |
+|  2 |  Thursday, April 4                       | [Getting to Know Docker](Lessons/Lesson2.md) |
 |  3 |  Tuesday, April 9                        | [Lesson 3] |
 |  4 |  Thursday, April 11                      | [Lesson 4] |
 |  5 |  Tuesday, April 16                       | [Lesson 5] |
