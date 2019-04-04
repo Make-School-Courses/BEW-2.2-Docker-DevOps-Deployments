@@ -4,8 +4,8 @@
 1. [Why You Should Know This (2 min)](#why-you-should-know-this-2-min)
 2. [Learning Objectives (3 min)](#learning-objectives-3-min)
 3. [Initial Exercise (5 min)](#initial-exercise-5-min)
-4. [Activity I (20 min)](#activity-i-20-min)
-5. [BREAK (10 min)](#break-10-min)
+4. [BREAK (10 min)](#break-10-min)
+5. [Activity I (20 min)](#activity-i-20-min)
 6. [Live Code Part I (15 min)](#live-code-part-i-15-min)
 7. [Activity II: P1 (15 min)](#activity-ii-p1-15-min)
 8. [Live Code Part II (15 min)](#live-code-part-ii-15-min)
@@ -37,9 +37,9 @@ It takes a while to download and install Docker on your laptop. **Please start n
 2. Then double-click the `Docker.dmg` folder to install the Docker agent.
 3. Add the :whale: emoji to the pinned Slack message in `#bew2-2` when installation is finally complete.
 
-## Activity I (20 min)
-
 ## BREAK (10 min)
+
+## Activity I (20 min)
 
 ### Too Many Words, So Little Time
 
@@ -52,6 +52,8 @@ It takes a while to download and install Docker on your laptop. **Please start n
 6. Slack the class channel (`#bew2-2`) and paste the list of definitions you've created in a single message.
    1. We'll be watching your posts on Slack projected live!
 7. **Dani will compile these into a Vocabulary Guide as her homework assignment tonight!**
+
+
 
 ## Live Code Part I (15 min)
 
