@@ -1,15 +1,7 @@
 # Docker From the Ground Up: Working With Containers
 
 1. [Part 1](#part-1)
-   1. [Running an Image](#running-an-image)
-   2. [Interacting With the Host](#interacting-with-the-host)
-   3. [Conclusion: Part 1](#conclusion-part-1)
 2. [Part 2](#part-2)
-   1. [Listing Containers](#listing-containers)
-   2. [Attaching to a Running Container](#attaching-to-a-running-container)
-   3. [Removing Containers](#removing-containers)
-   4. [Executing a Command Inside a Running Container](#executing-a-command-inside-a-running-container)
-   5. [Conclusion: Part 2](#conclusion-part-2)
 3. [Credits](#credits)
 
 ## Part 1

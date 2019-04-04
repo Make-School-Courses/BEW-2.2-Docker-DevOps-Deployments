@@ -1,10 +1,10 @@
 - **[Syllabus](README.md)**
-- **[Tutorials](https://www.katacoda.com)
+- **[Tutorial](https://www.katacoda.com)**
 - **Lessons**
   - [Introduction to Docker & LXC](Lessons/Lesson1.md)
-  - [Lesson 2](Lessons/Lesson2.md)
-  - [Lesson 3](Lessons/Lesson3.md)
-  - [Lesson 4](Lessons/Lesson4.md)
+  - [DevOps Roadmap / Why Docker](Lessons/Lesson2.md)
+  - [OS Concepts](Lessons/Lesson3.md)
+  - [Managing Servers in Linux](Lessons/Lesson4.md)
   - [Lesson 5](Lessons/Lesson5.md)
   - [Lesson 6](Lessons/Lesson6.md)
   - [Lesson 7](Lessons/Lesson7.md)
