@@ -14,6 +14,7 @@
   - [Lesson 11](Lessons/Lesson11.md)
   - [Lesson 12](Lessons/Lesson12.md)
 - **Resources**
+  - [DevOps Dictionary](Resources/DevOpsDictionary.md)
   - [$100 Digital Ocean Credit](https://make.sc/docredit)
   - [DevOps Roadmap 2019](Resources/Roadmap.md)
   - [Docker from the Ground Up](Resources/DockerFromTheGroundUp.md)
