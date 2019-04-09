@@ -51,7 +51,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Introduction to Docker & LXC](Lessons/Lessson1.md) |
+|  1 |  Tuesday, April 2                        | [Introduction to Docker & LXC](Lessons/Lesson1.md) |
 |  2 |  Thursday, April 4                       | [Getting to Know Docker](Lessons/Lesson2.md) |
 |  3 |  Tuesday, April 9                        | [Interacting With Docker Containers](Lessons/Lesson3.md) |
 |  4 |  Thursday, April 11                      | [Lesson 4] |
