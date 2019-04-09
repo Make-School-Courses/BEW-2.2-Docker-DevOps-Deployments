@@ -13,9 +13,12 @@
   - [Lesson 10](Lessons/Lesson10.md)
   - [Lesson 11](Lessons/Lesson11.md)
   - [Lesson 12](Lessons/Lesson12.md)
-- **Resources**
+- **Class Resources**
   - [DevOps Dictionary](Resources/DevOpsDictionary.md)
   - [$100 Digital Ocean Credit](https://make.sc/docredit)
   - [DevOps Roadmap 2019](Resources/Roadmap.md)
   - [Docker from the Ground Up](Resources/DockerFromTheGroundUp.md)
+- **Community Resources**
+  - [Docker for Beginners](https://docker-curriculum.com)
+    -  _Guide to building/deploying distributed apps in the cloud_
   - [Docker ROI Calculator](https://www.docker.com/roicalculator)
