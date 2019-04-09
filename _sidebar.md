@@ -19,6 +19,8 @@
   - [DevOps Roadmap 2019](Resources/Roadmap.md)
   - [Docker from the Ground Up](Resources/DockerFromTheGroundUp.md)
 - **Community Resources**
+  - [Docker Key Concepts](https://medium.freecodecamp.org/docker-quick-start-video-tutorials-1dfc575522a0)
+    - _Video series that helps you get familar with the basics_
   - [Docker for Beginners](https://docker-curriculum.com)
     -  _Guide to building/deploying distributed apps in the cloud_
   - [Docker ROI Calculator](https://www.docker.com/roicalculator)
