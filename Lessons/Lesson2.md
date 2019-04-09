@@ -93,7 +93,7 @@ Now it's YOUR turn to complete [Docker From the Ground Up: Part 2](Resources/Doc
 
 1. **Complete Part 2** of the tutorial.
 2. **Add the :whale: emoji to the Slack message that Dani posts to indicate that you've finished the tutorial**.
-3. Work on your [KataCoda](www.katacoda.com/courses/docker) challenges once done!
+3. Work on your [KataCoda](http://www.katacoda.com/courses/docker) challenges once done!
 
 ### Instructor Do: Slack Message, P2
 
