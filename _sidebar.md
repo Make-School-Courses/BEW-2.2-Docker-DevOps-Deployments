@@ -4,7 +4,7 @@
   - [Introduction to Docker & LXC](Lessons/Lesson1.md)
   - [Getting to Know Docker](Lessons/Lesson2.md)
   - [Interacting With Docker Containers](Lessons/Lesson3.md)
-  - [Managing Servers in Linux](Lessons/Lesson4.md)
+  - [Lesson 4](Lessons/Lesson4.md)
   - [Lesson 5](Lessons/Lesson5.md)
   - [Lesson 6](Lessons/Lesson6.md)
   - [Lesson 7](Lessons/Lesson7.md)
