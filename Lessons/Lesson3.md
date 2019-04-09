@@ -1,66 +1,60 @@
-# Lesson Title
+# Interacting With Docker Containers
 
-## Minute-by-Minute [OPTIONAL]
+## Minute-by-Minute
 
 | **Elapsed** | **Time**  | **Activity**              |
 | ----------- | --------- | ------------------------- |
 | 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
+| 0:05        | 0:25      | Checkpoint & Review       |
+| 0:30        | 0:40      | TT / Live Code            |
+| 1:10        | 0:10      | BREAK                     |
+| 1:20        | 0:40      | In Class Activity I       |
 | TOTAL       | 2:00      |                           |
 
-## Why you should know this or industry application (optional) (5 min)
+## Why You Should Know This
 
-Explain why students should care to learn the material presented in this class.
+The ability to start, stop, and execute arbitrary commands from within containers is a core tenet of Docker!
 
 ## Learning Objectives (5 min)
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. Identify and describe how to list, start, stop a Docker container.
+2. Determine the difference between running and stopped containers.
+3. Apply filtering and formatting techniques that make reading `docker ps` output much easier.
+4. Execute commands from within a Docker container.
 
-## Initial Exercise (15 min)
+## Initial Exercise (25 min)
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+### Day 3 Checkpoint (15 min)
 
-## Overview/TT I (20 min)
+1. Update the tracker with your current progress.
+2. Open [this link](https://pollev.com/droxey) to take a short, non-graded, anonymized quiz about what you learned last class period.
+3. In 15 minutes, we will review the answers together before getting started on our live code activity for the day.
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+### Review (10 min)
 
-## In Class Activity I (30 min)
+Review the answers with the class.
 
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
 
-## Overview/TT II (optional) (20 min)
+## TT (40 min)
 
-## In Class Activity II (optional) (30 min)
+### Live Code Part II
 
-## Wrap Up (5 min)
+Go through the [Docker From the Ground Up: Part 2](Resources/DockerFromTheGroundUp.md#part-2) tutorial live with the class.
 
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
+Ask them to close their laptops as they watch you complete the tutorial.
 
-## Additional Resources
+## In Class Activity I (40 min)
 
-1. Links to additional readings and videos
+### Students Do: P2
+
+Now it's YOUR turn to complete [Docker From the Ground Up: Part 2](Resources/DockerFromTheGroundUp.md#part-2).
+
+1. **Complete Part 2** of the tutorial.
+2. **Add the :whale: emoji to the Slack message that Dani posts to indicate that you've finished the tutorial**.
+3. Work on your [KataCoda](www.katacoda.com/courses/docker) challenges once done!
+
+### Instructor Do: Slack Message, P2
+
+Post the following message on Slack after kicking off the activity:
+
+Add the `:whale:` emoji to this message to indicate that you've completed the Docker from the Ground Up tutorial!

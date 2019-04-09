@@ -7,9 +7,7 @@
 4. [Activity I (20 min)](#activity-i-20-min)
 5. [BREAK (10 min)](#break-10-min)
 6. [Live Code Part I (15 min)](#live-code-part-i-15-min)
-7. [Activity II: P1 (15 min)](#activity-ii-p1-15-min)
-8. [Live Code Part II (15 min)](#live-code-part-ii-15-min)
-9. [Activity II: P2 (15 min)](#activity-ii-p2-15-min)
+7. [Activity II: P1 (40 min)](#activity-ii-p1-40-min)
 
 **Total: `2:00` hours**
 
@@ -51,11 +49,6 @@ It takes a while to download and install Docker on your laptop. **Please start n
    1. We'll be watching your posts on Slack projected live!
 7. **Dani will compile these into a Vocabulary Guide as her homework assignment tonight!**
 
-
-
-
-
-
 ## BREAK (10 min)
 
 ## Live Code Part I (15 min)
@@ -64,7 +57,7 @@ Go through the [Docker From the Ground Up: Part 1](Resources/DockerFromTheGround
 
 Ask them to close their laptops as they watch you complete Part 1.
 
-## Activity II: P1 (15 min)
+## Activity II: P1 (40 min)
 
 ### Students Do: P1
 
@@ -80,23 +73,3 @@ _**⚠️ DO NOT MOVE ON TO PART 2. DANI WILL BE DEMONSTRATING IT LIVE SOON! ⚠
 Post the following message on Slack after kicking off the activity:
 
 Add the `:whale:` emoji to this message to indicate that you've completed Part 1 of the tutorial!
-
-## Live Code Part II (15 min)
-
-Go through the [Docker From the Ground Up: Part 2](Resources/DockerFromTheGroundUp.md#part-2) tutorial live with the class. Ask them to close their laptops as they watch you complete the tutorial.
-
-## Activity II: P2 (15 min)
-
-### Students Do: P2
-
-Now it's YOUR turn to complete [Docker From the Ground Up: Part 2](Resources/DockerFromTheGroundUp.md#part-2).
-
-1. **Complete Part 2** of the tutorial.
-2. **Add the :whale: emoji to the Slack message that Dani posts to indicate that you've finished the tutorial**.
-3. Work on your [KataCoda](www.katacoda.com/courses/docker) challenges once done!
-
-### Instructor Do: Slack Message, P2
-
-Post the following message on Slack after kicking off the activity:
-
-Add the `:whale:` emoji to this message to indicate that you've completed the Docker from the Ground Up tutorial!
