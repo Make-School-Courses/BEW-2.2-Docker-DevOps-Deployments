@@ -20,7 +20,7 @@ When you learn a new technology, it can be tough to know how to use it to improv
 
 ## Initial Exercise (15 min)
 
-* **Sign up for [DockerCon SF 2019](https://www.docker.com/dockercon/)**! Code is on the whiteboard --- use it for a free pass to attend **April 28 through May 2**! See the **conference schedule [here](https://www.docker.com/dockercon/agenda/)**.
+* **Sign up for [DockerCon SF 2019](https://dockercon19.smarteventscloud.com/portal/newreg.ww?utm_source=docker&utm_medium=blog&utm_campaign=your+kubernetes+guide+at+dockercon&utm_content=&utm_term=your+kubernetes+agenda+at+dockercon&utm_budget=)**! Code is on the whiteboard --- use it for a **free pass** to attend **April 28 through May 2**! See the **conference schedule [here](https://www.docker.com/dockercon/agenda/)**.
     > DockerCon 2019 is a 3 day technology conference, where customers and community come to learn, share and connect with each other. Attendees are a mix of developers, systems admins, architects, and IT decision makers —from beginner, to intermediate, and advanced users—who are all looking to level up their skills and go home inspired and ready to invest and implement their containerization strategies.
 * Update your [progress](https://make.sc/trackbew2.2) on the tracker, and **be sure to indicate if you've signed up for DockerCon**.
   * Passes are limited to the first 100 signups and only currently extended to Make School students and staff.
