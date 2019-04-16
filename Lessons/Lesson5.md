@@ -59,4 +59,5 @@ It should translate incoming requests on port `80` and send them to port `3000`,
 ## Additional Resources
 
 - **[Overview of Docker Compose](https://docs.docker.com/compose/overview)**
+- [Compose File V3 Reference](https://docs.docker.com/compose/compose-file/)
 - **[Docker Compose in Production](https://docs.docker.com/compose/production/)**: When you define your app with Compose in development, you can use this definition to run your application in different environments such as CI, staging, and production.
