@@ -35,7 +35,7 @@ At this point in the class, you already know that Docker is a useful tool for De
 
 ##### Hardware-Based Servers
 
-<img src="../Images/server_room.jpg" height="300">
+<img src="https://github.com/Make-School-Courses/BEW-2.2-Docker-DevOps-Deployments/blob/master/Images/server_room.jpg" height="300">
 
 Before the cloud, there were servers. They lived in big rooms, like this. Each **server** within the **server rack** contained a single hardware configuration, like your desktop computer, and had the ability to host many websites on the same server.
 
