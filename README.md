@@ -54,15 +54,15 @@ Students by the end of the course will be able to ...
 |  1 |  Tuesday, April 2                        | [Introduction to Docker & LXC](Lessons/Lesson1.md) |
 |  2 |  Thursday, April 4                       | [Getting to Know Docker](Lessons/Lesson2.md) |
 |  3 |  Tuesday, April 9                        | [Interacting With Docker Containers](Lessons/Lesson3.md) |
-|  4 |  Thursday, April 11                      | [Lesson 4] |
-|  5 |  Tuesday, April 16                       | [Lesson 5] |
-|  6 |  Thursday, April 18                      | [Lesson 6] |
-|  7 |  Tuesday, April 23                       | [Lesson 7] |
-|  8 |  Thursday, April 25                      | [Lesson 8] |
-|  9 |  Tuesday, April 30                       | [Lesson 9] |
-| 10 |  Thursday, May 2                         | [Lesson 10] |
-| 11 |  Tuesday, May 7                          | [Lesson 11] |
-| 12 |  Thursday, May 9                         | [Lesson 12] |
+|  4 |  Thursday, April 11                      | [Practical Applications of Docker](Lessons/Lesson4.md) |
+|  5 |  Tuesday, April 16                       | [Container Orchestration](Lessons/Lesson5.md) |
+|  6 |  Thursday, April 18                      | [Lesson 6](Lessons/Lesson6.md) |
+|  7 |  Tuesday, April 23                       | [Lesson 7](Lessons/Lesson7.md) |
+|  8 |  Thursday, April 25                      | [Lesson 8](Lessons/Lesson8.md) |
+|  9 |  Tuesday, April 30                       | [Lesson 9](Lessons/Lesson9.md) |
+| 10 |  Thursday, May 2                         | [Lesson 10](Lessons/Lesson10.md) |
+| 11 |  Tuesday, May 7                          | [Lesson 11](Lessons/Lesson11.md) |
+| 12 |  Thursday, May 9                         | [Lesson 12](Lessons/Lesson12.md) |
 | 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
 | 14 |  Thursday, May 16                        | Final Exams/Presentations |
 
