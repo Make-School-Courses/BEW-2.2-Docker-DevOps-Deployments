@@ -40,15 +40,23 @@ With Compose, you use a **YAML file (`docker-compose.yml`) to configure your app
 
 ## Activity I (60 min)
 
-### Challenge
+### Level I Challenge
 
 Use the following tutorial to dig in to container orchestration by [dockerising a Node.js and MongoDB app](https://medium.com/statuscode/dockerising-a-node-js-and-mongodb-app-d22047e2806f).
 
-### Stretch Challenge
+### Level II Challenge
 
-Add `nginx` reverse-proxying to your `docker-compose.yml` file. It should translate incoming requests on port `80` and send them to port `3000`, just like in production.
+Learn about [Portainer](https://www.portainer.io/), then add it to your `docker-compose.yml` file!
+
+Use this [sample config](https://portainer.readthedocs.io/en/stable/deployment.html#deploy-portainer-via-docker-compose) to get started.
+
+### Level III Challenge
+
+Add `nginx` reverse-proxying to your `docker-compose.yml` file. You may need to research what reverse-proxying is in order to complete this challenge!
+
+It should translate incoming requests on port `80` and send them to port `3000`, just like in production.
 
 ## Additional Resources
 
-- **[Overview of Docker Compose](https://docs.docker.com/compose/overview)
+- **[Overview of Docker Compose](https://docs.docker.com/compose/overview)**
 - **[Docker Compose in Production](https://docs.docker.com/compose/production/)**: When you define your app with Compose in development, you can use this definition to run your application in different environments such as CI, staging, and production.
