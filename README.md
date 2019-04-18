@@ -56,7 +56,7 @@ Students by the end of the course will be able to ...
 |  3 |  Tuesday, April 9                        | [Interacting With Docker Containers](Lessons/Lesson3.md) |
 |  4 |  Thursday, April 11                      | [Practical Applications of Docker](Lessons/Lesson4.md) |
 |  5 |  Tuesday, April 16                       | [Container Orchestration](Lessons/Lesson5.md) |
-|  6 |  Thursday, April 18                      | [Lesson 6](Lessons/Lesson6.md) |
+|  6 |  Thursday, April 18                      | [Advanced Container Orchestration Techniques](Lessons/Lesson6.md) |
 |  7 |  Tuesday, April 23                       | [Lesson 7](Lessons/Lesson7.md) |
 |  8 |  Thursday, April 25                      | [Lesson 8](Lessons/Lesson8.md) |
 |  9 |  Tuesday, April 30                       | [Lesson 9](Lessons/Lesson9.md) |

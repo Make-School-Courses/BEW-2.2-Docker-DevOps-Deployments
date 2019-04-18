@@ -6,7 +6,7 @@
   - [Interacting With Docker Containers](Lessons/Lesson3.md)
   - [Practical Applications of Docker](Lessons/Lesson4.md)
   - [Container Orchestration](Lessons/Lesson5.md)
-  - [Lesson 6](Lessons/Lesson6.md)
+  - [Advanced Container Orchestration Techniques](Lessons/Lesson6.md)
   - [Lesson 7](Lessons/Lesson7.md)
   - [Lesson 8](Lessons/Lesson8.md)
   - [Lesson 9](Lessons/Lesson9.md)
