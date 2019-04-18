@@ -25,6 +25,8 @@ Let's go over some strategies and best practices I've personally leveraged in th
 
 When a new developer clones your repository, they should only need to run `docker-compose up` to get started.
 
+
+
 ### Variable Substitution
 
 Imagine you have a `docker-compose.yml` file in your project with the following configuration:
@@ -39,6 +41,18 @@ services:
 ```
 
 Set `GHOST_VERSION` and `GHOST_PORT` all in one command by running `GHOST_VERSION=2 GHOST_PORT=8080 docker-compose up`!
+
+### Use `.env` For Local Environment Settings
+
+Compose supports declaring default environment variables in an environment file named `.env` placed in the folder where the `docker-compose` command is executed (current working directory).
+
+**Syntax Rules**:
+
+- Compose expects each line in the `.env` file to be in `VAR=VAL` format.
+- Lines beginning with `#` are processed as comments and ignored.
+- Blank lines are ignored.
+- There is no special handling of quotation marks.
+    - This means that they are part of the `VAL`.
 
 ### Override Compose Files Safely
 
