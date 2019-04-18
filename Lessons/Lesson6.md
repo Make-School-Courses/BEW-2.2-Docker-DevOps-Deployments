@@ -2,20 +2,18 @@
 
 ### Table of Contents
 1. [Why You Should Know This (2 min)](#why-you-should-know-this-2-min)
-2. [Learning Objectives (XX min)](#learning-objectives-xx-min)
+2. [Learning Objectives (3 min)](#learning-objectives-3-min)
 3. [Overview / TT (30 min)](#overview--tt-30-min)
-4. [In Class Activity I (XX min)](#in-class-activity-i-xx-min)
-5. [BREAK (10 min)](#break-10-min)
-6. [In Class Activity II (XX min)](#in-class-activity-ii-xx-min)
-7. [Wrap Up (XX min)](#wrap-up-xx-min)
-8. [After Class](#after-class)
-9. [Additional Resources](#additional-resources)
+4. [BREAK (10 min)](#break-10-min)
+5. [In Class Activity I (30 min)](#in-class-activity-i-30-min)
+6. [In Class Activity II (45 min)](#in-class-activity-ii-45-min)
+7. [Additional Resources](#additional-resources)
 
 ## Why You Should Know This (2 min)
 
 Today's plan focuses on **tips and tricks I learned using `docker-compose` IRL**!
 
-## Learning Objectives (XX min)
+## Learning Objectives (3 min)
 
 ## Overview / TT (30 min)
 
@@ -138,17 +136,42 @@ volumes:
   mongo_data:
 ```
 
-## In Class Activity I (XX min)
-
 ## BREAK (10 min)
 
-## In Class Activity II (XX min)
+## In Class Activity I (30 min)
 
-## Wrap Up (XX min)
+### Trying Something New with Docker
 
-## After Class
+Our first activity highlights how simple it can be to use Docker to learn a new framework!
+
+Follow the **[Quickstart: Compose and Django](https://docs.docker.com/compose/django/)** tutorial to install and experiment with [Django](https://www.djangoproject.com/), the framework for perfectionists with deadlines.
+
+Django written in Python, and is similar to Flask --- but with more batteries included. _**Absolutely no experience with Django is required to complete this tutorial!**_
+
+**Deliverable**: Raise your hand and show the instructor the Django start page running on `localhost` to receive credit for this activity.
+
+## In Class Activity II (45 min)
+
+### Project Kickoff
+
+Get started Dockerizing one of your existing, working projects.
+
+**Today, focus on the following steps** to get started:
+
+1. Create a `Dockerfile`.
+2. Create a `docker-compose.yml` file.
+3. **Link your repository in the [tracker](https://make.sc/trackbew2.2)**.
+
+The project rubric will be posted soon and linked in this space!
+
+Please note, in order to earn credit for the project, **anyone MUST be able to RUN YOUR ENTIRE PROJECT by EXECUTING AT MOST 3 commands** in the terminal:
+
+   1. `git clone git@github.com:YOUR_USERNAME/YOUR_PROJECT_NAME && cd YOUR_PROJECT_NAME`
+   2. *(OPTIONAL)* Configure environment using `docker-compose.override.yml`.
+   3. `docker-compose up`
 
 ## Additional Resources
 
 1. **[Exception Perceptions: 4 Best Practices for Using Docker Compose](https://blog.sentry.io/2019/02/28/exception-perceptions-docker)**
 2. **[Share Compose Configurations Between Files and Projects](https://docs.docker.com/compose/extends/)**
+3. **[Control Startup and Shutdown Order in Compose](https://docs.docker.com/compose/startup-order/)
