@@ -46,9 +46,20 @@ Set `GHOST_VERSION` and `GHOST_PORT` all in one command by running `GHOST_VERSIO
 2. Create a `docker-compose.override.yml` file in order to set custom settings and override the root `docker-compose.yml` file.
 3. Level up your DevOps strategy by adding a `docker-compose.override.sample.yml` file to your repository. Make sure there are lots of comments that clearly explain which values can be customized for each developer's environment!
 
+
+### Auto-Format Your Compose File
+
+Compose files can get messy and difficult to read quickly, especially in microservice architectures. Use this handy [`compose_format`](https://github.com/funkwerk/compose_format) command to check your Compose file and auto-format it based on best practices for readability.
+
+```bash
+cat docker-compose.yml | docker run -i funkwerk/compose_format
+```
+
 ### Waiting on a Dependency
 
-`mongo`, `postgres`, and many other dependencies take time to start up. How do you get a container to start _before_ another?
+`mongo`, `postgres`, and many other dependencies take time to start up.
+
+How do you get a container to start _before_ another?
 
 **`Dockerfile`**:
 
