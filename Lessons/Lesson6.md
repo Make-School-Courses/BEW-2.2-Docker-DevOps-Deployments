@@ -21,6 +21,19 @@ Today's plan focuses on **tips and tricks I learned using `docker-compose` IRL**
 
 Let's go over some strategies and best practices I've personally leveraged in the real world when architecting containers to deploy my applications to my developers and stakeholders.
 
+### `Dockerfile` or `docker-compose.yml`?
+
+A `Dockerfile` contains everything needed to set up the environment to run your application. `Dockerfiles` typically follow this recipe:
+
+ 1. Start with an image.
+ 2. Create a directory for your project inside the container.
+ 3. Copy the project's code to the directory inside the container.
+ 4. Install the project's dependencies using a package manager _(`npm`, `pip`, etc)_.
+ 5. Expose the port(s) the application will run on.
+ 6. Run a command _(`npm start`, `flask run`, etc)_.
+
+`docker-compose.yml` is a supplement to a `Dockerfile` that enables developers to configure and launch one to many containers at once --- your application included!
+
 ### One Command to Get Started
 
 When a new developer clones your repository, they should only need to run `docker-compose up` to get started.
@@ -137,4 +150,5 @@ volumes:
 
 ## Additional Resources
 
-1. **[Exception Perceptions: 4 Best Practices for Using Docker Compose](https://blog.sentry.io/2019/02/28/exception-perceptions-docker)**:
+1. **[Exception Perceptions: 4 Best Practices for Using Docker Compose](https://blog.sentry.io/2019/02/28/exception-perceptions-docker)**
+2. **[Share Compose Configurations Between Files and Projects](https://docs.docker.com/compose/extends/)**
