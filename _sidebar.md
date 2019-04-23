@@ -7,7 +7,7 @@
   - [Practical Applications of Docker](Lessons/Lesson4.md)
   - [Container Orchestration](Lessons/Lesson5.md)
   - [Advanced Container Orchestration Techniques](Lessons/Lesson6.md)
-  - [Lesson 7](Lessons/Lesson7.md)
+  - [Logging Locally & Remotely](Lessons/Lesson7.md)
   - [Lesson 8](Lessons/Lesson8.md)
   - [Lesson 9](Lessons/Lesson9.md)
   - [Lesson 10](Lessons/Lesson10.md)

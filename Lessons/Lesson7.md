@@ -1,4 +1,4 @@
-# Logging Locally, Logging Remotely
+# Logging Locally & Remotely
 
 ### Table of Contents
 
