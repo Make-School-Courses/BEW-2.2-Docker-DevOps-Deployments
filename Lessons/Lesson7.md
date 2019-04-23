@@ -1,66 +1,51 @@
-# Lesson Title
+# Logging Locally, Logging Remotely
 
-## Minute-by-Minute [OPTIONAL]
+### Table of Contents
 
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
+1. [Why You Should Know This (2 min)](#why-you-should-know-this-2-min)
+2. [Learning Objectives (3 min)](#learning-objectives-3-min)
+3. [Initial Exercise (20 min)](#initial-exercise-20-min)
+4. [Overview/TT I (30 min)](#overviewtt-i-30-min)
+5. [BREAK (10 min)](#break-10-min)
+6. [In Class Activity I (60 min)](#in-class-activity-i-60-min)
+7. [Wrap Up](#wrap-up)
+8. [Additional Resources / Credits](#additional-resources--credits)
 
-## Why you should know this or industry application (optional) (5 min)
+## Why You Should Know This (2 min)
 
-Explain why students should care to learn the material presented in this class.
+**Logs are everything**! Logging allows you to know what happened locally, or remotely, at any given moment in time.
 
-## Learning Objectives (5 min)
+## Learning Objectives (3 min)
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. Identify and describe how a Docker container streams its' output.
+2. Define rolling logs and their purpose.
+3. Implement your very own exception handling and logging server.
 
-## Initial Exercise (15 min)
+## Initial Exercise (20 min)
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+Read about how to [set up log rotation for a Docker container](https://medium.freecodecamp.org/how-to-setup-log-rotation-for-a-docker-container-a508093912b2) in this excellent blog post that introduces today's material!
 
-## Overview/TT I (20 min)
+## Overview/TT I (30 min)
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+Traditionally, designing and implementing centralized logging is an after-thought --- It is not until problems arise that priorities shift to a centralized logging solution to query, view, and analyze the logs so the root-cause of the problem can be found. However, in the container era, it is critical to prioritize centralized logging. As the number of micro-services deployed in containers increases, the amount of data produced by them in the form of logs (or events) exponentially increases.
 
-## In Class Activity I (30 min)
+Go through [Docker Logging Best Practices](https://success.docker.com/article/logging-best-practices) and discuss the following:
 
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
+* Understanding Docker Logging
+* Docker Logs Categories and Sources
 
-## Overview/TT II (optional) (20 min)
+Additionally, introduce [Sentry](https://sentry.io) (a real-world enterprise level exception handling and logging tool) to the class, and walk through it's features.
 
-## In Class Activity II (optional) (30 min)
+## BREAK (10 min)
 
-## Wrap Up (5 min)
+## In Class Activity I (60 min)
 
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
+One of my favorite logging and exception handling solutions, Sentry, allows developers to self-host the platform. You can make your own using [this guide](https://mikedombrowski.com/2018/03/self-hosting-sentry-with-docker-and-docker-compose/).
 
-## Additional Resources
+## Wrap Up
 
-1. Links to additional readings and videos
+- Continue working on your KataCoda exercises. We will check in on these together during next class period.
+
+## Additional Resources / Credits
+
+1. [Logging Best Practices](https://success.docker.com/article/logging-best-practices)
