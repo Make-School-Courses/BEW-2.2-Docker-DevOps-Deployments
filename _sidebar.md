@@ -8,11 +8,11 @@
   - [Container Orchestration](Lessons/Lesson5.md)
   - [Advanced Container Orchestration Techniques](Lessons/Lesson6.md)
   - [Logging Locally & Remotely](Lessons/Lesson7.md)
-  - [Lesson 8](Lessons/Lesson8.md)
-  - [Lesson 9](Lessons/Lesson9.md)
-  - [Lesson 10](Lessons/Lesson10.md)
-  - [Lesson 11](Lessons/Lesson11.md)
-  - [Lesson 12](Lessons/Lesson12.md)
+  - Lab Day
+  - DockerCon Field Trip
+  - [Persisting Data with Docker Volumes](Lessons/Lesson8.md)
+  - [Lesson 11](Lessons/Lesson9.md)
+  - [Lesson 12](Lessons/Lesson10.md)
 - **Class Resources**
   - [DevOps Dictionary](Resources/DevOpsDictionary.md)
   - [$100 Digital Ocean Credit](https://make.sc/docredit)
