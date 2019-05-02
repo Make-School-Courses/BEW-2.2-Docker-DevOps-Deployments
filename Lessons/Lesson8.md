@@ -20,8 +20,7 @@ Docker Volumes allow a developer to persist data across container launches.
 
 1. Identify and describe how a Docker Volume works.
 2. Reflect on your experiences at DockerCon.
-3. Design
-4. Implement
+3. Implement a Docker Volume in your own project.
 
 ## Initial Exercise (30 min)
 
