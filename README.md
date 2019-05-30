@@ -58,7 +58,7 @@ Students by the end of the course will be able to ...
 |  5 |  Tuesday, April 16                       | [Container Orchestration](Lessons/Lesson5.md) |
 |  6 |  Thursday, April 18                      | [Advanced Container Orchestration Techniques](Lessons/Lesson6.md) |
 |  7 |  Tuesday, April 23                       | [Logging Locally & Remotely](Lessons/Lesson7.md) |
-|  8 |  Thursday, April 25                      | [Lesson 8](Lessons/Lesson8.md) |
+|  8 |  Thursday, April 25                      | [Persisting Data with Docker Volumes](Lessons/Lesson8.md) |
 |  9 |  Tuesday, April 30                       | [Lesson 9](Lessons/Lesson9.md) |
 | 10 |  Thursday, May 2                         | [Lesson 10](Lessons/Lesson10.md) |
 | 11 |  Tuesday, May 7                          | [Lesson 11](Lessons/Lesson11.md) |
