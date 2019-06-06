@@ -35,13 +35,12 @@ Class Sessions:  14 classes, 7 labs
 
 ## Learning Outcomes
 
-Students by the end of the course will be able to ...
+By the end of this course, you will be able to ...
 
-1. Identify & Describe
-2. Explain
-3. Compare & Contrast
-4. Design & Implement
-5. Practice
+1. Build and deploy an application that utilizes container developer operations
+1. Compare and contrast when to use container or container-less developer operations
+1. Implement generic patterns of operation for both types of developer operation patterns
+1. Demonstrate proficiency for professional DevOps roles
 
 ## Schedule
 
