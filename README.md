@@ -1,18 +1,22 @@
 <p align="center">
+  <code>WIP: Updates that facilitate online course delivery will be complete on April 6, 2020.</code>
+</p>
+<hr>
+<p align="center">
   <img src="Images/docker.svg" height="150">
 </p>
 
 # Docker, DevOps, & Deployments
 
 1. [Course Description](#course-description)
-2. [Course Specifics](#course-specifics)
-3. [Prerequisites](#prerequisites)
-4. [Learning Outcomes](#learning-outcomes)
-5. [Schedule](#schedule)
-6. [Class Assignments](#class-assignments)
-7. [Evaluation](#evaluation)
-8. [Attendance](#attendance)
-9. [Make School Course Policies](#make-school-course-policies)
+1. [Course Specifics](#course-specifics)
+1. [Prerequisites](#prerequisites)
+1. [Learning Outcomes](#learning-outcomes)
+1. [Schedule](#schedule)
+1. [Class Assignments](#class-assignments)
+1. [Evaluation](#evaluation)
+1. [Attendance](#attendance)
+1. [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
 
@@ -51,18 +55,18 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Introduction to Docker & LXC](Lessons/Lesson1.md) |
-|  2 |  Thursday, April 4                       | [Getting to Know Docker](Lessons/Lesson2.md) |
-|  3 |  Tuesday, April 9                        | [Interacting With Docker Containers](Lessons/Lesson3.md) |
-|  4 |  Thursday, April 11                      | [Practical Applications of Docker](Lessons/Lesson4.md) |
-|  5 |  Tuesday, April 16                       | [Container Orchestration](Lessons/Lesson5.md) |
-|  6 |  Thursday, April 18                      | [Advanced Container Orchestration Techniques](Lessons/Lesson6.md) |
-|  7 |  Tuesday, April 23                       | [Logging Locally & Remotely](Lessons/Lesson7.md) |
-|  8 |  Thursday, April 25                      | [Lesson 8](Lessons/Lesson8.md) |
-|  9 |  Tuesday, April 30                       | [Lesson 9](Lessons/Lesson9.md) |
-| 10 |  Thursday, May 2                         | [Lesson 10](Lessons/Lesson10.md) |
-| 11 |  Tuesday, May 7                          | [Lesson 11](Lessons/Lesson11.md) |
-| 12 |  Thursday, May 9                         | [Lesson 12](Lessons/Lesson12.md) |
+|  1 |  Tuesday, April 2                        | [Introduction to Docker & LXC](Archive/2019-T4/Lessons/Lesson1.md) |
+|  2 |  Thursday, April 4                       | [Getting to Know Docker](Archive/2019-T4/Lessons/Lesson2.md) |
+|  3 |  Tuesday, April 9                        | [Interacting With Docker Containers](Archive/2019-T4/Lessons/Lesson3.md) |
+|  4 |  Thursday, April 11                      | [Practical Applications of Docker](Archive/2019-T4/Lessons/Lesson4.md) |
+|  5 |  Tuesday, April 16                       | [Container Orchestration](Archive/2019-T4/Lessons/Lesson5.md) |
+|  6 |  Thursday, April 18                      | [Advanced Container Orchestration Techniques](Archive/2019-T4/Lessons/Lesson6.md) |
+|  7 |  Tuesday, April 23                       | [Logging Locally & Remotely](Archive/2019-T4/Lessons/Lesson7.md) |
+|  8 |  Thursday, April 25                      | [Lesson 8](Archive/2019-T4/Lessons/Lesson8.md) |
+|  9 |  Tuesday, April 30                       | [Lesson 9](Archive/2019-T4/Lessons/Lesson9.md) |
+| 10 |  Thursday, May 2                         | [Lesson 10](Archive/2019-T4/Lessons/Lesson10.md) |
+| 11 |  Tuesday, May 7                          | [Lesson 11](Archive/2019-T4/Lessons/Lesson11.md) |
+| 12 |  Thursday, May 9                         | [Lesson 12](Archive/2019-T4/Lessons/Lesson12.md) |
 | 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
 | 14 |  Thursday, May 16                        | Final Exams/Presentations |
 

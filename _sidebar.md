@@ -1,26 +1,4 @@
 - **[Syllabus](README.md)**
-- **[Tutorial](https://www.katacoda.com)**
-- **Lessons**
-  - [Introduction to Docker & LXC](Lessons/Lesson1.md)
-  - [Getting to Know Docker](Lessons/Lesson2.md)
-  - [Interacting With Docker Containers](Lessons/Lesson3.md)
-  - [Practical Applications of Docker](Lessons/Lesson4.md)
-  - [Container Orchestration](Lessons/Lesson5.md)
-  - [Advanced Container Orchestration Techniques](Lessons/Lesson6.md)
-  - [Logging Locally & Remotely](Lessons/Lesson7.md)
-  - Lab Day
-  - DockerCon Field Trip
-  - [Persisting Data with Docker Volumes](Lessons/Lesson8.md)
-  - [Lesson 11](Lessons/Lesson9.md)
-  - [Lesson 12](Lessons/Lesson10.md)
-- **Class Resources**
-  - [DevOps Dictionary](Resources/DevOpsDictionary.md)
-  - [$100 Digital Ocean Credit](https://make.sc/docredit)
-  - [DevOps Roadmap 2019](Resources/Roadmap.md)
-  - [Docker from the Ground Up](Resources/DockerFromTheGroundUp.md)
-- **Community Resources**
-  - [Docker Key Concepts](https://medium.freecodecamp.org/docker-quick-start-video-tutorials-1dfc575522a0)
-    - _Video series that helps you get familiar with the basics_
-  - [Docker for Beginners](https://docker-curriculum.com)
-    -  _Guide to building/deploying distributed apps in the cloud_
-  - [Docker ROI Calculator](https://www.docker.com/roicalculator)
+- **[Gradescope](https://www.gradescope.com/courses/105262)**
+- **[Lessons](README.md#Schedule)**
+- **[Videos]()**

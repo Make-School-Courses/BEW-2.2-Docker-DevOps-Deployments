@@ -39,7 +39,7 @@ It takes a while to download and install Docker on your laptop. **Please start n
 
 ### Too Many Words, So Little Time
 
-1. **Open** up the 2019 DevOps roadmap [found here](Resources/Roadmap.md). In another tab, open the [lesson plan](Lessons/Lesson1.md) that we went over last class.
+1. **Open** up the 2019 DevOps roadmap [found here](Resources/Roadmap.md). In another tab, open the [lesson plan](Archive/2019-T4/Lessons/Lesson1.md) that we went over last class.
 2. **Read** through the roadmap/lesson plan and **write down any words, phrases, or terminology you are unfamiliar with**, or **would like to learn more about**.
 3. When you're done, **share your list with a partner**. Discuss and compare!
 4. Define as many terms as you can, starting with any terms you and your partner had in common.
