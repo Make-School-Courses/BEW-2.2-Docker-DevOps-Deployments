@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>BEW 2.2</title>
+    <title>BEW 2.2: DevOps & Deployments</title>
     <meta name="description"
       content="In this course students will learn the two main flavors of Developer Operations (DevOps), one that uses containers and one that does not. Students will learn the leading container pattern with Docker and explore the pros and cons of containers by implementing them. Students will also learn about DevOps without containers using AWS and S3 tools. The course will tie both these patterns together with generic DevOp patterns, such as environmental design, development controls, and uptime management.">
     <meta name="author" content="Dani Roxberry (dani@makeschool.com)">
-    <meta property="og:site_name" content="BEW 2.2">
-    <meta property="og:title" content="BEW 2.2">
+    <meta property="og:site_name" content="BEW 2.2: DevOps & Deployments">
+    <meta property="og:title" content="BEW 2.2: DevOps & Deployments">
     <meta property="og:description"
-      content="In this course students will learn the two main flavors of Developer Operations (DevOps), one that uses containers and one that does not. Students will learn the leading container pattern with Docker and explore the pros and cons of containers by implementing them. Students will also learn about DevOps without containers using AWS and S3 tools. The course will tie both these patterns together with generic DevOp patterns, such as environmental design, development controls, and uptime management.">
+      content="In this course students will learn the two main flavors of Developer Operations (DevOps), one that uses containers and one that does not. Students will learn the leading container pattern with Docker and explore the pros and cons of containers by implementing them. The course will tie these patterns together with generic DevOps patterns, such as environmental design, development controls, and uptime management.">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport"
@@ -80,10 +80,19 @@
           theme: 'classic', // default
           tabComments: true, // default
           tabHeadings: true // default
-        }
+        },
+        pagination: {
+          previousText: 'Previous Module',
+          nextText: 'Next Module',
+          crossChapter: true,
+          crossChapterText: true
+        },
+        requestHeaders: {
+          'cache-control': 'max-age=600'
+        },
       }
     </script>
-    <script src="//unpkg.com/docsify-themeable"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
@@ -91,29 +100,16 @@
     <script src="//unpkg.com/docsify-copy-code@2"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+
+    <!-- https://gbodigital.github.io/docsify-gifcontrol/#/options  -->
+    <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
     <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-csharp.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-css.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-docker.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-diff.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-git.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-go.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-graphql.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-handlebars.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-ini.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-javascript.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-pug.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-protobuf.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-ruby.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-sass.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-scss.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-sql.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-swift.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-typescript.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
     <script>
       if (typeof navigator.serviceWorker !== 'undefined') {

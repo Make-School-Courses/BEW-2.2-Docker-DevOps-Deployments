@@ -1,7 +1,4 @@
-<p align="center">
-  <code>WIP: Updates that facilitate online course delivery will be complete on April 6, 2020.</code>
-</p>
-<hr>
+
 <p align="center">
   <img src="Images/docker.svg" height="150">
 </p>

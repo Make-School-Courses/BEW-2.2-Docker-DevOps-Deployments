@@ -1,3 +1,4 @@
 * **[Syllabus](README.md)**
-* **[Gradescope](https://www.gradescope.com/courses/105262)**
+* **[Schedule](README.md#Schedule)**
+* **[Gradescope](https://make.sc/trackbew2.2)**
 * [Make School](https://www.makeschool.com)

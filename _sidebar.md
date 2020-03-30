@@ -1,4 +1,4 @@
 - **[Syllabus](README.md)**
-- **[Gradescope](https://www.gradescope.com/courses/105262)**
-- **[Lessons](README.md#Schedule)**
-- **[Videos]()**
+- **Modules**
+  - [Course Orientation](Lessons/01-CourseOrientation.md)
+  - [DNS](Lessons/02-DNS.md)
