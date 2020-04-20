@@ -6,13 +6,11 @@
 # Docker, DevOps, & Deployments
 
 1. [Course Description](#course-description)
-1. [Course Specifics](#course-specifics)
 1. [Prerequisites](#prerequisites)
 1. [Learning Outcomes](#learning-outcomes)
 1. [Schedule](#schedule)
 1. [Class Assignments](#class-assignments)
 1. [Evaluation](#evaluation)
-1. [Attendance](#attendance)
 1. [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
@@ -47,7 +45,7 @@ By the end of this course, you will be able to ...
 |  4 |   Wed, April 8                         | [Practical Applications of Docker](Archive/2019-T4/Lessons/Lesson4.md) |
 |  5 |   Mon, April 13                        | [Container Orchestration](Archive/2019-T4/Lessons/Lesson5.md) |
 |  6 |   Wed, April 15                        | [Advanced Container Orchestration Techniques](Archive/2019-T4/Lessons/Lesson6.md) |
-|  7 |   Mon, April 20                        | [Logging Locally & Remotely](Archive/2019-T4/Lessons/Lesson7.md) |
+|  7 |   Mon, April 20                        | [Docker Concepts in Practice](Lessons/07-Dockerfiles.md) |
 |  8 |   Wed, April 22                        | [Lesson 8](Archive/2019-T4/Lessons/Lesson8.md) |
 |  9 |   Mon, April 27                        | [Lesson 9](Archive/2019-T4/Lessons/Lesson9.md) |
 | 10 |   Wed, April 29                        | [Lesson 10](Archive/2019-T4/Lessons/Lesson10.md) |
@@ -83,7 +81,7 @@ To pass this course you must meet the following requirements:
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
