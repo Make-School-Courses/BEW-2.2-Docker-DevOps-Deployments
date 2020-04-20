@@ -3,10 +3,11 @@
 
 <!-- > -->
 
-### ➡️ Table of Contents
+<!-- omit in toc -->
+## ➡️ Table of Contents
 
 1. [🏆 Objectives](#%f0%9f%8f%86-objectives)
-1. [📦 Terminology](#%f0%9f%93%a6-terminology)
+1. [🎓 Terminology](#%f0%9f%8e%93-terminology)
 1. [👩‍🏫 [15m] Instructor: Recap](#%f0%9f%91%a9%e2%80%8d%f0%9f%8f%ab-15m-instructor-recap)
 1. [💻 [20m] Instructor: Demo](#%f0%9f%92%bb-20m-instructor-demo)
 1. [📚 Resources](#%f0%9f%93%9a-resources)
@@ -21,7 +22,7 @@
 
 <!-- > -->
 
-## 📦 Terminology
+## 🎓 Terminology
 
 _Copy the blank markdown table below, then paste it into your notes._
 
@@ -72,31 +73,20 @@ A `Dockerfile` is distributed with the majority of Open Source projects to ensur
 
 ## 💻 [20m] Instructor: Demo
 
-1. **Creating a Dockerfile**
+🌟 **GOAL**: Demonstrate creating a new `Dockerfile` from start to finish:
 
-   ```bash
-   cd my-project-dir
-   touch Dockerfile
-   code .
-   ```
-
-1. **Building and Testing a Dockerfile**
-
-   ```bash
-   docker build .
-   ```
-
-1. **Running a Dockerfile**
-
-   ```bash
-    docker run .
-   ```
+1. Follow the instructions in [make-school-labs/docker-starter](https://github.com/make-school-labs/docker-starter) repo
+1. Use Alpine Linux as the base.
+1. Install the `fortune` package.
+1. Run the `fortune` command.
+1. Build container via `docker build .`
+1. Run container via `docker run .`
 
 <!-- > -->
 
 ## 📚 Resources
 
-`TODO`
+
 
 <!-- > -->
 
