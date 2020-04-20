@@ -29,19 +29,19 @@
 
 ### Buying the Premise
 
-<p align="center"><img src="Images/bork-why.jpg"></p>
+<p align="center"><img src="https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/Lessons/Images/bork-why.jpg"></p>
 
 ### Why We Use Containers
 
-<p align="center"><img src="Images/bork-dependency.jpg"></p>
+<p align="center"><img src="https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/Lessons/Images/bork-dependency.jpg"></p>
 
 ### Containers Are Made of Layers
 
-<p align="center"><img src="Images/bork-images.jpg"></p>
+<p align="center"><img src="https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/Lessons/Images/bork-images.jpg"></p>
 
 ### 1 Line in Dockerfile = 1 Layer
 
-<p align="center"><img src="Images/bork-layers.jpg"></p>
+<p align="center"><img src="https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/Lessons/Images/bork-layers.jpg"></p>
 
 `TODO`
 
