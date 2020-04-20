@@ -1,4 +1,4 @@
 - **[Syllabus](README.md)**
-- **Modules**
-  - [Course Orientation](Lessons/01-CourseOrientation.md)
-  - [DNS](Lessons/02-DNS.md)
+- **[Trello](https://make.sc/bew2.2-planner)**
+- **[Gradescope](https://www.gradescope.com/courses/105262)**
+- **[Lessons](README.md#Schedule)**
