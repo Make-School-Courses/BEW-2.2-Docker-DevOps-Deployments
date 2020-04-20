@@ -9,7 +9,8 @@
 
 ## 🏆 Objectives
 
-`TODO`
+1. Expand existing knowledge of common bash commands.
+1. Create a `Dockerfile` that installs a dependency and runs several bash commands.
 
 <!--
 |   Level   | Verbs |
@@ -24,11 +25,23 @@
 
 <!-- > -->
 
-## 👩‍🏫 Overview
+## 👩‍🏫 TT - Docker: From Concept to Practice
 
-<!-- v -->
+### Buying the Premise
 
-### Practical Docker
+<p align="center"><img src="Images/bork-why.jpg"></p>
+
+### Why We Use Containers
+
+<p align="center"><img src="Images/bork-dependency.jpg"></p>
+
+### Containers Are Made of Layers
+
+<p align="center"><img src="Images/bork-images.jpg"></p>
+
+### 1 Line in Dockerfile = 1 Layer
+
+<p align="center"><img src="Images/bork-layers.jpg"></p>
 
 `TODO`
 
@@ -42,4 +55,4 @@
 
 ## 🙏 Credits
 
-`TODO`
+- [Julia Evans (@bork)](https://twitter.com/b0rk): _Photo credit for comics used in lesson plan._
