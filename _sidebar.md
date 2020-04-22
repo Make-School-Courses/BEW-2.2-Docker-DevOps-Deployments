@@ -1,4 +1,7 @@
-- **[Syllabus](README.md)**
-- **[Trello](https://make.sc/bew2.2-planner)**
-- **[Gradescope](https://www.gradescope.com/courses/105262)**
-- **[Lessons](README.md#Schedule)**
+- 📋 **[Syllabus](README.md)**
+- 🎯 **[Trello](https://make.sc/bew2.2-planner)**
+- ✅ **[Gradescope](https://www.gradescope.com/courses/105262)**
+- 📚 **[Lessons](README.md#Schedule)**
+    - [Docker in Practice](Lessons/07-Dockerfiles.md)
+    - [Deploying Web Servers](Lessons/08-WebServers.md)
+- ⭐️ **[Final Project](Projects/FinalProject.md)**

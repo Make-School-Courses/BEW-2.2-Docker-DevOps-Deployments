@@ -10,8 +10,7 @@
 1. [🎓 Terminology](#%f0%9f%8e%93-terminology)
 1. [👩‍🏫 [15m] Instructor: Recap](#%f0%9f%91%a9%e2%80%8d%f0%9f%8f%ab-15m-instructor-recap)
 1. [💻 [20m] Instructor: Demo](#%f0%9f%92%bb-20m-instructor-demo)
-1. [📚 Resources](#%f0%9f%93%9a-resources)
-1. [🙏 Credits](#%f0%9f%99%8f-credits)
+1. [� Credits](#%f0%9f%99%8f-credits)
 
 <!-- > -->
 
@@ -84,9 +83,7 @@ A `Dockerfile` is distributed with the majority of Open Source projects to ensur
 
 <!-- > -->
 
-## 📚 Resources
-
-
+<!-- ## 📚 Resources -->
 
 <!-- > -->
 

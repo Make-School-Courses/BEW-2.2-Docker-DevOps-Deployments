@@ -19,8 +19,8 @@ In this course students will learn the two main flavors of Developer Operations 
 
 ## Prerequisites
 
-- [BEW1.1](https://make.sc/bew1-1)
-- [BEW1.2](https://make.sc/bew1-2)
+- [BEW 1.1](https://make.sc/bew1-1)
+- [BEW 1.2](https://make.sc/bew1-2)
 
 ## Learning Outcomes
 
@@ -34,47 +34,39 @@ By the end of this course, you will be able to ...
 ## Schedule
 
 **Course Dates:** Monday, March 30 – Wednesday, May 13, 2020 (7 weeks)
-
 **Class Times:** Monday and Wednesday at 2:30–5:15pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
+|:-----:|:----------------------:|:---------------------------------------|
 |  1 |   Mon, March 30                        | [Introduction to Docker & LXC](Archive/2019-T4/Lessons/Lesson1.md) |
 |  2 |   Wed, April 1                         | [Getting to Know Docker](Archive/2019-T4/Lessons/Lesson2.md) |
 |  3 |   Mon, April 6                         | [Interacting With Docker Containers](Archive/2019-T4/Lessons/Lesson3.md) |
 |  4 |   Wed, April 8                         | [Practical Applications of Docker](Archive/2019-T4/Lessons/Lesson4.md) |
 |  5 |   Mon, April 13                        | [Container Orchestration](Archive/2019-T4/Lessons/Lesson5.md) |
 |  6 |   Wed, April 15                        | [Advanced Container Orchestration Techniques](Archive/2019-T4/Lessons/Lesson6.md) |
-|  7 |   Mon, April 20                        | [Docker Concepts in Practice](Lessons/07-Dockerfiles.md) |
-|  8 |   Wed, April 22                        | [Lesson 8](Archive/2019-T4/Lessons/Lesson8.md) |
-|  9 |   Mon, April 27                        | [Lesson 9](Archive/2019-T4/Lessons/Lesson9.md) |
-| 10 |   Wed, April 29                        | [Lesson 10](Archive/2019-T4/Lessons/Lesson10.md) |
-| 11 |   Mon, May 4                           | [Lesson 11](Archive/2019-T4/Lessons/Lesson11.md) |
-| 12 |   Wed, May 6                           | [Lesson 12](Archive/2019-T4/Lessons/Lesson12.md) |
-| 13 |   Mon, May 11                          | Final Class (presentations, etc) |
-| 14 |   Wed, May 13                          | Final Exams/Presentations |
+|  7 |   Mon, April 20                        | 🆕 [Docker Concepts in Practice](Lessons/07-Dockerfiles.md) |
+|  8 |   Wed, April 22                        | 🆕 [Deploying Web Servers / Project Kickoff](Lessons/08-WebServers.md) |
+|  9 |   Mon, April 27                        | 🆕 [Docker Compose](Archive/2019-T4/Lessons/09-Compose.md) |
+| 10 |   Wed, April 29                        | 🆕 [Personal PaaS Review](Archive/2019-T4/Lessons/10-PaaS.md) |
+| 11 |   Mon, May 4                           | 🆕 [SSH, SSL, & HTTPS](Archive/2019-T4/Lessons/11-Security.md) |
+| 12 |   Wed, May 6                           | [🆕 TBD: Day 12]() |
+| 13 |   Mon, May 11                          | **Lab**: [Project / Blog / Presentation](Projects/FinalProject.md#Deliverables) |
+| 14 |   Wed, May 13                          | [Final Presentations](Projects/FinalProject.md#Presentation)  |
 
 ## Class Assignments
 
 ### Tutorials
 
-Complete **all 22 scenarios on [KataKoda](https://www.katacoda.com/courses/docker) to pass the course**.
-
-### Final Exam
-
-- **Passing the exam is a requirement for passing the class.**
-- If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
+Complete **all 5 tutorials on our course [Trello Board](https://make.sc/bew2.2-planner) to pass the course**.
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment >=75%
+- Pass the final project according to the rubric
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-
 
 ## Make School Course Policies
 
