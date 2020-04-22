@@ -1,7 +1,8 @@
-# 🐳 Module 1: Course Orientation
+# 🐳 Course Orientation
 
 1. [[**10m**] 👩‍🏫 Course Overview](#10m-%f0%9f%91%a9%e2%80%8d%f0%9f%8f%ab-course-overview)
 1. [[**20m**] 👥 Syllabus Scavenger Hunt](#20m-%f0%9f%91%a5-syllabus-scavenger-hunt)
+   1. [Purpose](#purpose)
 
 ## [**10m**] 👩‍🏫 Course Overview
 

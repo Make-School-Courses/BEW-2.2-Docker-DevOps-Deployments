@@ -40,8 +40,8 @@ By the end of this course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------|
-|  1 |   Mon, March 30                        | [Introduction to Docker & LXC](Archive/2019-T4/Lessons/Lesson1.md) |
-|  2 |   Wed, April 1                         | [Getting to Know Docker](Archive/2019-T4/Lessons/Lesson2.md) |
+|  1 |   Mon, March 30                        | [Course Orientation](Lessons/01-CourseOrientation.md) |
+|  2 |   Wed, April 1                         | [DNS & Domain Names](Lessons/02-DNS.md) |
 |  3 |   Mon, April 6                         | [Interacting With Docker Containers](Archive/2019-T4/Lessons/Lesson3.md) |
 |  4 |   Wed, April 8                         | [Practical Applications of Docker](Archive/2019-T4/Lessons/Lesson4.md) |
 |  5 |   Mon, April 13                        | [Container Orchestration](Archive/2019-T4/Lessons/Lesson5.md) |
@@ -51,7 +51,7 @@ By the end of this course, you will be able to ...
 |  9 |   Mon, April 27                        | 🆕 [Docker Compose](Lessons/09-Compose.md) |
 | 10 |   Wed, April 29                        | 🆕 [Personal PaaS Review](Lessons/10-PaaS.md) |
 | 11 |   Mon, May 4                           | 🆕 [SSH, SSL, & HTTPS](Lessons/11-Security.md) |
-| 12 |   Wed, May 6                           | [🆕 TBD: Day 12]() |
+| 12 |   Wed, May 6                           | [🆕 [Docker Swarm](Lessons/12-Swarm.md) |
 | 13 |   Mon, May 11                          | **Lab**: [Project / Blog / Presentation](Projects/FinalProject.md#Deliverables) |
 | 14 |   Wed, May 13                          | [Final Presentations](Projects/FinalProject.md#Presentation)  |
 

@@ -1,4 +1,4 @@
-# 🐳 DNS & Domain Names
+# 🐳 Docker Swarm
 
 <!-- omit in toc -->
 ## ⏱ Agenda

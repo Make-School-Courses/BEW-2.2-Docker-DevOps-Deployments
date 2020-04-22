@@ -1,7 +1,13 @@
 
 - 📋 **[Syllabus](README.md)**
 - 📚 **Lessons**
+  - [Course Orientation](Lessons/01-CourseOrientation.md)
+  - [DNS & Domain Names](Lessons/02-DNS.md)
   - [Docker in Practice](Lessons/07-Dockerfiles.md)
   - [Deploying Web Servers](Lessons/08-WebServers.md)
+  - [Docker Compose](Lessons/09-Compose.md)
+  - [Personal PaaS _(DigitalOcean)_](Lessons/10-PaaS.md)
+  - [SSH, SSL, & HTTPS](Lessons/11-Security.md)
+  - [Docker Swarm](Lessons/12-Swarm.md)
 - ⭐️ **[Final Project](Projects/FinalProject.md)**
 - 🆕 **[Project Starter Code](https://github.com/make-school-labs/docker-starter)**

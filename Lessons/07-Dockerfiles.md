@@ -3,7 +3,7 @@
 <!-- > -->
 
 <!-- omit in toc -->
-## ➡️ Agenda
+## ⏱ Agenda
 
 1. [🏆 Objectives](#%f0%9f%8f%86-objectives)
 1. [🎓 Terminology](#%f0%9f%8e%93-terminology)
