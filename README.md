@@ -35,7 +35,7 @@ By the end of this course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, March 30 – Wednesday, May 13, 2020 (7 weeks)
+**Course Dates:** Monday, March 30 – Wednesday, May 13, 2020 (7 weeks)<BR>
 **Class Times:** Monday and Wednesday at 2:30–5:15pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
