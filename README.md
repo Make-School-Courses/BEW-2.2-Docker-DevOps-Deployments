@@ -10,6 +10,8 @@
 1. [Learning Outcomes](#learning-outcomes)
 1. [Schedule](#schedule)
 1. [Class Assignments](#class-assignments)
+   1. [Tutorials](#tutorials)
+   1. [Final Project](#final-project)
 1. [Evaluation](#evaluation)
 1. [Make School Course Policies](#make-school-course-policies)
 
@@ -58,6 +60,26 @@ By the end of this course, you will be able to ...
 ### Tutorials
 
 Complete **all 5 tutorials on our course [Trello Board](https://make.sc/bew2.2-planner) to pass the course**.
+
+### Final Project
+
+_All submissions are due at **11:59pm** unless otherwise specified._
+
+#### 1️⃣ Proposal: Due 4/27 @ 2:30pm
+
+🔗 Submit your **[Proposal Repo Link](https://www.gradescope.com/courses/105262/assignments/467884)** on Gradescope.
+
+#### 2️⃣ Repository: Due 5/13
+
+🔗 Submit your **[Finished GitHub Repository](https://www.gradescope.com/courses/105262/assignments/428249)** on Gradescope.
+
+#### 3️⃣ Presentation: Due 5/13
+
+🔗 Submit your **[Presentation Link](https://www.gradescope.com/courses/105262/assignments/462693)** on Gradescope.
+
+#### 4️⃣ Blog Post: Due 5/13
+
+🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/105262/assignments/467890)** on Gradescope.
 
 ## Evaluation
 
