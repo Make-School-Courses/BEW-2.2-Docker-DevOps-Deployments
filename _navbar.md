@@ -1,5 +1,3 @@
-* **[Project Starter Pack](https://github.com/make-school-labs/docker-starter)**
-* **[Syllabus](README.md)**
-* **[Trello](https://make.sc/bew2.2-planner)**
+* **[Trello Board](https://make.sc/bew2.2-planner)**
 * **[Gradescope](https://make.sc/trackbew2.2)**
 * [Make School](https://www.makeschool.com)

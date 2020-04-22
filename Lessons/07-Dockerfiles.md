@@ -1,16 +1,19 @@
-<!-- .slide: data-background="./../Slides/images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
-# 🐳 Day 7: Docker Concepts in Practice
+# 🐳 Docker Concepts in Practice
 
 <!-- > -->
 
 <!-- omit in toc -->
-## ➡️ Table of Contents
+## ➡️ Agenda
 
 1. [🏆 Objectives](#%f0%9f%8f%86-objectives)
 1. [🎓 Terminology](#%f0%9f%8e%93-terminology)
 1. [👩‍🏫 [15m] Instructor: Recap](#%f0%9f%91%a9%e2%80%8d%f0%9f%8f%ab-15m-instructor-recap)
+   1. [The Purpose of Containers](#the-purpose-of-containers)
+   1. [Distribute Everything You Need to Run a Codebase](#distribute-everything-you-need-to-run-a-codebase)
+   1. [Images Are Made of Layers](#images-are-made-of-layers)
+   1. [1 Line of Code in Dockerfile = 1 Layer in Image](#1-line-of-code-in-dockerfile--1-layer-in-image)
 1. [💻 [20m] Instructor: Demo](#%f0%9f%92%bb-20m-instructor-demo)
-1. [� Credits](#%f0%9f%99%8f-credits)
+1. [🙏 Credits](#%f0%9f%99%8f-credits)
 
 <!-- > -->
 

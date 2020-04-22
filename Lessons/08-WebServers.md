@@ -1,22 +1,17 @@
-# Day 8: Dockerizing Web Applications
-
-<!-- .slide: data-background="./../Slides/images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
-# 📜 Day #: Title
-
-<p align="center"><a href="https://make-school-courses.github.io/REPO_NAME/Slides/00-LESSON_NAME" title="Slides" target="_blank"><strong>Slides</strong></a></p>
+# 🐳 Dockerizing Web Applications
 
 <!-- > -->
 
 ### ⏱ Agenda
 
 1. [🏆 Objectives](#%f0%9f%8f%86-objectives)
-1. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 1. [[**40m**] 🔭 Lab: Work on Assignment](#40m-%f0%9f%94%ad-lab-work-on-assignment)
 1. [[**30m**] 📖 Overview: Docker + Web Frameworks](#30m-%f0%9f%93%96-overview-docker--web-frameworks)
 1. [[**15m**] 😎 Break](#15m-%f0%9f%98%8e-break)
 1. [[**30m**] ⏺ Live Code: Run Flask With Docker](#30m-%e2%8f%ba-live-code-run-flask-with-docker)
 1. [[**20m**] 💻 Kickoff: Final Project](#20m-%f0%9f%92%bb-kickoff-final-project)
 1. [[**40m**] 🔭 Lab: Project Kickoff](#40m-%f0%9f%94%ad-lab-project-kickoff)
+1. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 <!-- > -->
 
@@ -25,12 +20,6 @@
 1. Build upon skills introduced last class.
 1. `EXPOSE`, `ENTRYPOINT`
 1. Create a `Dockerfile` for a Flask application.
-
-<!-- > -->
-
-## 📚 Resources & Credits
-
-`TODO`
 
 <!-- > -->
 
@@ -82,7 +71,7 @@ Dani will be available on Zoom for questions.
 
 ## [**20m**] 💻 Kickoff: Final Project
 
-`TODO`
+Walk through the [Final Project](https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/#/Projects/FinalProject) documentation with students.
 
 <!-- > -->
 
@@ -94,3 +83,7 @@ Dani will approve submissions or give feedback via Gradescope by Wednesday (04/2
 
 <!-- > -->
 
+
+## 📚 Resources & Credits
+
+`TODO`
