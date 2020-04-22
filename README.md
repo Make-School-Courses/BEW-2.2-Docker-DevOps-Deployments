@@ -46,9 +46,9 @@ By the end of this course, you will be able to ...
 |  6 |   Wed, April 15                        | [Advanced Container Orchestration Techniques](Archive/2019-T4/Lessons/Lesson6.md) |
 |  7 |   Mon, April 20                        | 🆕 [Docker Concepts in Practice](Lessons/07-Dockerfiles.md) |
 |  8 |   Wed, April 22                        | 🆕 [Deploying Web Servers / Project Kickoff](Lessons/08-WebServers.md) |
-|  9 |   Mon, April 27                        | 🆕 [Docker Compose](Archive/2019-T4/Lessons/09-Compose.md) |
-| 10 |   Wed, April 29                        | 🆕 [Personal PaaS Review](Archive/2019-T4/Lessons/10-PaaS.md) |
-| 11 |   Mon, May 4                           | 🆕 [SSH, SSL, & HTTPS](Archive/2019-T4/Lessons/11-Security.md) |
+|  9 |   Mon, April 27                        | 🆕 [Docker Compose](Lessons/09-Compose.md) |
+| 10 |   Wed, April 29                        | 🆕 [Personal PaaS Review](Lessons/10-PaaS.md) |
+| 11 |   Mon, May 4                           | 🆕 [SSH, SSL, & HTTPS](Lessons/11-Security.md) |
 | 12 |   Wed, May 6                           | [🆕 TBD: Day 12]() |
 | 13 |   Mon, May 11                          | **Lab**: [Project / Blog / Presentation](Projects/FinalProject.md#Deliverables) |
 | 14 |   Wed, May 13                          | [Final Presentations](Projects/FinalProject.md#Presentation)  |
