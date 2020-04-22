@@ -15,9 +15,11 @@
 | `docker` | **Develop a `Dockerfile` or `docker-compose.yml` file** that successfully deploys a web application or open source project. |
 | `deployment` | **Deploy the container** to your cloud production server. |
 | `devops` | **Monitor the deployed application's uptime** using a health check. |
-| `job prep` | **Demonstrate confidence writing and speaking** about Docker, DevOps, and deployment topics. |
+| `interview` /<br>`job prep` | **Demonstrate confidence writing and speaking** about Docker, DevOps, and deployment topics. |
 
 ## 📋 Project Description
+
+`TODO`
 
 ## 🗓 Deliverables & Due Dates
 
