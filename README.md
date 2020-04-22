@@ -77,7 +77,7 @@ _All submissions are due at **11:59pm** unless otherwise specified._
 
 🔗 Submit your **[Presentation Link](https://www.gradescope.com/courses/105262/assignments/462693)** on Gradescope.
 
-#### 4️⃣ Blog Post: Due 5/13
+#### 4️⃣ Blog Post: Due 5/15
 
 🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/105262/assignments/467890)** on Gradescope.
 

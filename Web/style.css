@@ -74,6 +74,10 @@ body {
   white-space: nowrap;
 }
 
+.sidebar ul li strong {
+  display: inline-block;
+}
+
 .sidebar ul li strong a {
   font-weight: 700;
 }
