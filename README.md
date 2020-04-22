@@ -73,7 +73,7 @@ Complete **all 5 tutorials on our course [Trello Board](https://make.sc/bew2.2-p
 
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials
+- Complete all required tutorials and in-class assignments listed on Gradescope
 - Pass the final project according to the rubric
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
