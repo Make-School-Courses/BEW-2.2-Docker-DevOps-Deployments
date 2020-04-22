@@ -76,6 +76,7 @@ body {
 
 .sidebar ul li strong {
   display: inline-block;
+  vertical-align: middle;
 }
 
 .sidebar ul li strong a {
