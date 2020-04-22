@@ -88,5 +88,9 @@ Dani will be available on Zoom for questions.
 
 ## [**40m**] 🔭 Lab: Project Kickoff
 
+Submit your [Proposal Repo Link](https://www.gradescope.com/courses/105262/assignments/467884) on Gradescope by Monday (04/27) at 2:30pm.
+
+Dani will approve submissions or give feedback via Gradescope by Wednesday (04/29) at 2:30pm.
+
 <!-- > -->
 
