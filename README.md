@@ -51,7 +51,7 @@ By the end of this course, you will be able to ...
 |  9 |   Mon, April 27                        | 🆕 [Docker Compose](Lessons/09-Compose.md) |
 | 10 |   Wed, April 29                        | 🆕 [Personal PaaS Review](Lessons/10-PaaS.md) |
 | 11 |   Mon, May 4                           | 🆕 [SSH, SSL, & HTTPS](Lessons/11-Security.md) |
-| 12 |   Wed, May 6                           | [🆕 [Docker Swarm](Lessons/12-Swarm.md) |
+| 12 |   Wed, May 6                           | 🆕 [Docker Swarm](Lessons/12-Swarm.md) |
 | 13 |   Mon, May 11                          | **Lab**: [Project / Blog / Presentation](Projects/FinalProject.md#Deliverables) |
 | 14 |   Wed, May 13                          | [Final Presentations](Projects/FinalProject.md#Presentation)  |
 
@@ -63,23 +63,11 @@ Complete **all 5 tutorials on our course [Trello Board](https://make.sc/bew2.2-p
 
 ### Final Project
 
-_All submissions are due at **11:59pm** unless otherwise specified._
+**See the [Requirements Document](Projects/FinalProject.md) to learn more about the project, including**:
 
-#### 1️⃣ Proposal: Due 4/27 @ 2:30pm
-
-🔗 Submit your **[Proposal Repo Link](https://www.gradescope.com/courses/105262/assignments/467884)** on Gradescope.
-
-#### 2️⃣ Repository: Due 5/13
-
-🔗 Submit your **[Finished GitHub Repository](https://www.gradescope.com/courses/105262/assignments/428249)** on Gradescope.
-
-#### 3️⃣ Presentation: Due 5/13
-
-🔗 Submit your **[Presentation Link](https://www.gradescope.com/courses/105262/assignments/462693)** on Gradescope.
-
-#### 4️⃣ Blog Post: Due 5/15
-
-🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/105262/assignments/467890)** on Gradescope.
+- [Goals & Objectives](Projects/FinalProject#%e2%ad%90%ef%b8%8f-project-goals)
+- [Description & Specifications](Projects/FinalProject#%f0%9f%93%8b-project-description)
+- [Deliverables & Due Dates](Projects/FinalProject#%f0%9f%97%93-deliverables--due-dates)
 
 ## Evaluation
 
