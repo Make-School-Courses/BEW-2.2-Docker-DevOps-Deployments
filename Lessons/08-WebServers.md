@@ -48,16 +48,7 @@ Dani will be available on Zoom for questions.
 
 ### Demo Code
 
-<details><summary><strong>CODE</strong><em>&nbsp;&nbsp;&nbsp;&nbsp;[ click to toggle ]</em></summary>
-<p>
-
-```bash
-# TODO
-```
-
-</p></details><br>
-
-<!-- > -->
+View the demo code on Github at [droxey/docker-flask](https://github.com/droxey/docker-flask).
 
 ## [**20m**] 💻 Kickoff: Final Project
 
