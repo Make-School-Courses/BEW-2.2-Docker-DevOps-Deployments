@@ -112,7 +112,7 @@ We'll use a repo I created, [droxey/docker-django](https://github.com/droxey/doc
 2. **Add the following configuration to the file.**
 
    ```yaml
-     version: '3.8'
+     version: '3.7'
 
      services:
        db:
@@ -196,8 +196,8 @@ We'll use a repo I created, [droxey/docker-django](https://github.com/droxey/doc
 
       ```bash
       Gracefully stopping... (press Ctrl+C again to force)
-      Killing test_web_1 ... done
-      Killing test_db_1 ... done
+      Stopping docker-django_web_1 ... done
+      Stopping docker-django_db_1  ... done
       ```
 
   - Or, for a more elegant shutdown, switch to a different shell, and run [docker-compose down](https://docs.docker.com/compose/reference/down/)from the top level of your Django sample project directory.
