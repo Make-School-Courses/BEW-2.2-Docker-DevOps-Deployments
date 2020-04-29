@@ -12,6 +12,10 @@
    1. [Compose Commands](#compose-commands)
 1. [[**15m**] 😎 Break](#15m-%f0%9f%98%8e-break)
 1. [[**20m**] ⏺ Live Code: Compose & Django](#20m-%e2%8f%ba-live-code-compose--django)
+   1. [Step 1: Define Project Components](#step-1-define-project-components)
+   1. [Step 2: Connect Database](#step-2-connect-database)
+   1. [Step 3: Run Compose](#step-3-run-compose)
+   1. [Other Commands](#other-commands)
 1. [[**60m**] 🔭 Lab](#60m-%f0%9f%94%ad-lab)
 
 <!-- omit in toc -->
@@ -95,6 +99,109 @@ Use this handy [DevHints.io cheatsheet](https://devhints.io/docker-compose) anyt
 
 **GOAL**: See how to use docker-compose in real life through a live code demonstration that walks you through the following tutorial: [Quickstart: Compose and Django](https://docs.docker.com/compose/django/).
 
+We'll use a repo I created, [droxey/docker-django](https://github.com/droxey/docker-django), as the starting point for this demonstration.
+
+#### Compose and Django
+
+### Step 1: Define Project Components
+
+1. **Create a file called `docker-compose.yml` in your project directory.**
+
+   The `docker-compose.yml` file describes the services that make your app. In this example those services are a web server and database. The compose file also describes which Docker images these services use, how they link together, any volumes they might need mounted inside the containers. Finally, the `docker-compose.yml` file describes which ports these services expose. See the [`docker-compose.yml` reference](https://docs.docker.com/compose/compose-file/) for more information on how this file works.
+
+2. **Add the following configuration to the file.**
+
+   ```yaml
+     version: '3.8'
+
+     services:
+       db:
+         image: postgres
+         environment:
+           - POSTGRES_DB=postgres
+           - POSTGRES_USER=postgres
+           - POSTGRES_PASSWORD=postgres
+       web:
+         build: .
+         command: python manage.py runserver 0.0.0.0:8000
+         volumes:
+           - .:/code
+         ports:
+           - "8000:8000"
+         depends_on:
+           - db
+   ```
+
+   This file defines two services: The `db` service and the `web` service.
+
+3. Save and close the `docker-compose.yml` file.
+
+### Step 2: Connect Database
+
+1. Edit the `project/settings.py` file.
+
+2. Replace the `DATABASES = ...` with the following:
+
+   ```python
+   # settings.py
+
+   DATABASES = {
+       'default': {
+           'ENGINE': 'django.db.backends.postgresql',
+           'NAME': 'postgres',
+           'USER': 'postgres',
+           'PASSWORD': 'postgres',
+           'HOST': 'db',
+           'PORT': 5432,
+       }
+   }
+   ```
+
+   These settings are determined by the [postgres](https://hub.docker.com/_/postgres) Docker image specified in `docker-compose.yml`.
+
+3. Save and close the file.
+
+### Step 3: Run Compose
+
+1. Run the [docker-compose up](https://docs.docker.com/compose/reference/up/) command from the top level directory for your project.
+
+2. Go to `http://localhost:8000` on a web browser to see the Hello World page!
+
+   > **Note**:
+   >
+   > On certain platforms (Windows 10), you might need to edit `ALLOWED_HOSTS` inside `settings.py` and add your Docker host name or IP address to the list. For demo purposes, you can set the value to:
+   >
+   > ```python
+   >   ALLOWED_HOSTS = ['*']
+   > ```
+   >
+   > This value is **not** safe for production usage. Refer to the [Django documentation](https://docs.djangoproject.com/en/1.11/ref/settings/#allowed-hosts) for more information.
+
+### Other Commands
+
+- **List running containers.**
+
+   In another terminal window, list the running Docker processes with the `docker container ls` command.
+
+   ```bash
+   $ docker ps
+   CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                    NAMES
+   def85eff5f51        django_web          "python3 manage.py..."   10 minutes ago      Up 9 minutes        0.0.0.0:8000->8000/tcp   django_web_1
+   678ce61c79cc        postgres            "docker-entrypoint..."   20 minutes ago      Up 9 minutes        5432/tcp                 django_db_1
+   ```
+
+- **Shut down services and clean up** by using either of these methods:
+
+  - Stop the application by typing `Ctrl-C` in the same shell in where you started it:
+
+      ```bash
+      Gracefully stopping... (press Ctrl+C again to force)
+      Killing test_web_1 ... done
+      Killing test_db_1 ... done
+      ```
+
+  - Or, for a more elegant shutdown, switch to a different shell, and run [docker-compose down](https://docs.docker.com/compose/reference/down/)from the top level of your Django sample project directory.
+
 ## [**60m**] 🔭 Lab
 
 - Complete [**Tutorial 5: Orchestration Hands-On Lab**](https://training.play-with-docker.com/orchestration-hol) and turn it in on [Gradescope](https://www.gradescope.com/courses/105262/assignments/421698).
@@ -106,3 +213,4 @@ Use this handy [DevHints.io cheatsheet](https://devhints.io/docker-compose) anyt
 ## 📚 Resources & Credits
 
 - [YAML Validator](https://codebeautify.org/yaml-validator): Use this tool to make sure your YAML syntax is valid.
+- [Quickstart: Compose & Django](https://docs.docker.com/compose/django/): Today's live code activity modifies this example!
