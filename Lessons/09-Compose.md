@@ -97,6 +97,8 @@ Use this handy [DevHints.io cheatsheet](https://devhints.io/docker-compose) anyt
 
 ## [**20m**] ⏺ Live Code: Compose & Django
 
+**USE CASE**: You need to run Django with a database locally.
+
 **GOAL**: See how to use docker-compose in real life through a live code demonstration that walks you through the following tutorial: [Quickstart: Compose and Django](https://docs.docker.com/compose/django/).
 
 We'll use a repo I created, [droxey/docker-django](https://github.com/droxey/docker-django), as the starting point for this demonstration.
