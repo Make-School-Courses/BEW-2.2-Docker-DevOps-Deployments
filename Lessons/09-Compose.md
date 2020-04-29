@@ -21,6 +21,8 @@
 <!-- omit in toc -->
 ## 🏆 Objectives
 
+1. Practice `docker-compose` through lab time and tutorials.
+
 ## [**5m**] Attendance & Announcements
 
 ## [**15m**] Warm Up
