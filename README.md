@@ -26,7 +26,7 @@ In this course students will learn the two main flavors of Developer Operations 
 
 ## Learning Outcomes
 
-**By the end of this course, you will be able to&hellip;**
+_By the end of this course, you will be able to&hellip;_
 
 1. Build, deploy, and orchestrate that containers in any web-based application.
 1. Compare and contrast traditional and container-based deployment patterns.
@@ -35,8 +35,8 @@ In this course students will learn the two main flavors of Developer Operations 
 
 ## Schedule
 
-**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)<br>
-**Class Times:** Monday, Wednesday, and Friday at 1:30  – 3:30pm (20 class sessions)
+**Course Dates**: Monday, June 1<sup>st</sup> &mdash; Friday, July 17<sup>th</sup> 2020 _(7 weeks)_<br>
+**Class Times**: Monday, Wednesday, & Friday: 1:30 &mdash; 3:30pm _(20 class sessions)_
 
 | Class | Date         | Topics                                   |
 |-------|--------------|------------------------------------------|
@@ -65,7 +65,7 @@ In this course students will learn the two main flavors of Developer Operations 
 
 ### Tutorials
 
-**Complete all 5 tutorials to pass the course**:
+_Complete all 5 tutorials to pass the course_:
 
 - Tutorial 1: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello)
 - Tutorial 2: [Customizing Docker Images](https://training.play-with-docker.com/ops-s1-images)
@@ -76,20 +76,19 @@ In this course students will learn the two main flavors of Developer Operations 
 
 ### Final Project
 
-**Visit the [Requirements Document](Projects/FinalProject.md) to learn more about the project, including**:
+_Review the [Requirements Document](Projects/FinalProject.md) to learn more about the project, including_:
 
-- [⭐️ Project Goals](Projects/FinalProject.md#️-project-goals)
-- [📋 Project Requirements](Projects/FinalProject.md#-project-requirements)
-- [🗓 Deliverables & Due Dates](Projects/FinalProject.md#-deliverables--due-dates)
+- [⭐️ **Project Goals**](Projects/FinalProject.md#️-project-goals) & [**Requirements**](Projects/FinalProject.md#-project-requirements)
+- [🗓 **Deliverables** & **Due Dates**](Projects/FinalProject.md#-deliverables--due-dates)
   - [1️⃣ **Proposal**: Due 6/26 @ 11:59pm](Projects/FinalProject.md#1️⃣-proposal-due-626--1159pm)
   - [2️⃣ **Architecture Review**: Due 7/15 @ 1:30pm](Projects/FinalProject.md#2️⃣-architecture-review-due-715--130pm)
   - [3️⃣ **Presentation**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#3️⃣-presentation-due-715--1159pm)
   - [4️⃣ **Blog Post**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#4️⃣-blog-post-due-715--1159pm)
-  - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#4️⃣-repository-due-715--1159pm)
+  - [5️⃣ **Repository**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#5️⃣-repository-due-715--1159pm)
 
 ## Evaluation
 
-To pass this course you must meet the following requirements:
+_To pass this course you must meet the following requirements:_
 
 - Complete all required tutorials, challenges, and projects as listed in this syllabus.
 - Turn in all deliverables on [Gradescope].
@@ -130,4 +129,5 @@ To pass this course you must meet the following requirements:
 [Optimizing a Release]: Labs/Optimize.md
 [Final Project]: Projects/FinalProject.md
 [Final Presentations]: Projects/FinalProject.md#Deliverables
-[Gradescope]: https://www.gradescope.com
+[Architecture Review]: Projects/FinalProject?id=2%ef%b8%8f⃣-architecture-review-due-715--130pm
+[Gradescope]: https://www.gradescope.com/courses/133579

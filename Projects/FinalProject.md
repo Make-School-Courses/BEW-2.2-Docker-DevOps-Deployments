@@ -7,7 +7,7 @@
   - [2️⃣ **Architecture Review**: Due 7/15 @ 1:30pm](#2️⃣-architecture-review-due-715--130pm)
   - [3️⃣ **Presentation**: Due 7/15 @ 11:59pm](#3️⃣-presentation-due-715--1159pm)
   - [4️⃣ **Blog Post**: Due 7/15 @ 11:59pm](#4️⃣-blog-post-due-715--1159pm)
-  - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](#4️⃣-repository-due-715--1159pm)
+  - [5️⃣ **Repository**: Due 7/15 @ 11:59pm](#5️⃣-repository-due-715--1159pm)
 
 ## ⭐️ Project Goals
 
@@ -52,6 +52,6 @@ _All submissions are due at **11:59pm** unless otherwise specified._
 
 🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/105262/assignments/467890)** on Gradescope.
 
-### 4️⃣ **Repository**: Due 7/15 @ 11:59pm
+### 5️⃣ **Repository**: Due 7/15 @ 11:59pm
 
 🔗 Submit your **[Finished GitHub Repository](https://www.gradescope.com/courses/105262/assignments/428249)** on Gradescope.
