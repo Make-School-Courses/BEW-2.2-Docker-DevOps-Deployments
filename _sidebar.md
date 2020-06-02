@@ -1,5 +1,5 @@
 - 📋 **[Syllabus](README.md)**
-- 📚 **Lessons**
+- 📚 **[Lessons](README.md#Schedule)**
   - [Code Once, Run Anywhere](Lessons/CourseOrientation.md)
   - [How Containers Work](Lessons/Containers.md)
   - [Domains & DNS](Lessons/DNS.md)
@@ -18,12 +18,6 @@
   - [Load Balancing & Testing](Lessons/LoadBalancing.md)
   - [Multi-Stage Builds](Lessons/Builds.md)
   - [**LAB**: Optimizing a Release](Labs/Optimize.md)
-- ⭐️ **[Final Project](Projects/FinalProject.md)**
-  - [⭐️ Project Goals](Projects/FinalProject.md#️-project-goals)
-  - [📋 Project Requirements](Projects/FinalProject.md#-project-requirements)
+- 🐳 **[Final Project](Projects/FinalProject.md)**
+  - [✅ Requirements & Rubric](Projects/FinalProject.md#-project-requirements)
   - [🗓 Deliverables & Due Dates](Projects/FinalProject.md#-deliverables--due-dates)
-    - [1️⃣ **Proposal**: Due 6/26 @ 11:59pm](Projects/FinalProject.md#1️⃣-proposal-due-626--1159pm)
-    - [2️⃣ **Architecture Review**: Due 7/15 @ 1:30pm](Projects/FinalProject.md#2️⃣-architecture-review-due-715--130pm)
-    - [3️⃣ **Presentation**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#3️⃣-presentation-due-715--1159pm)
-    - [4️⃣ **Blog Post**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#4️⃣-blog-post-due-715--1159pm)
-    - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#4️⃣-repository-due-715--1159pm)
