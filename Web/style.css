@@ -35,6 +35,10 @@ body {
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
 }
 
+article h1:first {
+  display:none;
+}
+
 .sidebar>h1 {
   margin: 2.3rem auto 1rem;
 }
