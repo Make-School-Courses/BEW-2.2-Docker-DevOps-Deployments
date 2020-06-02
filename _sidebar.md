@@ -1,6 +1,6 @@
 - 📋 **[Syllabus](README.md)**
   - [Code Once, Run Anywhere](Lessons/CourseOrientation.md)
-  - [How Containers Work](Lessons/Containers.md)
+  - [How Containers Work](Lessons/Dockerfiles.md)
   - [Domains & DNS](Lessons/DNS.md)
   - [**LAB**: Scripting in Bash](Labs/Bash.md)
   - [Dockerizing Web Apps](Lessons/WebServers.md)

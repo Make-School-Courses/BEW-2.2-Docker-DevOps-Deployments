@@ -2,6 +2,8 @@
 
 <!-- > -->
 
+⭐️ **GOAL**: Introduce the course and inform students on the purpose of Docker.
+
 <!-- omit in toc -->
 ## ⏱ Agenda
 

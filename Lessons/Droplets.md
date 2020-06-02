@@ -1,5 +1,7 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Personal PaaS
+# 🐳 Domains & Droplets
+
+⭐️ **GOAL**: Purchase a domain for your personal production cloud. Create a CapRover DO droplet. Add wildcard A record to the domain. Create first CapRover application.
 
 <!-- omit in toc -->
 ## ⏰ Agenda

@@ -1,5 +1,7 @@
 # 🐳 Interacting With Docker Containers
 
+⭐️ GOAL: Introduce the course and inform students on the purpose of Docker.
+
 ## Minute-by-Minute
 
 | **Elapsed** | **Time**  | **Activity**              |

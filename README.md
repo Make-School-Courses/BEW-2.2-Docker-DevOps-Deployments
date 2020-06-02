@@ -108,8 +108,8 @@ _To pass this course you must meet the following requirements:_
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
 
 
-[Code Once, Run Anywhere]: Lessons/CourseOrientation.md
-[How Containers Work]: Lessons/Containers.md
+[Code Once, Run Anywhere]: Lessons/Containers.md
+[How Containers Work]: Lessons/Dockerfiles.md
 [Domains & DNS]: Lessons/DNS.md
 [Scripting in Bash]: Labs/Bash.md
 [Dockerizing Web Apps]: Lessons/WebServers.md

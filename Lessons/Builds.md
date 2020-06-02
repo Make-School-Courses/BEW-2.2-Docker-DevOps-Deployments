@@ -1,6 +1,8 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
 # 🐳 Multi-Stage Builds
 
+⭐️ **GOAL**: Dramatically decrease the time it takes to build and deploy a project by caching dependencies in layers.
+
 <!-- omit in toc -->
 ## ⏰ Agenda
 
