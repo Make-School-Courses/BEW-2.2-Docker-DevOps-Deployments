@@ -1,5 +1,4 @@
 - 📋 **[Syllabus](README.md)**
-- 📚 **[Lessons](README.md#Schedule)**
   - [Code Once, Run Anywhere](Lessons/CourseOrientation.md)
   - [How Containers Work](Lessons/Containers.md)
   - [Domains & DNS](Lessons/DNS.md)
