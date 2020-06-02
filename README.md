@@ -58,8 +58,9 @@ In this course students will learn the two main flavors of Developer Operations 
 | 15    | Mon, July 6  | [Load Balancing & Testing]               |
 | 16    | Wed, July 8  | [Multi-Stage Builds]                     |
 | 17    | Fri, July 10 | 🔬**Lab**: [Optimizing a Release]        |
-| 18    | Mon, July 13 | **1-on-1**: Architecture Review           |
+| 18    | Mon, July 13 | **1-on-1**: Architecture Review          |
 | 20    | Fri, July 17 | [Final Presentations]                    |
+
 ## Class Assignments
 
 ### Tutorials
