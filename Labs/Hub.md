@@ -1,5 +1,5 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Lesson Plan Template
+# 🐳 LAB: Using Docker Hub
 
 <!-- omit in toc -->
 ## ⏰ Agenda

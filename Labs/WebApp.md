@@ -1,5 +1,5 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Lesson Plan Template
+# 🐳 LAB: Dockerizing a Web App
 
 <!-- omit in toc -->
 ## ⏰ Agenda

@@ -1,5 +1,13 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Lesson Plan Template
+# 🐳 Deployment Day
+
+⭐️ **GOAL**: Add a `captain-definition` file to our class project and demonstrate multiple deployment methods:
+		1. Add a database and connect it to existing application.
+		2. Change container port.
+		3. Add environment variables.
+		4. Deploy as a tarfile.
+		5. Set up HTTPS.
+		6. Change subdomain name.
 
 <!-- omit in toc -->
 ## ⏰ Agenda
@@ -12,7 +20,7 @@
 
 <!-- > -->
 
-## 🏆 Goals
+## 🏆 Objectives
 
 *By the end of this class, you'll be able to&hellip;*
 

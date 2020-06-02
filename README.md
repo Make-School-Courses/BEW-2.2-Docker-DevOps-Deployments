@@ -1,9 +1,9 @@
-
-<p align="center">
-  <img src="Images/docker.svg" height="150">
-</p>
+<p align="center"><img src="Images/docker.svg" height="200"></p>
 
 # Docker, DevOps, & Deployments
+
+<!-- omit in toc -->
+## Table of Contents
 
 1. [Course Description](#course-description)
 1. [Prerequisites](#prerequisites)
@@ -26,63 +26,40 @@ In this course students will learn the two main flavors of Developer Operations 
 
 ## Learning Outcomes
 
-By the end of this course, you will be able to ...
+**By the end of this course, you will be able to&hellip;**
 
-1. Build and deploy an application that utilizes container developer operations
-1. Compare and contrast when to use container or container-less developer operations
-1. Implement generic patterns of operation for both types of developer operation patterns
-1. Demonstrate proficiency for professional DevOps roles
+1. Build, deploy, and orchestrate that containers in any web-based application.
+1. Compare and contrast traditional and container-based deployment patterns.
+1. Demonstrate proficiency for professional DevOps roles.
+1. Implement and maintain a cloud infrastructure utilizing traditional DevOps techniques.
 
 ## Schedule
 
 **Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)<br>
 **Class Times:** Monday, Wednesday, and Friday at 1:30  – 3:30pm (20 class sessions)
 
-## Schedule
-
-| Class |     Date     |                  Topics                  |
-| :---: | :----------: | :--------------------------------------: |
-|   1   | Mon, June 1  |      [Code Once, Run Anywhere]           |
-|   2   | Wed, June 3  | Getting to Know Docker                   |
-|   3   | Fri, June 5  |      [DevOps: Domains & DNS]             |
-|   4   | Mon, June 8  |     [Script a Story in Bash]             |
-|   5   | Wed, June 10  | Dockerizing a Web App - Part 1          |
-|   6   | Fri, June 12 |  Lab Day: Dockerizing Your Web App       |
-|   7   | Mon, June 15 |  Docker Compose                          |
-|   8   | Wed, June 17 |      [Domains & Droplets]                |
-|   9   | Fri, June 19 |      [Domains & Droplets]: Lab Day       |
-|  10   | Mon, June 22 |      [Deployment Day]                    |
-|  11   | Wed, June 24 |      [Project Kickoff]          |
-|  12   | Fri, June 26 |      [Multi Stage Builds]                |
-|  13   | Mon, June 29 |      [Continuous Integration]            |
-|  14   | Wed, July 1  |      [Alerts & Notifications]            |
-|   -   | Fri, July 3  | **NO CLASS - INDEPENDENCE DAY OBSERVED** |
-|  15   | Mon, July 6  |      [Load Balancing]                    |
-|  16   | Wed, July 8  |      [Load Testing]                      |
-|  17   | Fri, July 10 |                                          |
-|  18   | Mon, July 13 |                                          |
-|  19   | Wed, July 15 |      [Final Presentations](Projects/FinalProject.md#Deliverables): Lab Day      |
-|  20   | Fri, July 17 |      [Final Presentations](Projects/FinalProject.md#Deliverables)                 |
-
-<!--
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------|
-|  1 |   Mon, March 30                        | [Course Orientation](Lessons/01-CourseOrientation.md) |
-|  2 |   Wed, April 1                         | [DNS & Domain Names](Lessons/02-DNS.md) |
-|  3 |   Mon, April 6                         | [Interacting With Docker Containers](Archive/2019-T4/Lessons/Lesson3.md) |
-|  4 |   Wed, April 8                         | [Practical Applications of Docker](Archive/2019-T4/Lessons/Lesson4.md) |
-|  5 |   Mon, April 13                        | [Container Orchestration](Archive/2019-T4/Lessons/Lesson5.md) |
-|  6 |   Wed, April 15                        | [Advanced Container Orchestration Techniques](Archive/2019-T4/Lessons/Lesson6.md) |
-|  7 |   Mon, April 20                        | 🆕 [Docker Concepts in Practice](Lessons/07-Dockerfiles.md) |
-|  8 |   Wed, April 22                        | 🆕 [Deploying Web Servers / Project Kickoff](Lessons/08-WebServers.md) |
-|  9 |   Mon, April 27                        | 🆕 [Docker Compose](Lessons/09-Compose.md) |
-| 10 |   Wed, April 29                        | 🆕 [Personal PaaS Review](Lessons/10-PaaS.md) |
-| 11 |   Mon, May 4                           | 🆕 [SSH, SSL, & HTTPS](Lessons/11-Security.md) |
-| 12 |   Wed, May 6                           | 🆕 [Docker Swarm](Lessons/12-Swarm.md) |
-| 13 |   Mon, May 11                          | **Lab**: [Project / Blog / Presentation](Projects/FinalProject.md#Deliverables) |
-| 14 |   Wed, May 13                          | [Final Presentations](Projects/FinalProject.md#Presentation)  |
--->
-
+| Class | Date         | Topics                                   |
+|-------|--------------|------------------------------------------|
+| 1     | Mon, June 1  | [Code Once, Run Anywhere]                |
+| 2     | Wed, June 3  | [How Containers Work]                    |
+| 3     | Fri, June 5  | [Domains & DNS]                          |
+| 4     | Mon, June 8  | 🔬**Lab**: [Scripting in Bash]           |
+| 5     | Wed, June 10 | [Dockerizing Web Apps]                   |
+| 6     | Fri, June 12 | 🔬**Lab**: [Dockerizing Your Web App]    |
+| 7     | Mon, June 15 | [Docker Compose]                         |
+| 8     | Wed, June 17 | [Domains & Droplets]                     |
+| 9     | Fri, June 19 | 🔬**Lab**: [Security] & [Deployment Day] |
+| 10    | Mon, June 22 | [Continuous Integration]                 |
+| 11    | Wed, June 24 | [Alerts & Notifications]                 |
+| 12    | Fri, June 26 | 🔬**Lab**: [CI, Alerts, & Notifications] |
+| 13    | Mon, June 29 | [Docker Hub]                             |
+| 14    | Wed, July 1  | 🔬**Lab**: [Using Docker Hub]            |
+| -     | Fri, July 3  | **NO CLASS - INDEPENDENCE DAY OBSERVED** |
+| 15    | Mon, July 6  | [Load Balancing & Testing]               |
+| 16    | Wed, July 8  | [Multi-Stage Builds]                     |
+| 17    | Fri, July 10 | 🔬**Lab**: [Optimizing a Release]        |
+| 18    | Mon, July 13 | **1-on-1**: Architecture Review           |
+| 20    | Fri, July 17 | [Final Presentations]                    |
 ## Class Assignments
 
 ### Tutorials
@@ -98,20 +75,26 @@ By the end of this course, you will be able to ...
 
 ### Final Project
 
-**See the [Requirements Document](Projects/FinalProject.md) to learn more about the project, including**:
+**Visit the [Requirements Document](Projects/FinalProject.md) to learn more about the project, including**:
 
-- [Goals & Objectives](Projects/FinalProject#%e2%ad%90%ef%b8%8f-project-goals)
-- [Description & Specifications](Projects/FinalProject#%f0%9f%93%8b-project-description)
-- [Deliverables & Due Dates](Projects/FinalProject#%f0%9f%97%93-deliverables--due-dates)
+- [⭐️ Project Goals](Projects/FinalProject.md#️-project-goals)
+- [📋 Project Requirements](Projects/FinalProject.md#-project-requirements)
+- [🗓 Deliverables & Due Dates](Projects/FinalProject.md#-deliverables--due-dates)
+  - [1️⃣ **Proposal**: Due 6/26 @ 11:59pm](Projects/FinalProject.md#1️⃣-proposal-due-626--1159pm)
+  - [2️⃣ **Architecture Review**: Due 7/15 @ 1:30pm](Projects/FinalProject.md#2️⃣-architecture-review-due-715--130pm)
+  - [3️⃣ **Presentation**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#3️⃣-presentation-due-715--1159pm)
+  - [4️⃣ **Blog Post**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#4️⃣-blog-post-due-715--1159pm)
+  - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#4️⃣-repository-due-715--1159pm)
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials and in-class assignments listed on Gradescope
-- Pass the final project according to the rubric
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- Complete all required tutorials, challenges, and projects as listed in this syllabus.
+- Turn in all deliverables on [Gradescope].
+- Pass the [final project] and [architecture review] according to the rubric.
+- Actively participate in class and abide by the attendance policy.
+- Make up all classwork from all absences.
 
 ## Make School Course Policies
 
@@ -123,3 +106,27 @@ To pass this course you must meet the following requirements:
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+
+
+[Code Once, Run Anywhere]: Lessons/CourseOrientation.md
+[How Containers Work]: Lessons/Containers.md
+[Domains & DNS]: Lessons/DNS.md
+[Scripting in Bash]: Labs/Bash.md
+[Dockerizing Web Apps]: Lessons/WebServers.md
+[Dockerizing Your Web App]: Labs/WebApp.md
+[Docker Compose]: Lessons/Compose.md
+[Domains & Droplets]: Lessons/Droplets.md
+[Deployment Day]: Lessons/DeploymentDay.md
+[Security]: Lessons/Security.md
+[Project Kickoff]: Projects/FinalProject.md
+[Continuous Integration]: Lessons/CI.md
+[Alerts & Notifications]: Lessons/Alerts.md
+[CI, Alerts, & Notifications]: Labs/CI.md
+[Docker Hub]: Lessons/Hub.md
+[Using Docker Hub]: Labs/Hub.md
+[Load Balancing & Testing]: Lessons/LoadBalancing.md
+[Multi-Stage Builds]: Lessons/Builds.md
+[Optimizing a Release]: Labs/Optimize.md
+[Final Project]: Projects/FinalProject.md
+[Final Presentations]: Projects/FinalProject.md#Deliverables
+[Gradescope]: https://www.gradescope.com

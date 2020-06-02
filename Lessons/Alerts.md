@@ -1,5 +1,5 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Lesson Plan Template
+# 🐳 Alerts & Notifications
 
 <!-- omit in toc -->
 ## ⏰ Agenda
@@ -12,7 +12,7 @@
 
 <!-- > -->
 
-## 🏆 Goals
+## 🏆 Objectives
 
 *By the end of this class, you'll be able to&hellip;*
 

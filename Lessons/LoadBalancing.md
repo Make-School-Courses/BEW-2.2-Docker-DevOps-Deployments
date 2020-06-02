@@ -1,5 +1,7 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Lesson Plan Template
+# 🐳 Load Balancing & Testing
+
+⭐️ **GOAL**: Set up a swarm on CapRover. See how much traffic your production server can handle; test alerting in netdata and ensure it's working as expected.
 
 <!-- omit in toc -->
 ## ⏰ Agenda

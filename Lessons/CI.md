@@ -1,5 +1,7 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Lesson Plan Template
+# 🐳 Continuous Integration
+
+⭐️ GOAL: Add TravisCI to project to run unit tests automatically. Set up netdata alerts in CapRover.
 
 <!-- omit in toc -->
 ## ⏰ Agenda
@@ -12,7 +14,7 @@
 
 <!-- > -->
 
-## 🏆 Goals
+## 🏆 Objectives
 
 *By the end of this class, you'll be able to&hellip;*
 

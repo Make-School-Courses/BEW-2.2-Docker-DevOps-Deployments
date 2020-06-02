@@ -1,4 +1,4 @@
-# 🐳 Docker Concepts in Practice
+# 🐳 How Containers Work
 
 <!-- > -->
 

@@ -1,5 +1,5 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Lesson Plan Template
+# 🐳 LAB: CI, Alerts, & Notifications
 
 <!-- omit in toc -->
 ## ⏰ Agenda

@@ -1,4 +1,4 @@
-# Interacting With Docker Containers
+# 🐳 Interacting With Docker Containers
 
 ## Minute-by-Minute
 
