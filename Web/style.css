@@ -35,8 +35,9 @@ body {
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
 }
 
-article h1:first {
-  display:none;
+article h1:first,
+section h1:first {
+  display: none;
 }
 
 .sidebar>h1 {
