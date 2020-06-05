@@ -35,8 +35,35 @@ By the end of this course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, March 30 – Wednesday, May 13, 2020 (7 weeks)<BR>
-**Class Times:** Monday and Wednesday at 2:30–5:15pm (14 class sessions)
+**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)<br>
+**Class Times:** Monday, Wednesday, and Friday at 1:30  – 3:30pm (20 class sessions)
+<!--
+## Schedule
+
+| Class |     Date     |                  Topics                  |
+| :---: | :----------: | :--------------------------------------: |
+|   1   | Mon, June 1  |      [Code Once, Run Anywhere]           |
+|   2   | Wed, June 3  |      [Script a Story in Bash]            |
+|   3   | Fri, June 5  |      [TBD]                               |
+|   4   | Mon, June 8  |      [How Containers Work]               |
+|   5   | Wed, June 10 |      [Dockerizing a Project]             |
+|   6   | Fri, June 12 |      [TBD]                               |
+|   7   | Mon, June 15 |      [Quiz 1]                            |
+|   8   | Wed, June 17 |      [Domains & Droplets]                |
+|   9   | Fri, June 19 |      [Domains & Droplets]: Lab Day       |
+|  10   | Mon, June 22 |      [Deployment Day]                    |
+|  11   | Wed, June 24 |      [Quiz 2 / Project Kickoff]          |
+|  12   | Fri, June 26 |      [Multi Stage Builds]                |
+|  13   | Mon, June 29 |      [Continuous Integration]            |
+|  14   | Wed, July 1  |      [Alerts & Notifications]            |
+|   -   | Fri, July 3  | **NO CLASS - INDEPENDENCE DAY OBSERVED** |
+|  15   | Mon, July 6  |      [Load Balancing]                    |
+|  16   | Wed, July 8  |      [Load Testing]                      |
+|  17   | Fri, July 10 |      [Quiz 3]                            |
+|  18   | Mon, July 13 |      [TBD]                               |
+|  19   | Wed, July 15 |      [Final Presentations]: Lab Day      |
+|  20   | Fri, July 17 |      Final Presentations                 |
+
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------|
@@ -54,6 +81,7 @@ By the end of this course, you will be able to ...
 | 12 |   Wed, May 6                           | 🆕 [Docker Swarm](Lessons/12-Swarm.md) |
 | 13 |   Mon, May 11                          | **Lab**: [Project / Blog / Presentation](Projects/FinalProject.md#Deliverables) |
 | 14 |   Wed, May 13                          | [Final Presentations](Projects/FinalProject.md#Presentation)  |
+-->
 
 ## Class Assignments
 
