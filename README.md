@@ -87,7 +87,14 @@ By the end of this course, you will be able to ...
 
 ### Tutorials
 
-Complete **all 5 tutorials on our course [Trello Board](https://make.sc/bew2.2-planner) to pass the course**.
+**Complete all 5 tutorials to pass the course**:
+
+- Tutorial 1: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello)
+- Tutorial 2: [Customizing Docker Images](https://training.play-with-docker.com/ops-s1-images)
+- Tutorial 3: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro)
+- Tutorial 4: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol)
+- Tutorial 5: [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol)
+
 
 ### Final Project
 
