@@ -17,7 +17,7 @@
 
 ## Course Description
 
-In this course students will learn the two main flavors of Developer Operations (DevOps), one that uses containers and one that does not. Students will learn the leading container pattern with Docker and explore the pros and cons of containers by implementing them. The course will tie both these patterns together with generic patterns of operation, such as environmental design, development controls, and uptime management.
+In this course students will learn the two main flavors of Developer Operations (DevOps), one that uses containers and one that does not. Students will learn the leading container pattern with Docker and explore the pros and cons of containers by implementing them. The course will tie this pattern together with generic patterns of operation, such as environmental design, development controls, and uptime management.
 
 ## Prerequisites
 
