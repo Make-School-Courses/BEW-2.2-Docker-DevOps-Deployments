@@ -37,18 +37,18 @@ By the end of this course, you will be able to ...
 
 **Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)<br>
 **Class Times:** Monday, Wednesday, and Friday at 1:30  – 3:30pm (20 class sessions)
-<!--
+
 ## Schedule
 
 | Class |     Date     |                  Topics                  |
 | :---: | :----------: | :--------------------------------------: |
 |   1   | Mon, June 1  |      [Code Once, Run Anywhere]           |
-|   2   | Wed, June 3  |      [Script a Story in Bash]            |
-|   3   | Fri, June 5  |      [TBD]                               |
-|   4   | Mon, June 8  |      [How Containers Work]               |
-|   5   | Wed, June 10 |      [Dockerizing a Project]             |
-|   6   | Fri, June 12 |      [TBD]                               |
-|   7   | Mon, June 15 |      [Quiz 1]                            |
+|   2   | Wed, June 3  | Getting to Know Docker                   |
+|   3   | Fri, June 5  |      [DevOps: Domains & DNS]             |
+|   4   | Mon, June 8  |     [Script a Story in Bash]             |
+|   5   | Wed, June 10 |                                          |
+|   6   | Fri, June 12 |                                          |
+|   7   | Mon, June 15 |                                          |
 |   8   | Wed, June 17 |      [Domains & Droplets]                |
 |   9   | Fri, June 19 |      [Domains & Droplets]: Lab Day       |
 |  10   | Mon, June 22 |      [Deployment Day]                    |
@@ -59,12 +59,12 @@ By the end of this course, you will be able to ...
 |   -   | Fri, July 3  | **NO CLASS - INDEPENDENCE DAY OBSERVED** |
 |  15   | Mon, July 6  |      [Load Balancing]                    |
 |  16   | Wed, July 8  |      [Load Testing]                      |
-|  17   | Fri, July 10 |      [Quiz 3]                            |
-|  18   | Mon, July 13 |      [TBD]                               |
+|  17   | Fri, July 10 |                                          |
+|  18   | Mon, July 13 |                                          |
 |  19   | Wed, July 15 |      [Final Presentations]: Lab Day      |
 |  20   | Fri, July 17 |      Final Presentations                 |
 
-
+<!--
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------|
 |  1 |   Mon, March 30                        | [Course Orientation](Lessons/01-CourseOrientation.md) |
