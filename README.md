@@ -46,13 +46,13 @@ By the end of this course, you will be able to ...
 |   2   | Wed, June 3  | Getting to Know Docker                   |
 |   3   | Fri, June 5  |      [DevOps: Domains & DNS]             |
 |   4   | Mon, June 8  |     [Script a Story in Bash]             |
-|   5   | Wed, June 10 |                                          |
-|   6   | Fri, June 12 |                                          |
-|   7   | Mon, June 15 |                                          |
+|   5   | Wed, June 10  | Dockerizing a Web App - Part 1          |
+|   6   | Fri, June 12 |  Lab Day: Dockerizing Your Web App       |
+|   7   | Mon, June 15 |  Docker Compose                          |
 |   8   | Wed, June 17 |      [Domains & Droplets]                |
 |   9   | Fri, June 19 |      [Domains & Droplets]: Lab Day       |
 |  10   | Mon, June 22 |      [Deployment Day]                    |
-|  11   | Wed, June 24 |      [Quiz 2 / Project Kickoff]          |
+|  11   | Wed, June 24 |      [Project Kickoff]          |
 |  12   | Fri, June 26 |      [Multi Stage Builds]                |
 |  13   | Mon, June 29 |      [Continuous Integration]            |
 |  14   | Wed, July 1  |      [Alerts & Notifications]            |
@@ -61,8 +61,8 @@ By the end of this course, you will be able to ...
 |  16   | Wed, July 8  |      [Load Testing]                      |
 |  17   | Fri, July 10 |                                          |
 |  18   | Mon, July 13 |                                          |
-|  19   | Wed, July 15 |      [Final Presentations]: Lab Day      |
-|  20   | Fri, July 17 |      Final Presentations                 |
+|  19   | Wed, July 15 |      [Final Presentations](Projects/FinalProject.md#Deliverables): Lab Day      |
+|  20   | Fri, July 17 |      [Final Presentations](Projects/FinalProject.md#Deliverables)                 |
 
 <!--
 | Class |          Date          |                 Topics                  |
