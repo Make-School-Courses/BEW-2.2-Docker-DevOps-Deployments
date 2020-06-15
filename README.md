@@ -119,7 +119,7 @@ _To pass this course you must meet the following requirements:_
 [Deployment Day]: Lessons/DeploymentDay.md
 [Security]: Lessons/Security.md
 [Project Kickoff]: Projects/FinalProject.md
-[Continuous Integration]: Lessons/CI.md
+[Continuous Integration]: https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8
 [Alerts & Notifications]: Lessons/Alerts.md
 [CI, Alerts, & Notifications]: Labs/CI.md
 [Docker Hub]: Lessons/Hub.md
