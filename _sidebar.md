@@ -1,4 +1,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;📚 **Modules**:
+
+- [Course Orientation](Lessons/CourseOrientation.md)
 - [How Containers Work](Lessons/Dockerfiles.md)
 - [Domains & DNS](Lessons/DNS.md)
 - [**GUIDE**: Infinite GitHub Pages](Guides/InfiniteGithubPages.md)

@@ -40,7 +40,7 @@ _By the end of this course, you will be able to&hellip;_
 
 | Class | Date         | Topics                                   |
 |-------|--------------|------------------------------------------|
-| 1     | Mon, June 1  | [Code Once, Run Anywhere]                |
+| 1     | Mon, June 1  | [Course Orientation]                |
 | 2     | Wed, June 3  | [How Containers Work]                    |
 | 3     | Fri, June 5  | [Domains & DNS]                          |
 | 4     | Mon, June 8  | 🔬**Lab**: [Scripting in Bash]           |
@@ -107,7 +107,7 @@ _To pass this course you must meet the following requirements:_
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
 
-
+[Course Orientation]: Lessons/CourseOrientation.md
 [Code Once, Run Anywhere]: Lessons/Containers.md
 [How Containers Work]: Lessons/Dockerfiles.md
 [Domains & DNS]: Lessons/DNS.md
