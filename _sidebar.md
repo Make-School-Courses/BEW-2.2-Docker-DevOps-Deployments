@@ -9,7 +9,7 @@
 - [Domains & Droplets](Lessons/Droplets.md)
 - [Security](Lessons/Security.md)
 - [**LAB**: Deployment Day](Lessons/DeploymentDay.md)
-- [Continuous Integration](Lessons/CI.md)
+- [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8)
 - [Alerts & Notifications](Lessons/Alerts.md)
 - [**LAB**: CI, Alerts, & Notifications](Labs/CI.md)
 - [Docker Hub](Lessons/Hub.md)
