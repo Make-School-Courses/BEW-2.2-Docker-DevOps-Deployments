@@ -1,4 +1,5 @@
-- 📋 **[Syllabus](README.md)**
+**Modules**:
+
 - [How Containers Work](Lessons/Dockerfiles.md)
 - [Domains & DNS](Lessons/DNS.md)
 - [**LAB**: Scripting in Bash](Labs/Bash.md)
