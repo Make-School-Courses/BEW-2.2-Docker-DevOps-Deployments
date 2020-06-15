@@ -3,20 +3,19 @@
 <!-- omit in toc -->
 ## ⏱ Agenda
 
-1. [[**5m**] Attendance & Announcements](#5m-attendance--announcements)
-1. [[**15m**] Warm Up](#15m-warm-up)
-1. [[**30m**] 📖 Overview](#30m-%f0%9f%93%96-overview)
-   1. [Features](#features)
-   1. [Use Cases](#use-cases)
-   1. [How to Actually Use It](#how-to-actually-use-it)
-   1. [Compose Commands](#compose-commands)
-1. [[**15m**] 😎 Break](#15m-%f0%9f%98%8e-break)
-1. [[**20m**] ⏺ Live Code: Compose & Django](#20m-%e2%8f%ba-live-code-compose--django)
-   1. [Step 1: Define Project Components](#step-1-define-project-components)
-   1. [Step 2: Connect Database](#step-2-connect-database)
-   1. [Step 3: Run Compose](#step-3-run-compose)
-   1. [Other Commands](#other-commands)
-1. [[**60m**] 🔭 Lab](#60m-%f0%9f%94%ad-lab)
+- [[**5m**] Attendance & Announcements](#5m-attendance--announcements)
+- [[**30m**] 📖 Overview](#30m--overview)
+  - [Features](#features)
+  - [Use Cases](#use-cases)
+  - [How to Actually Use It](#how-to-actually-use-it)
+  - [Compose Commands](#compose-commands)
+- [[**10m**] 😎 Break](#10m--break)
+- [[**15m**] ⏺ Live Code: Compose & Django](#15m--live-code-compose--django)
+  - [Step 1: Define Project Components](#step-1-define-project-components)
+  - [Step 2: Connect Database](#step-2-connect-database)
+  - [Step 3: Run Compose](#step-3-run-compose)
+  - [Other Commands](#other-commands)
+- [[**60m**] 🔭 Lab: Compose a Codebase](#60m--lab-compose-a-codebase)
 
 <!-- omit in toc -->
 ## 🏆 Objectives
@@ -24,12 +23,6 @@
 1. Practice `docker-compose` through lab time and tutorials.
 
 ## [**5m**] Attendance & Announcements
-
-## [**15m**] Warm Up
-
-Complete the **[KataCoda: Container Orchestration](https://www.katacoda.com/courses/docker/11)** tutorial in pairs.
-
-**NOTE**: This tutorial asks you to install docker-compose before starting. **IF YOU ARE ON A MAC, SKIP THIS INSTRUCTION.**
 
 ## [**30m**] 📖 Overview
 
@@ -97,7 +90,7 @@ Use this handy [DevHints.io cheatsheet](https://devhints.io/docker-compose) anyt
 
 ## [**10m**] 😎 Break
 
-## [**20m**] ⏺ Live Code: Compose & Django
+## [**15m**] ⏺ Live Code: Compose & Django
 
 **USE CASE**: You need to run Django with a database locally.
 
@@ -206,9 +199,7 @@ We'll use a repo I created, [droxey/docker-django](https://github.com/droxey/doc
 
   - Or, for a more elegant shutdown, switch to a different shell, and run [docker-compose down](https://docs.docker.com/compose/reference/down/)from the top level of your Django sample project directory.
 
-## [**40m**] 🔭 Lab: Tutorial & Stretch Challenge
-
-### Challenge
+## [**60m**] 🔭 Lab: Compose a Codebase
 
 Add a `docker-compose.yml` file to an existing project that requires both a web server and a database.
 
@@ -222,6 +213,8 @@ Past students have utilized projects from the following courses to complete this
 - **[BEW 1.2](https://make.sc/bew1.2)**: Compose a Django project that requires a PostgreSQL database.
 - **[BEW 1.3](https://make.sc/bew1.3)**: Compose a Node project that requires a MongoDB database.
 - **[BEW 2.5](https://make.sc/bew2.5)**: Compose a Go web application that requires any external database.
+
+<!-- -->
 
 <!-- omit in toc -->
 ## 📚 Resources & Credits
