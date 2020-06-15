@@ -1,7 +1,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;📚 **Modules**:
-
 - [How Containers Work](Lessons/Dockerfiles.md)
 - [Domains & DNS](Lessons/DNS.md)
+- [**GUIDE**: Infinite GitHub Pages](Guides/InfiniteGithubPages.md)
 - [**LAB**: Scripting in Bash](Labs/Bash.md)
 - [Dockerizing Web Apps](Lessons/WebServers.md)
 - [**LAB**: Dockerizing Your Web App](Labs/WebApp.md)
