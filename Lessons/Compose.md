@@ -95,7 +95,7 @@ Docker Compose (`docker-compose`) has several commands you can run to manage the
 Use this handy [DevHints.io cheatsheet](https://devhints.io/docker-compose) anytime you need to reference `docker-compose` commands.
 
 
-## [**15m**] 😎 Break
+## [**10m**] 😎 Break
 
 ## [**20m**] ⏺ Live Code: Compose & Django
 
@@ -206,12 +206,22 @@ We'll use a repo I created, [droxey/docker-django](https://github.com/droxey/doc
 
   - Or, for a more elegant shutdown, switch to a different shell, and run [docker-compose down](https://docs.docker.com/compose/reference/down/)from the top level of your Django sample project directory.
 
-## [**60m**] 🔭 Lab
+## [**40m**] 🔭 Lab: Tutorial & Stretch Challenge
 
-- Complete [**Tutorial 5: Orchestration Hands-On Lab**](https://training.play-with-docker.com/orchestration-hol) and turn it in on [Gradescope](https://www.gradescope.com/courses/105262/assignments/421698).
+### Challenge
 
-- I will also have a breakout room to answer any questions you have one-on-one during this lab period!
+Complete [**Tutorial 5: Orchestration Hands-On Lab**](https://training.play-with-docker.com/orchestration-hol).
 
+### Stretch Challenge
+
+Add a `docker-compose.yml` file to an existing project that requires both a web server and a database.
+
+Common examples include:
+
+- **[BEW 1.1](https://make.sc/bew1.1)**: Compose a Flask project that requires a MongoDB database.
+- **[BEW 1.2](https://make.sc/bew1.2)**: Compose a Django project that requires a PostgreSQL database.
+- **[BEW 1.3](https://make.sc/bew1.3)**: Compose a Node project that requires a MongoDB database.
+- **[BEW 2.5](https://make.sc/bew2.5)**: Compose a Go web application that requires any external database.
 
 <!-- omit in toc -->
 ## 📚 Resources & Credits
