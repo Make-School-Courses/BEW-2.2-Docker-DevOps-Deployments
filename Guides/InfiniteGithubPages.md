@@ -12,7 +12,7 @@
 1. Go to the Settings tab, scroll down to the middle of the page, and locate the section for GitHub pages.
 1. Choose `master` from the Source drop-down box.
 
- **Test it out!** Open a new tab and go to `https://USERNAME.github.io`. You should see a page with the name of your repository on it!
+**Test it out!** Open a new tab and go to `https://USERNAME.github.io`. You should see a page with the name of your repository on it!
 
 **You can now access the GitHub Pages site for any of your repositories by visiting `https://USERNAME.github.io/REPONAME`!**
 
