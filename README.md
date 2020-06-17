@@ -47,8 +47,8 @@ _By the end of this course, you will be able to&hellip;_
 | 5     | Wed, June 10 | [Dockerizing Web Apps]                   |
 | 6     | Fri, June 12 | 🔬**Lab**: [Dockerizing Your Web App]    |
 | 7     | Mon, June 15 | [Docker Compose]                         |
-| 8     | Wed, June 17 | [Domains & Droplets]                     |
-| 9     | Fri, June 19 | 🔬**Lab**: [Security] & [Deployment Day] |
+| 8     | Wed, June 17 |  **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_  |
+| 9     | Fri, June 19 | 🔬[Domains & Droplets] |
 | 10    | Mon, June 22 | [Continuous Integration]                 |
 | 11    | Wed, June 24 | [Alerts & Notifications]                 |
 | 12    | Fri, June 26 | 🔬**Lab**: [CI, Alerts, & Notifications] |
@@ -131,3 +131,4 @@ _To pass this course you must meet the following requirements:_
 [Final Presentations]: Projects/FinalProject.md#Deliverables
 [Architecture Review]: Projects/FinalProject?id=2%ef%b8%8f⃣-architecture-review-due-715--130pm
 [Gradescope]: https://www.gradescope.com/courses/133579
+[Review Worksheet _(Weeks 1-3)_]: https://www.gradescope.com/courses/133579/assignments/536592
