@@ -48,16 +48,16 @@ _By the end of this course, you will be able to&hellip;_
 | 6     | Fri, June 12 | 🔬**Lab**: [Dockerizing Your Web App]    |
 | 7     | Mon, June 15 | [Docker Compose]                         |
 | 8     | Wed, June 17 |  **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_  |
-| 9     | Fri, June 19 | 🔬[Domains & Droplets] |
-| 10    | Mon, June 22 | [Continuous Integration]                 |
-| 11    | Wed, June 24 | [Alerts & Notifications]                 |
-| 12    | Fri, June 26 | 🔬**Lab**: [CI, Alerts, & Notifications] |
+| 9     | Fri, June 19 | **❌NO CLASS - JUNETEENTH OBSERVED** |
+| 10    | Mon, June 22 | [Domains & Droplets]                 |
+| 11    | Wed, June 24 | [Continuous Integration] / [Alerts]                 |
+| 12    | Fri, June 26 | 🔬**Lab**: Configuring CapRover |
 | 13    | Mon, June 29 | [Docker Hub]                             |
-| 14    | Wed, July 1  | 🔬**Lab**: [Using Docker Hub]            |
-| -     | Fri, July 3  | **NO CLASS - INDEPENDENCE DAY OBSERVED** |
+| 14    | Wed, July 1  | 🔬**Lab**: Using Docker Hub      |
+| -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED** |
 | 15    | Mon, July 6  | [Load Balancing & Testing]               |
 | 16    | Wed, July 8  | [Multi-Stage Builds]                     |
-| 17    | Fri, July 10 | 🔬**Lab**: [Optimizing a Release]        |
+| 17    | Fri, July 10 | 🔬**Lab**: Optimizing a Release        |
 | 18    | Mon, July 13 | **1-on-1**: [Architecture Review]        |
 | 20    | Fri, July 17 | [Final Presentations]                    |
 
@@ -111,7 +111,7 @@ _To pass this course you must meet the following requirements:_
 [Code Once, Run Anywhere]: Lessons/Containers.md
 [How Containers Work]: Lessons/Dockerfiles.md
 [Domains & DNS]: Lessons/DNS.md
-[Scripting in Bash]: Labs/Bash.md
+[Scripting in Bash]: https://github.com/veltman/clmystery
 [Dockerizing Web Apps]: Lessons/WebServers.md
 [Dockerizing Your Web App]: Labs/WebApp.md
 [Docker Compose]: Lessons/Compose.md
@@ -120,8 +120,7 @@ _To pass this course you must meet the following requirements:_
 [Security]: Lessons/Security.md
 [Project Kickoff]: Projects/FinalProject.md
 [Continuous Integration]: https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8
-[Alerts & Notifications]: Lessons/Alerts.md
-[CI, Alerts, & Notifications]: Labs/CI.md
+[Alerts]: Lessons/Alerts.md
 [Docker Hub]: Lessons/Hub.md
 [Using Docker Hub]: Labs/Hub.md
 [Load Balancing & Testing]: Lessons/LoadBalancing.md
