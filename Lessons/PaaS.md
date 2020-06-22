@@ -58,8 +58,20 @@ The image below walks through using [CapRover] to deploy:
 
 ## [**20m**] 💻 **Challenge**: Deploy Flask Application
 
-1. TODO
-1. When complete, celebrate by posting the link to your working deployment on the `#bew2-2-docker` Slack channel!
+1. Go to the `http://captian.dev.YOURDOMAIN.COM` in your browser.
+1. From the left menu, select Apps and create a new app.
+1. Name it `my-first-app`.
+1. Download any of the [test apps here](https://github.com/caprover/caprover/tree/master/captain-sample-apps).
+1. Unzip the content, then open a terminal and navigate to the unzipped directory.
+1. Run the deploy command below. Be sure to read carefully and follow the instructions once you execute it!
+
+    ```sh
+    caprover deploy
+    ```
+
+1. Enter `my-first-app` when asked for the app name.
+1. The first time you build, it'll take a few minutes. After the build is completed, visit `my-first-app.dev.YOURDOMAIN.COM`.
+1. **CONGRATS! Your app is live!!** When complete, celebrate by posting the link to your working deployment on the `#bew2-2-docker` Slack channel!
 
 <!-- > -->
 
