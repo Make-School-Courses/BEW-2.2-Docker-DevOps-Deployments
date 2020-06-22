@@ -22,6 +22,7 @@
 <!-- omit in toc -->
 ## 🏆 Objectives
 
+1. Define _container orchestration_ and it's role when Dockerizing a web application's dependencies.
 1. Practice `docker-compose` through lab time and tutorials.
 
 ## [**5m**] Attendance & Announcements

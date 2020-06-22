@@ -1,62 +1,73 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Your Personal PaaS `🚧 WIP`
+# 🐳 Your Personal PaaS
 
-<!-- ⭐️ **GOAL**: Add a `captain-definition` file to our class project and demonstrate multiple deployment methods:
-		1. Add a database and connect it to existing application.
-		2. Change container port.
-		3. Add environment variables.
-		4. Deploy as a tarfile.
-		5. Set up HTTPS.
-		6. Change subdomain name. -->
+⭐️ **GOAL**: Deploy your first application on CapRover!
 
 <!-- omit in toc -->
-## ⏰ Agenda
+## ⏰ Agenda (40m)
 
-- [[**00m**] Introduce](#00m-introduce)
-- [[**00m**] Discuss](#00m-discuss)
-- [Practice](#practice)
-- [Dive Deeper](#dive-deeper)
-  - [Instructions](#instructions)
-
+- [[**10m**] 📚 **TT**: Introduction to CapRover](#10m--tt-introduction-to-caprover)
+- [[**05m**] 💻 **Activity**: Set Up CapRover CLI](#05m--activity-set-up-caprover-cli)
+- [[**20m**] 💻 **Challenge**: Deploy Flask Application](#20m--challenge-deploy-flask-application)
+- [[**05m**] ✅ **Wrap Up**: Daily Check In](#05m--wrap-up-daily-check-in)
 <!-- > -->
 
+<!-- omit in toc -->
 ## 🏆 Objectives
 
 *By the end of this class, you'll be able to&hellip;*
 
-|   Level   | Verbs |
-| --------- | ----- |
-| **6: Create** | _design, formulate, build, invent, create, compose, generate, derive, modify, develop_ |
-| **5: Evaluate** | *choose, support, relate, determine, defend, compare, contrast, justify, support, convince, select* |
-| **4: Analyze** | *classify, break down, categorize, analyze, diagram, illustrate, criticize, simplify, associate* |
-| **3: Apply** | *calculate, predict, apply, solve, illustrate, use, demonstrate, determine, model, perform, present* |
-| **2: Understand** | *describe, explain, paraphrase, restate, summarize, contrast, interpret, discuss* |
-| **1: Remember** | *list, recite, outline, define, name, match, quote, recall, identify, label, recognize* |
+1. Demonstrate a working, self-hosted platform as a service application available on a custom domain.
+1. Use CapRover to deploy a web application written in Python and Flask.
 
 <!-- > -->
 
-## [**00m**] Activity
+## [**10m**] 📚 **TT**: Introduction to CapRover
+
+Walk through the features on the [CapRover] website.
+
+The image below walks through using [CapRover] to deploy:
+
+<p><img src="https://caprover.com/img/captain-in-one-picture.png"></p>
 
 <!-- > -->
 
-## Challenges
+## [**05m**] 💻 **Activity**: Set Up CapRover CLI
 
-_Description._
+1. In order to deploy our applications successfully, we'll need to **first install the CapRover CLI**.
+
+    ```sh
+    $ npm install -g caprover
+    + caprover@2.1.1
+    added 196 packages from 146 contributors in 5.087s
+    ```
+
+1. Then, we'll need to **connect the CLI to our CapRover instance**:
+
+    ```sh
+    $ caprover serversetup
+    Setup CapRover machine on your server...
+
+    ? have you already started CapRover container on your server? Yes
+    ? IP address of your server: 123.123.123.123
+    ```
+
+1. Finally, we're **ready to deploy** any application to our server!
 
 <!-- > -->
 
-## Stretch Challenges
+## [**20m**] 💻 **Challenge**: Deploy Flask Application
 
-_Description._
+1. TODO
+1. When complete, celebrate by posting the link to your working deployment on the `#bew2-2-docker` Slack channel!
 
 <!-- > -->
 
-<!-- omit in toc -->
-## 📚 Resources & Credits
+## [**05m**] ✅ **Wrap Up**: Daily Check In
 
+Check in on student progress using a Zoom poll.
 
-
+<!-- > -->
 <!-- do not edit below this line !-->
-[View]: https://make-school-courses.github.io/BEW-2.3-Web-Security/Slides/00-LESSON_NAME_TODO
 [Gradescope]: https://www.gradescope.com/courses/133579
-[Link]: https://en.wikipedia.org/wiki/HTTP_404
+[CapRover]: https://caprover.com

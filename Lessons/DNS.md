@@ -14,7 +14,10 @@
 
 <!-- > -->
 
+<!-- omit in toc -->
 ## 🏆 Objectives
+
+<!-- TODO: Objectives -->
 
 *By the end of this class, you'll be able to&hellip;*
 

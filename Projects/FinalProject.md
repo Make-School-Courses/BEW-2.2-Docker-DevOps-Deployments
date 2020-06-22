@@ -1,5 +1,7 @@
 # 🐳 Final Project: Dockerize a Codebase
 
+<!-- TODO: Add description. -->
+
 - [⭐️ Project Goals](#️-project-goals)
 - [📋 Project Requirements](#-project-requirements)
 - [🗓 Deliverables & Due Dates](#-deliverables--due-dates)
@@ -19,7 +21,9 @@
 
 ## 📋 Project Requirements
 
-<!-- TODO -->
+Create a file in the root of your project named `requirements.md`, then paste the table of requirements below.
+
+**Use the ✅ column to keep track of your progress**! Be sure to check off each requirement _**before**_ you commit and push to GitHub.
 
 |  Category  | Requirement                                                                                          | ✅ |
 |:---------- |------------------------------------------------------------------------------------------------------|:-:|
