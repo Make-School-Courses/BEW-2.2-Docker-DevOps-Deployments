@@ -43,9 +43,9 @@ _By the end of this course, you will be able to&hellip;_
 | 1     | Mon, June 1  | [Course Orientation]                                                      |
 | 2     | Wed, June 3  | [How Containers Work]                                                     |
 | 3     | Fri, June 5  | [Domains & DNS]                                                           |
-| 4     | Mon, June 8  | 🔬**Lab**: [Scripting in Bash]                                            |
+| 4     | Mon, June 8  | 🔬 **Lab**: [Scripting in Bash]                                            |
 | 5     | Wed, June 10 | [Dockerizing Web Apps]                                                    |
-| 6     | Fri, June 12 | 🔬**Lab**: [Dockerizing Your Web App]                                     |
+| 6     | Fri, June 12 | 🔬 **Lab**: [Dockerizing Your Web App]                                     |
 | 7     | Mon, June 15 | [Docker Compose]                                                          |
 | 8     | Wed, June 17 | 📝 **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_ |
 | 9     | Fri, June 19 | **❌NO CLASS - JUNETEENTH OBSERVED**                                       |

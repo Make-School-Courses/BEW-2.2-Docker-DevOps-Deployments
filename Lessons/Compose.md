@@ -156,7 +156,7 @@ We'll use a repo I created, [droxey/docker-django](https://github.com/droxey/doc
    }
    ```
 
-   These settings are determined by the [postgres](https://hub.docker.com/_/postgres) Docker image specified in `docker-compose.yml`.
+   These settings are determined by the [Postgres](https://hub.docker.com/_/postgres) Docker image specified in `docker-compose.yml`.
 
 3. Save and close the file.
 
