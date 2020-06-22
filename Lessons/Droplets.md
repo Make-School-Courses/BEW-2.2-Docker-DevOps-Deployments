@@ -43,30 +43,20 @@ test -f ~/.ssh/id_rsa || test -f ~/.ssh/id_rsa.pub && echo "Default SSH keys not
 <!-- > -->
 
 <!-- omit in toc -->
-### Helping You Find Hosting
+### How to Host
 
 <!-- > -->
 
 #### Hosting Options
 
-| Category | Examples | Description |
-| - | - | - |
-| **Dedicated** | - | Hardware responsible for hosting all websites and servers. |
-| **VPS** | [DigitalOcean] | Many virtual server instances running on a dedicated server. |
-| **Cloud** | [AWS] | VPS enhanced with on-demand application scaling; flexible pricing based on usage. |
-| **PaaS** | [Heroku] | Develop, run, and manage applications without the complexity of building and maintaining infrastructure typically associated with developing and launching an app. |
+| Category | Description | Examples |
+| :-: | - | :-: |
+| **Dedicated** | Hardware responsible for hosting all websites and servers. | - |
+| **VPS** | Many virtual server instances running on a physical dedicated server. | [DigitalOcean] |
+| **Cloud** | VPS enhanced with on-demand application scaling; flexible pricing based on usage. | [AWS] |
+| **PaaS** | Develop, run, and manage applications without the complexity of building and maintaining infrastructure typically associated with developing and launching an app. | [Heroku] |
 
-<!-- > -->
-
-#### When to Use Each
-
-| Server Type | Use Cases |
-| - | - |
-| **Dedicated** | |
-| **VPS** | |
-| **Cloud** | |
-| **PaaS** | |
-
+These are the major offerings available for backend web developers. To learn more, read [8 Different Types of Web Hosting Services](https://www.thebalancesmb.com/types-of-web-hosting-services-2532072).
 <!-- > -->
 
 ### 💬 [**05m**] **Discuss**: Decide What BEW 2.2 Should Use
