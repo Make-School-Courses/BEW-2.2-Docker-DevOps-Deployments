@@ -5,15 +5,15 @@
 <!-- omit in toc -->
 ## Table of Contents
 
-1. [Course Description](#course-description)
-1. [Prerequisites](#prerequisites)
-1. [Learning Outcomes](#learning-outcomes)
-1. [Schedule](#schedule)
-1. [Class Assignments](#class-assignments)
-   1. [Tutorials](#tutorials)
-   1. [Final Project](#final-project)
-1. [Evaluation](#evaluation)
-1. [Make School Course Policies](#make-school-course-policies)
+- [Course Description](#course-description)
+- [Prerequisites](#prerequisites)
+- [Learning Outcomes](#learning-outcomes)
+- [Schedule](#schedule)
+- [Class Assignments](#class-assignments)
+  - [Tutorials](#tutorials)
+  - [Final Project](#final-project)
+- [Evaluation](#evaluation)
+- [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
 
@@ -38,28 +38,28 @@ _By the end of this course, you will be able to&hellip;_
 **Course Dates**: Monday, June 1<sup>st</sup> &mdash; Friday, July 17<sup>th</sup> 2020 _(7 weeks)_<br>
 **Class Times**: Monday, Wednesday, & Friday: 1:30 &mdash; 3:30pm _(20 class sessions)_
 
-| Class | Date         | Topics                                   |
-|-------|--------------|------------------------------------------|
-| 1     | Mon, June 1  | [Course Orientation]                |
-| 2     | Wed, June 3  | [How Containers Work]                    |
-| 3     | Fri, June 5  | [Domains & DNS]                          |
-| 4     | Mon, June 8  | 🔬**Lab**: [Scripting in Bash]           |
-| 5     | Wed, June 10 | [Dockerizing Web Apps]                   |
-| 6     | Fri, June 12 | 🔬**Lab**: [Dockerizing Your Web App]    |
-| 7     | Mon, June 15 | [Docker Compose]                         |
-| 8     | Wed, June 17 |  **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_  |
-| 9     | Fri, June 19 | **❌NO CLASS - JUNETEENTH OBSERVED** |
-| 10    | Mon, June 22 | [Domains & Droplets]                 |
-| 11    | Wed, June 24 | [Continuous Integration] / [Alerts]                 |
-| 12    | Fri, June 26 | 🔬**Lab**: Configuring CapRover |
-| 13    | Mon, June 29 | [Docker Hub]                             |
-| 14    | Wed, July 1  | 🔬**Lab**: Using Docker Hub      |
-| -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED** |
-| 15    | Mon, July 6  | [Load Balancing & Testing]               |
-| 16    | Wed, July 8  | [Multi-Stage Builds]                     |
-| 17    | Fri, July 10 | 🔬**Lab**: Optimizing a Release        |
-| 18    | Mon, July 13 | **1-on-1**: [Architecture Review]        |
-| 20    | Fri, July 17 | [Final Presentations]                    |
+| Class | Date         | Topics                                                                    |
+|-------|--------------|---------------------------------------------------------------------------|
+| 1     | Mon, June 1  | [Course Orientation]                                                      |
+| 2     | Wed, June 3  | [How Containers Work]                                                     |
+| 3     | Fri, June 5  | [Domains & DNS]                                                           |
+| 4     | Mon, June 8  | 🔬**Lab**: [Scripting in Bash]                                            |
+| 5     | Wed, June 10 | [Dockerizing Web Apps]                                                    |
+| 6     | Fri, June 12 | 🔬**Lab**: [Dockerizing Your Web App]                                     |
+| 7     | Mon, June 15 | [Docker Compose]                                                          |
+| 8     | Wed, June 17 | 📝 **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_ |
+| 9     | Fri, June 19 | **❌NO CLASS - JUNETEENTH OBSERVED**                                       |
+| 10    | Mon, June 22 | [Domains & Droplets] / [Your Personal PaaS]                               |
+| 11    | Wed, June 24 | [Continuous Integration] / [Alerts]                                       |
+| 12    | Fri, June 26 | [Docker Hub]                                                              |
+| 13    | Mon, June 29 | [Networking] & [Volumes]                                                  |
+| 14    | Wed, July 1  | [Multi-Stage Builds] / [Project Kickoff]                                  |
+| -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED**                                 |
+| 15    | Mon, July 6  | [Docker Swarm]                                                            |
+| 16    | Wed, July 8  | [Security]                                                                |
+| 17    | Fri, July 10 | [Architecture Diagrams]                                                   |
+| 18    | Mon, July 13 | 📝 **Lab**: Work on Blog Post, Project, or Presentation                   |
+| 20    | Fri, July 17 | [Final Presentations]                                                     |
 
 ## Class Assignments
 
@@ -80,11 +80,10 @@ _Review the [Requirements Document](Projects/FinalProject.md) to learn more abou
 
 - [⭐️ **Project Goals**](Projects/FinalProject.md#️-project-goals) & [**Requirements**](Projects/FinalProject.md#-project-requirements)
 - [🗓 **Deliverables** & **Due Dates**](Projects/FinalProject.md#-deliverables--due-dates)
-  - [1️⃣ **Proposal**: Due 6/26 @ 11:59pm](Projects/FinalProject.md#1️⃣-proposal-due-626--1159pm)
-  - [2️⃣ **Architecture Review**: Due 7/13 @ 1:30pm](Projects/FinalProject.md#2️⃣-architecture-review-due-713--130pm)
-  - [3️⃣ **Presentation**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#3️⃣-presentation-due-715--1159pm)
-  - [4️⃣ **Blog Post**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#4️⃣-blog-post-due-715--1159pm)
-  - [5️⃣ **Repository**: Due 7/15 @ 11:59pm](Projects/FinalProject.md#5️⃣-repository-due-715--1159pm)
+  - [1️⃣ **Proposal**: Due 6/26 @ 11:59pm](#1️⃣-proposal-due-626--1159pm)
+  - [2️⃣ **Presentation**: Due 7/15 @ 11:59pm](#2️⃣-presentation-due-715--1159pm)
+  - [3️⃣ **Blog Post**: Due 7/15 @ 11:59pm](#3️⃣-blog-post-due-715--1159pm)
+  - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](#4️⃣-repository-due-715--1159pm)
 
 ## Evaluation
 
@@ -107,27 +106,27 @@ _To pass this course you must meet the following requirements:_
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
 
-[Course Orientation]: Lessons/CourseOrientation.md
-[Code Once, Run Anywhere]: Lessons/Containers.md
-[How Containers Work]: Lessons/Dockerfiles.md
-[Domains & DNS]: Lessons/DNS.md
-[Scripting in Bash]: https://github.com/veltman/clmystery
-[Dockerizing Web Apps]: Lessons/WebServers.md
-[Dockerizing Your Web App]: Labs/WebApp.md
-[Docker Compose]: Lessons/Compose.md
-[Domains & Droplets]: Lessons/Droplets.md
-[Deployment Day]: Lessons/DeploymentDay.md
-[Security]: Lessons/Security.md
-[Project Kickoff]: Projects/FinalProject.md
-[Continuous Integration]: https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8
 [Alerts]: Lessons/Alerts.md
+[Architecture Diagrams]: Lessons/Diagrams.md
+[Code Once, Run Anywhere]: Lessons/Containers.md
+[Continuous Integration]: https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8
+[Course Orientation]: Lessons/CourseOrientation.md
+[Docker Compose]: Lessons/Compose.md
 [Docker Hub]: Lessons/Hub.md
-[Using Docker Hub]: Labs/Hub.md
-[Load Balancing & Testing]: Lessons/LoadBalancing.md
-[Multi-Stage Builds]: Lessons/Builds.md
-[Optimizing a Release]: Labs/Optimize.md
-[Final Project]: Projects/FinalProject.md
+[Docker Swarm]: Lessons/Swarm.md
+[Dockerizing Web Apps]: Lessons/WebServers.md
+[Dockerizing Your Web App]: Lessons/WebServers.md#60m--lab-writing-dockerfiles
+[Domains & DNS]: Lessons/DNS.md
+[Domains & Droplets]: Lessons/Droplets.md
 [Final Presentations]: Projects/FinalProject.md#Deliverables
-[Architecture Review]: Projects/FinalProject?id=2%ef%b8%8f⃣-architecture-review-due-715--130pm
+[Final Project]: Projects/FinalProject.md
 [Gradescope]: https://www.gradescope.com/courses/133579
-[Review Worksheet _(Weeks 1-3)_]: https://www.gradescope.com/courses/133579/assignments/536592
+[How Containers Work]: Lessons/Dockerfiles.md
+[Multi-Stage Builds]: Lessons/Builds.md
+[Networking]: Lessons/Networking.md
+[Project Kickoff]: Projects/FinalProject.md
+[Review Worksheet]: https://www.gradescope.com/courses/133579/assignments/536592
+[Scripting in Bash]: https://github.com/veltman/clmystery
+[Security]: Lessons/Security.md
+[Volumes]: Lessons/Volumes.md
+[Your Personal PaaS]: Lessons/PaaS.md

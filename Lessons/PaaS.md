@@ -1,13 +1,13 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Deployment Day
+# 🐳 Your Personal PaaS `🚧 WIP`
 
-⭐️ **GOAL**: Add a `captain-definition` file to our class project and demonstrate multiple deployment methods:
+<!-- ⭐️ **GOAL**: Add a `captain-definition` file to our class project and demonstrate multiple deployment methods:
 		1. Add a database and connect it to existing application.
 		2. Change container port.
 		3. Add environment variables.
 		4. Deploy as a tarfile.
 		5. Set up HTTPS.
-		6. Change subdomain name.
+		6. Change subdomain name. -->
 
 <!-- omit in toc -->
 ## ⏰ Agenda
@@ -58,5 +58,5 @@ _Description._
 
 <!-- do not edit below this line !-->
 [View]: https://make-school-courses.github.io/BEW-2.3-Web-Security/Slides/00-LESSON_NAME_TODO
-[Gradescope]: https://www.gradescope.com/courses/105262
+[Gradescope]: https://www.gradescope.com/courses/133579
 [Link]: https://en.wikipedia.org/wiki/HTTP_404

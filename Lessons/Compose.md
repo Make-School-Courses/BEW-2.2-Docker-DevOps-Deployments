@@ -1,5 +1,7 @@
 # 🐳 Docker Compose
 
+⭐️ **GOAL**: Run multiple dependencies using Docker Compose.
+
 <!-- omit in toc -->
 ## ⏱ Agenda
 

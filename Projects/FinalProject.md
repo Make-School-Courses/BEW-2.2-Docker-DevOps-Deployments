@@ -4,10 +4,9 @@
 - [📋 Project Requirements](#-project-requirements)
 - [🗓 Deliverables & Due Dates](#-deliverables--due-dates)
   - [1️⃣ **Proposal**: Due 6/26 @ 11:59pm](#1️⃣-proposal-due-626--1159pm)
-  - [2️⃣ **Architecture Review**: Due 7/13 @ 1:30pm](#2️⃣-architecture-review-due-713--130pm)
-  - [3️⃣ **Presentation**: Due 7/15 @ 11:59pm](#3️⃣-presentation-due-715--1159pm)
-  - [4️⃣ **Blog Post**: Due 7/15 @ 11:59pm](#4️⃣-blog-post-due-715--1159pm)
-  - [5️⃣ **Repository**: Due 7/15 @ 11:59pm](#5️⃣-repository-due-715--1159pm)
+  - [2️⃣ **Presentation**: Due 7/15 @ 11:59pm](#2️⃣-presentation-due-715--1159pm)
+  - [3️⃣ **Blog Post**: Due 7/15 @ 11:59pm](#3️⃣-blog-post-due-715--1159pm)
+  - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](#4️⃣-repository-due-715--1159pm)
 
 ## ⭐️ Project Goals
 
@@ -22,12 +21,15 @@
 
 <!-- TODO -->
 
-| ✅ | % | Requirement                                                             |
-|:-:|:-:|-------------------------------------------------------------------------|
-|   |   | Repository contains a `Dockerfile` and a `docker-compose.yml` file.       |
-|   |   | `Dockerfile` and `docker-compose.yml` file build without error.         |
-|   |   | `Dockerfile` and `docker-compose.yml`  run to instructions in `README`. |
-|   |   | `README` includes instructions on how to build and run your container.  |
+|  Category  | Requirement                                                                                          | ✅ |
+|:---------- |------------------------------------------------------------------------------------------------------|:-:|
+|   **⚙️CI**   | Project includes at least one GitHub action.                                                         |   |
+| **🐳 Docker** | Repository contains a `Dockerfile` and a `docker-compose.yml` file.                                  |   |
+| **🐳 Docker** | `Dockerfile` and `docker-compose.yml` file build without error.                                      |   |
+| **🐳 Docker** | Image released on Docker Hub.                                      |   |
+|  **📝 Docs**  | `Dockerfile` and `docker-compose.yml`  run to instructions in `README`.                              |   |
+|  **📝 Docs**  | `README` includes [badges](https://shields.io) for image size, build status, and website monitoring. |   |
+|  **📝 Docs**  | `README` includes instructions on how to build and run your container.                               |   |
 
 ## 🗓 Deliverables & Due Dates
 
@@ -35,23 +37,19 @@ _All submissions are due at **11:59pm** unless otherwise specified._
 
 ### 1️⃣ **Proposal**: Due 6/26 @ 11:59pm
 
-🔗 Submit your **[Proposal Repo Link](https://www.gradescope.com/courses/105262/assignments/467884)** on Gradescope.
+🔗 Submit your **[Proposal Repo Link](https://www.gradescope.com/courses/133579/assignments/467884)** on Gradescope.
 
 - **Students who do not submit a proposal will be required to meet one on one with the instructor within the week to get unblocked**.
 - The instructor will **approve your proposal** via Gradescope **before the following class**.
 
-### 2️⃣ **Architecture Review**: Due 7/13 @ 1:30pm
+### 2️⃣ **Presentation**: Due 7/15 @ 11:59pm
 
-<!-- TODO -->
+🔗 Submit your **[Recorded Presentation](https://www.gradescope.com/courses/133579/assignments/462693)** on Gradescope.
 
-### 3️⃣ **Presentation**: Due 7/15 @ 11:59pm
+### 3️⃣ **Blog Post**: Due 7/15 @ 11:59pm
 
-🔗 Submit your **[Recorded Presentation](https://www.gradescope.com/courses/105262/assignments/462693)** on Gradescope.
+🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/133579/assignments/467890)** on Gradescope.
 
-### 4️⃣ **Blog Post**: Due 7/15 @ 11:59pm
+### 4️⃣ **Repository**: Due 7/15 @ 11:59pm
 
-🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/105262/assignments/467890)** on Gradescope.
-
-### 5️⃣ **Repository**: Due 7/15 @ 11:59pm
-
-🔗 Submit your **[Finished GitHub Repository](https://www.gradescope.com/courses/105262/assignments/428249)** on Gradescope.
+🔗 Submit your **[Finished GitHub Repository](https://www.gradescope.com/courses/133579/assignments/428249)** on Gradescope.

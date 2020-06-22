@@ -1,5 +1,7 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Security
+# 🐳 Security `🚧 WIP`
+
+⭐️ **GOAL**: Secure the servers that run your PaaS.
 
 <!-- omit in toc -->
 ## ⏰ Agenda
@@ -50,5 +52,5 @@ _Description._
 
 <!-- do not edit below this line !-->
 [View]: https://make-school-courses.github.io/BEW-2.3-Web-Security/Slides/00-LESSON_NAME_TODO
-[Gradescope]: https://www.gradescope.com/courses/105262
+[Gradescope]: https://www.gradescope.com/courses/133579
 [Link]: https://en.wikipedia.org/wiki/HTTP_404

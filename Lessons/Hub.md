@@ -1,5 +1,8 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Docker Hub
+# 🐳 Docker Hub `🚧 WIP`
+
+⭐️ **GOAL**: Explore images at Docker Hub and additional functionality to your PaaS!
+
 <!-- omit in toc -->
 ## ⏰ Agenda
 
@@ -11,7 +14,7 @@
 
 <!-- > -->
 
-## 🏆 Goals
+## 🏆 Objectives
 
 *By the end of this class, you'll be able to&hellip;*
 
@@ -49,5 +52,5 @@ _Description._
 
 <!-- do not edit below this line !-->
 [View]: https://make-school-courses.github.io/BEW-2.3-Web-Security/Slides/00-LESSON_NAME_TODO
-[Gradescope]: https://www.gradescope.com/courses/105262
+[Gradescope]: https://www.gradescope.com/courses/133579
 [Link]: https://en.wikipedia.org/wiki/HTTP_404

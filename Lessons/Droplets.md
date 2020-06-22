@@ -1,5 +1,5 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Domains & Droplets
+# 🐳 Domains & Droplets `🚧 WIP`
 
 ⭐️ **GOAL**: Purchase a domain for your personal production cloud. Create a CapRover DO droplet. Add wildcard A record to the domain. Create first CapRover application.
 
@@ -52,5 +52,5 @@ _Description._
 
 <!-- do not edit below this line !-->
 [View]: https://make-school-courses.github.io/BEW-2.3-Web-Security/Slides/00-LESSON_NAME_TODO
-[Gradescope]: https://www.gradescope.com/courses/105262
+[Gradescope]: https://www.gradescope.com/courses/133579
 [Link]: https://en.wikipedia.org/wiki/HTTP_404
