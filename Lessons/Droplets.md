@@ -32,10 +32,10 @@
 Check to see if you've already generated an SSH key with the default filename by running the following command in your terminal:
 
 ```sh
-test -f ~/.ssh/id_rsa || test -f ~/.ssh/id_rsa.pub && echo "Default SSH keys not found. Use the following guide to create them before proceeding: https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent.
+test -f ~/.ssh/id_rsa && test -f ~/.ssh/id_rsa.pub && echo "Default SSH keys found."
 ```
 
-- **IF NO KEYS**: Break out and follow the [Generating a New SSH Key and Adding it to the SSH Agent] tutorial linked in your terminal.
+- **IF NO KEYS**: Break out and follow the [Generating a New SSH Key and Adding it to the SSH Agent](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) tutorial.
 - **IF KEYS EXIST**: Break out to read [TODO: Quick intro to SSH]. We will be discussing it later in class.
 
 ## [**20m**] 📚 **TT**: So, You're Ready to Deploy&hellip;
