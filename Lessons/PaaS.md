@@ -4,7 +4,7 @@
 ⭐️ **GOAL**: Deploy your first application on CapRover!
 
 <!-- omit in toc -->
-## ⏰ Agenda (85m)
+## ⏰ Agenda (120m)
 
 - [[**10m**] ☀️ **Warmup**: Update CapRover Dashboard](#10m-️-warmup-update-caprover-dashboard)
 - [[**10m**] 📚 **TT**: Introduction to CapRover](#10m--tt-introduction-to-caprover)
