@@ -4,12 +4,13 @@
 ⭐️ **GOAL**: Create and configure a CapRover DO droplet for use in following class sessions.
 
 <!-- omit in toc -->
-## ⏰ Agenda (60m)
+## ⏰ Agenda (65m)
 
 - [[**10m**] ☀️ **Warmup**: SSH Keys](#10m-️-warmup-ssh-keys)
 - [[**20m**] 📚 **TT**: So, You're Ready to Deploy&hellip;](#20m--tt-so-youre-ready-to-deploy)
   - [💬 [**05m**] **Discuss**: Decide What BEW 2.2 Should Use](#-05m-discuss-decide-what-bew-22-should-use)
   - [💻 [**05m**] **Activity**: Register Hosting Account on DigitalOcean](#-05m-activity-register-hosting-account-on-digitalocean)
+- [[**05m**] 💻 **Activity**: Set Up CapRover CLI](#05m--activity-set-up-caprover-cli)
 - [[**20m**] 💻 **Challenge**: Set Up Your Personal PaaS](#20m--challenge-set-up-your-personal-paas)
 
 <!-- > -->
@@ -98,6 +99,8 @@ Here are some helpful guides from common registrars:
     ssh-copy-id -i ~/.ssh/id_rsa root@captain.dev.YOURDOMAIN.COM
     ```
 
+ You can skip this step if you uploaded an SSH key when setting up your droplet on DigitalOcean.
+
 1. Test it by **logging in**:
 
     ```sh
@@ -126,20 +129,44 @@ _We'll practice how to upload files manually, as well as how to take advantage o
 
 <!-- > -->
 
+## [**05m**] 💻 **Activity**: Set Up CapRover CLI
+
+1. In order to deploy our applications successfully, we'll need to **first install the CapRover CLI**. This uses a Docker and git based system to push your
+
+    ```sh
+    $ npm install -g caprover
+    + caprover@2.1.1
+    added 196 packages from 146 contributors in 5.087s
+    ```
+
+1. Then, we'll need to **connect the CLI to our CapRover instance**:
+
+    ```sh
+    $ caprover serversetup
+    Setup CapRover machine on your server...
+
+    ? have you already started CapRover container on your server? Yes
+    ? IP address of your server: 123.123.123.123
+    ```
+
+1. Finally, we're **ready to deploy** any application to our server!
+
+<!-- > -->
+
 ## [**20m**] 💻 **Challenge**: Set Up Your Personal PaaS
 
 **Follow the steps in order to complete today's challenge!**
 
 1. Click this link to create a droplet using the [CapRover One-Click App] on DigitalOcean.
 1. Configure the droplet with the following settings:
-    - CPU: `1`
-    - RAM: `1 GB`
+    - CPU: `2`
+    - RAM: `2 GB`
     - Location: `San Francisco, CA`
 1. Upload your SSH key to DigitalOcean.
 1. Once the droplet is running, copy it's IP address to your clipboard. **Write down the IP address in your notes, you'll need it later on!**
 1. Visit your domain name registrar's website and log in.
 1. Add an A record pointing `*.dev` to your new droplet's IP address.
-1. Visit `http://IP_ADDRESS:3000` in your browser.
+1. Visit `http://IP_ADDRESS:3000` in your browser and log in with the default password: `captain42`.
 1. Follow the instructions to complete the CapRover installation. **Be sure to use a very secure password.**
 1. **Submit your new droplet's IP address on [Gradescope] to complete this activity**.
 

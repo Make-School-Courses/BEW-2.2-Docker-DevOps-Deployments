@@ -4,12 +4,18 @@
 ⭐️ **GOAL**: Deploy your first application on CapRover!
 
 <!-- omit in toc -->
-## ⏰ Agenda (40m)
+## ⏰ Agenda (85m)
 
+- [[**10m**] ☀️ **Warmup**: Update CapRover Dashboard](#10m-️-warmup-update-caprover-dashboard)
 - [[**10m**] 📚 **TT**: Introduction to CapRover](#10m--tt-introduction-to-caprover)
-- [[**05m**] 💻 **Activity**: Set Up CapRover CLI](#05m--activity-set-up-caprover-cli)
-- [[**20m**] 💻 **Challenge**: Deploy Flask Application](#20m--challenge-deploy-flask-application)
-- [[**05m**] ✅ **Wrap Up**: Daily Check In](#05m--wrap-up-daily-check-in)
+- [[**20m**] 💻 **Activity**: Feature Frenzy](#20m--activity-feature-frenzy)
+- [[**10m**] 🌴 **Break**](#10m--break)
+- [[**15m**] 💻 **Activity**: Feature Frenzy Presentations](#15m--activity-feature-frenzy-presentations)
+- [[**20m**] 💻 **Challenge**: Deploy a Tarfile](#20m--challenge-deploy-a-tarfile)
+- [[**10m**] 👍 **Review**: Deploy a Tarfile](#10m--review-deploy-a-tarfile)
+- [[**20m**] 💻 **Challenge**: Deploy via CapRover CLI](#20m--challenge-deploy-via-caprover-cli)
+- [[**10m**] 👍 **Review**: Deploy via CapRover CLI](#10m--review-deploy-via-caprover-cli)
+
 <!-- > -->
 
 <!-- omit in toc -->
@@ -22,6 +28,12 @@
 
 <!-- > -->
 
+## [**10m**] ☀️ **Warmup**: Update CapRover Dashboard
+
+1. Log in to your CapRover server: `https://captain.dev.YOURDOMAIN.COM`
+1. Click the `Update` link at the top left, then click `Logout`.
+1. Wait 3 minutes and refresh the login page. When it appears, log in to your updated CapRover instance!
+
 ## [**10m**] 📚 **TT**: Introduction to CapRover
 
 Walk through the features on the [CapRover] website.
@@ -32,52 +44,82 @@ The image below walks through using [CapRover] to deploy:
 
 <!-- > -->
 
-## [**05m**] 💻 **Activity**: Set Up CapRover CLI
+## [**20m**] 💻 **Activity**: Feature Frenzy
 
-1. In order to deploy our applications successfully, we'll need to **first install the CapRover CLI**.
+Break out into teams of 4, then write a short synopsis of the following links. In your own words:
 
-    ```sh
-    $ npm install -g caprover
-    + caprover@2.1.1
-    added 196 packages from 146 contributors in 5.087s
-    ```
+- Explain the feature
+- Describe it's options (if applicable)
+- Tell us how you'd use it.
 
-1. Then, we'll need to **connect the CLI to our CapRover instance**:
+1. [Persistent Apps](https://caprover.com/docs/persistent-apps.html)
+1. [CLI Commands](https://caprover.com/docs/cli-commands.html)
+1. [One-Click Apps](https://caprover.com/docs/one-click-apps.html)
+1. [Deployment Methods](https://caprover.com/docs/deployment-methods.html)
+1. [Captain Definition File](https://caprover.com/docs/captain-definition-file.html)
 
-    ```sh
-    $ caprover serversetup
-    Setup CapRover machine on your server...
-
-    ? have you already started CapRover container on your server? Yes
-    ? IP address of your server: 123.123.123.123
-    ```
-
-1. Finally, we're **ready to deploy** any application to our server!
+Be prepared to give a 2-3 minute review of your topic to the class.
 
 <!-- > -->
 
-## [**20m**] 💻 **Challenge**: Deploy Flask Application
+## [**10m**] 🌴 **Break**
 
-1. Go to the `http://captian.dev.YOURDOMAIN.COM` in your browser.
+<!-- > -->
+
+## [**15m**] 💻 **Activity**: Feature Frenzy Presentations
+
+<!-- > -->
+
+## [**20m**] 💻 **Challenge**: Deploy a Tarfile
+
+**GOAL**: Practice the most approachable deployment mechanism --- upload a tarfile on CapRover, then deploy it.
+
+1. Visit [caprover/captain-sample-apps](https://github.com/caprover/caprover/tree/master/captain-sample-apps).
+1. Choose a `.tar` file for a sample app, and download it. **Recommended**:
+   - Python/Django
+   - Go
+   - Node
+   - React
+1. Go to `https://captain.dev.YOURDOMAIN.COM` in your browser.
 1. From the left menu, select Apps and create a new app.
-1. Name it `my-first-app`.
-1. Download any of the [test apps here](https://github.com/caprover/caprover/tree/master/captain-sample-apps).
-1. Unzip the content, then open a terminal and navigate to the unzipped directory.
+1. Name it `first-app`.
+1. Go to "Deployment" tab and upload the tar file, then wait for the deployment to complete.
+1. The first time you build, it'll take a few minutes. After the build is completed, visit `https://first-app.dev.YOURDOMAIN.COM`.
+1. **CONGRATS! Your app is live!!** When complete, celebrate by posting the link to your working deployment on the `#bew2-2-docker` Slack channel!
+
+<!-- > -->
+
+## [**10m**] 👍 **Review**: Deploy a Tarfile
+
+Go over the activity and answer any questions.
+
+<!-- > -->
+
+## [**20m**] 💻 **Challenge**: Deploy via CapRover CLI
+
+**GOAL**: Practice an alternative, popular way to deploy: via CLI command.
+
+If you get stuck, review the following guide to deploying on CapRover: [Complete Webapp Tutorial](https://caprover.com/docs/complete-webapp-tutorial.html)
+
+1. Visit [caprover/captain-sample-apps](http://github.com/caprover/caprover/tree/master/captain-sample-apps).
+1. Choose a `.tar` file for a sample app, and download it. **Recommended**:
+   - Python/Django
+   - Go
+   - Node
+   - React
+1. Unzip the content by double-clicking the `.tar` file you downloaded, then open a terminal and navigate to the unzipped directory.
 1. Run the deploy command below. Be sure to read carefully and follow the instructions once you execute it!
 
     ```sh
     caprover deploy
     ```
 
-1. Enter `my-first-app` when asked for the app name.
-1. The first time you build, it'll take a few minutes. After the build is completed, visit `my-first-app.dev.YOURDOMAIN.COM`.
-1. **CONGRATS! Your app is live!!** When complete, celebrate by posting the link to your working deployment on the `#bew2-2-docker` Slack channel!
+    Enter `second-deploy` when asked for the app name.
+1. The first time you build, it’ll take a few minutes. After the build is completed, visit `second-app.dev.YOURDOMAIN.COM`.
 
-<!-- > -->
+## [**10m**] 👍 **Review**: Deploy via CapRover CLI
 
-## [**05m**] ✅ **Wrap Up**: Daily Check In
-
-Check in on student progress using a Zoom poll.
+Go over the activity and answer any questions, then dismiss class.
 
 <!-- > -->
 <!-- do not edit below this line !-->
