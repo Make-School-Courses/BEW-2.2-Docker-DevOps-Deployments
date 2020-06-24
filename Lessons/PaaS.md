@@ -9,8 +9,8 @@
 - [[**10m**] ☀️ **Warmup**: Update CapRover Dashboard](#10m-️-warmup-update-caprover-dashboard)
 - [[**10m**] 📚 **TT**: Introduction to CapRover](#10m--tt-introduction-to-caprover)
 - [[**20m**] 💻 **Activity**: Feature Frenzy](#20m--activity-feature-frenzy)
-- [[**10m**] 🌴 **Break**](#10m--break)
 - [[**15m**] 💻 **Activity**: Feature Frenzy Presentations](#15m--activity-feature-frenzy-presentations)
+- [[**10m**] 🌴 **Break**](#10m--break)
 - [[**20m**] 💻 **Challenge**: Deploy a Tarfile](#20m--challenge-deploy-a-tarfile)
 - [[**10m**] 👍 **Review**: Deploy a Tarfile](#10m--review-deploy-a-tarfile)
 - [[**20m**] 💻 **Challenge**: Deploy via CapRover CLI](#20m--challenge-deploy-via-caprover-cli)
@@ -62,11 +62,11 @@ Be prepared to give a 2-3 minute review of your topic to the class.
 
 <!-- > -->
 
-## [**10m**] 🌴 **Break**
+## [**15m**] 💻 **Activity**: Feature Frenzy Presentations
 
 <!-- > -->
 
-## [**15m**] 💻 **Activity**: Feature Frenzy Presentations
+## [**10m**] 🌴 **Break**
 
 <!-- > -->
 
