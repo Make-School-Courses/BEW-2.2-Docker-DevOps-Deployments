@@ -115,7 +115,7 @@ If you get stuck, review the following guide to deploying on CapRover: [Complete
     ```
 
     Enter `second-deploy` when asked for the app name.
-1. The first time you build, it’ll take a few minutes. After the build is completed, visit `second-app.dev.YOURDOMAIN.COM`.
+1. The first time you build, it’ll take a few minutes. After the build is completed, visit `second-deploy.dev.YOURDOMAIN.COM`.
 
 ## [**10m**] 👍 **Review**: Deploy via CapRover CLI
 
