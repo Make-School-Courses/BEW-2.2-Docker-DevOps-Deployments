@@ -49,11 +49,11 @@ _By the end of this course, you will be able to&hellip;_
 | 7     | Mon, June 15 | [Docker Compose]                                                          |
 | 8     | Wed, June 17 | 📝 **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_ |
 | 9     | Fri, June 19 | **❌NO CLASS - JUNETEENTH OBSERVED**                                       |
-| 10    | Mon, June 22 | [Domains & Droplets] / [Your Personal PaaS]                               |
-| 11    | Wed, June 24 | [Continuous Integration] / [Alerts]                                       |
-| 12    | Fri, June 26 | [Docker Hub]                                                              |
+| 10    | Mon, June 22 | [Domains & Droplets]                               |
+| 11    | Wed, June 24 | [Your Personal PaaS]                                      |
+| 12    | Fri, June 26 | [Alerts]                                                              |
 | 13    | Mon, June 29 | [Networking] & [Volumes]                                                  |
-| 14    | Wed, July 1  | [Multi-Stage Builds] / [Project Kickoff]                                  |
+| 14    | Wed, July 1  | [Multi-Stage Builds] / [Docker Hub]                                  |
 | -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED**                                 |
 | 15    | Mon, July 6  | [Docker Swarm]                                                            |
 | 16    | Wed, July 8  | [Security]                                                                |
