@@ -84,7 +84,7 @@ ping captain.dev.YOURDOMAIN.COM
 
 ## [**10m**] **TT**: Automating Uptime Monitoring
 
-These manual techniques work great when you're sitting in front of your computer. But what if you're AFK?
+These manual techniques work great when you're sitting in front of your computer. But what if you're AFK? How will we know the server is down?
 
 <!-- > -->
 
@@ -102,7 +102,21 @@ Use the remaining time to explore FreshPing's interface.
 
 ## [**10m**] **TT**: Status Pages
 
+**Status pages**:
+
+- Communicate incidents, scheduled maintenances and downtimes.
+- Can either be public or private.
+  - Private status pages communicate incidents with internal teams only
+- Helps you build customer trust.
+- Showcase the reliability of your platform
+  - Historical uptime
+  - Performance timeline of your service
+- Control over how you communicate an incident
+- Notify customers in real-time with updates to incidents and scheduled maintenance
+- Reduce the number of phone calls or tickets when the site goes down.
 - Should be hosted on a server other than the one(s) you're monitoring.
+- Help you learn more about how fast you respond to downtime.
+- Should always be hosted on a different server and network than the servers you're monitoring.
 
 <!-- > -->
 
@@ -203,6 +217,7 @@ Use the remaining time to answer questions before dismissing class.
 ## 📚 Resources & Credits
 
 - [Netdata] on GitHub
+- [Why should you use status page?](https://www.freshworks.com/statuspage/why-status-page/)
 
 <!-- do not edit below this line !-->
 [Gradescope]: https://www.gradescope.com/courses/133579
