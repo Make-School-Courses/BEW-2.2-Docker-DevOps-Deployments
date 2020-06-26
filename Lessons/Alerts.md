@@ -13,8 +13,9 @@
 - [[**10m**] **TT**: Automating Uptime Monitoring](#10m-tt-automating-uptime-monitoring)
 - [[**10m**] **Activity**: Set Up an Uptime Monitor](#10m-activity-set-up-an-uptime-monitor)
 - [[**10m**] **TT**: Status Pages](#10m-tt-status-pages)
-- [[**10m**] **Demo**: BEW 2.2 Dashboard](#10m-demo-bew-22-dashboard)
-- [[**20m**] **Activity**: Set Up a Status Page](#20m-activity-set-up-a-status-page)
+- [[**05m**] **Demo**: BEW 2.2 Dashboard](#05m-demo-bew-22-dashboard)
+- [[**10m**] **Activity**: Set Up a Status Page](#10m-activity-set-up-a-status-page)
+- [[**15m**] **Break**](#15m-break)
 - [[**10m**] **TT**: Resource Monitoring](#10m-tt-resource-monitoring)
   - [Introducing Netdata](#introducing-netdata)
   - [Industry Use](#industry-use)
@@ -23,7 +24,7 @@
   - [Step 1: Enable Netdata](#step-1-enable-netdata)
   - [Step 2: Enable Alerts](#step-2-enable-alerts)
   - [Step 3: Discover the Dashboard](#step-3-discover-the-dashboard)
-- [[**10m**] **Wrap Up**: Poll / Q+A](#20m-wrap-up-poll--qa)
+- [[**10m**] **Wrap Up**: Poll / Q+A](#10m-wrap-up-poll--qa)
 
 <!-- > -->
 
@@ -95,7 +96,7 @@ These manual techniques work great when you're sitting in front of your computer
 ## [**10m**] **Activity**: Set Up an Uptime Monitor
 
 1. Go to [FreshPing] and use the form on the left to create a new account:
-   1. Enter `https://captian.dev.YOURDOMAIN.COM` in the first field.
+   1. Enter `https://captain.dev.YOURDOMAIN.COM` in the first field.
    1. Enter your email address in the second field.
 1. Click the activation link sent to your email. _Required to receive alerts reliably._
 1. **FreshPing adds your first server automatically. You're all done!**
@@ -124,18 +125,23 @@ Use the remaining time to explore FreshPing's interface.
 
 <!-- > -->
 
-## [**10m**] **Demo**: BEW 2.2 Dashboard
+## [**05m**] **Demo**: BEW 2.2 Dashboard
 
 Demonstrate a status page that monitors all servers for the course: [make.sc/bew2.2-dashboard].
 
 <!-- > -->
 
-## [**20m**] **Activity**: Set Up a Status Page
+## [**10m**] **Activity**: Set Up a Status Page
 
 1. Add a status page on [FreshPing].
+1. Add `captain.dev.YOURDOMAIN.com` to the status page.
 1. Paste the URL for your status page in chat.
 
 We will be adding additional alerting and status indicators when we discuss [Docker Swarms].
+
+<!-- > -->
+
+## [**15m**] **Break**
 
 <!-- > -->
 
