@@ -4,19 +4,26 @@
 ⭐️ **GOAL**: Integrate [FreshPing] notifications for uptime monitoring. Utilize new integration by creating a status page for your PaaS.
 
 <!-- omit in toc -->
-## ⏰ Agenda (110m)
+## ⏰ Agenda (120m)
 
-- [[**10m**] **Warm Up**: How can it go wrong?](#10m-warm-up-how-can-it-go-wrong)
-- [[**10m**] **Discuss**: How can it go wrong?](#10m-discuss-how-can-it-go-wrong)
-- [[**10m**] **TT**: Is It Working? Verifying Manually](#10m-tt-is-it-working-verifying-manually)
+- [[**10m**] **Warm Up**: Disaster Scenarios](#10m-warm-up-disaster-scenarios)
+- [[**10m**] **Discuss**: Disaster Scenarios](#10m-discuss-disaster-scenarios)
+- [[**10m**] **TT**: Avoiding Disaster](#10m-tt-avoiding-disaster)
   - [Command Line Tools](#command-line-tools)
 - [[**10m**] **TT**: Automating Uptime Monitoring](#10m-tt-automating-uptime-monitoring)
 - [[**10m**] **Activity**: Set Up an Uptime Monitor](#10m-activity-set-up-an-uptime-monitor)
 - [[**10m**] **TT**: Status Pages](#10m-tt-status-pages)
 - [[**10m**] **Demo**: BEW 2.2 Dashboard](#10m-demo-bew-22-dashboard)
 - [[**20m**] **Activity**: Set Up a Status Page](#20m-activity-set-up-a-status-page)
-- [[**10m**] **TT**: Process Monitoring](#10m-tt-process-monitoring)
-- [[**10m**] **Activity**: Enable Netdata on CapRover](#10m-activity-enable-netdata-on-caprover)
+- [[**10m**] **TT**: Resource Monitoring](#10m-tt-resource-monitoring)
+  - [Introducing Netdata](#introducing-netdata)
+  - [Industry Use](#industry-use)
+  - [What Netdata Monitors](#what-netdata-monitors)
+- [[**10m**] **Activity**: Working With Netdata](#10m-activity-working-with-netdata)
+  - [Step 1: Enable Netdata](#step-1-enable-netdata)
+  - [Step 2: Enable Alerts](#step-2-enable-alerts)
+  - [Step 3: Discover the Dashboard](#step-3-discover-the-dashboard)
+- [[**10m**] **Wrap Up**: Poll / Q+A](#20m-wrap-up-poll--qa)
 
 <!-- > -->
 
@@ -185,7 +192,7 @@ Browse the dashboard by clicking `Open Netdata`!
 
 <!-- > -->
 
-## [**20m**] **Wrap Up**: Poll / Q+A
+## [**10m**] **Wrap Up**: Poll / Q+A
 
 Present students with a Zoom poll to determine their progress for the day.
 
