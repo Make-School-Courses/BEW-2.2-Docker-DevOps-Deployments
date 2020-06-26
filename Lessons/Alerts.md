@@ -198,13 +198,13 @@ Netdata's data collection is **extensible**, which means you can monitor anythin
 
 Send email alerts to your gmail account by scrolling down to Notification Settings and entering the following data in the **Email (SMTP)** section:
 
-**Recipient Email**: `youraccount@gmail.com`
-**Server Tag**: `CapRover`
-**SMTP Server**: `smtp.gmail.com`
-**SMTP Port**: `587`
-**Unsecure**: Leave unchecked
-**SMTP Username**: `youraccount@gmail.com`
-**SMTP Password**: `your_gmail_password` (will be hidden after submitting)
+- **Recipient Email**: `youraccount@gmail.com`
+- **Server Tag**: `CapRover`
+- **SMTP Server**: `smtp.gmail.com`
+- **SMTP Port**: `587`
+- **Unsecure**: Leave unchecked
+- **SMTP Username**: `youraccount@gmail.com`
+- **SMTP Password**: `your_gmail_password` (will be hidden after submitting)
 
 Click `Update Netdata` to finish.
 

@@ -7,8 +7,6 @@
 - [Docker Compose](Lessons/Compose.md)
 - [Domains & Droplets](Lessons/Droplets.md)
 - [Your Personal PaaS](Lessons/PaaS.md)
-- [Security](Lessons/Security.md)
-- [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8)
 - [Alerts](Lessons/Alerts.md)
 - [Docker Hub](Lessons/Hub.md)
 - [Networking](Lessons/Networking.md)
