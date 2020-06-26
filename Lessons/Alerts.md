@@ -64,6 +64,10 @@ We'll be talking about how to mitigate many of these risks today!
 
 ## [**10m**] **TT**: Avoiding Disaster
 
+Today, we'll cover several ways to know and be notified when you're site goes down.
+
+First, let's learn how we can check manually using our terminal.
+
 ### Command Line Tools
 
 <!-- > -->
@@ -128,7 +132,7 @@ Demonstrate a status page that monitors all servers for the course: [make.sc/bew
 
 ## [**20m**] **Activity**: Set Up a Status Page
 
-1. Add a status page on FreshPing.
+1. Add a status page on [FreshPing].
 1. Paste the URL for your status page in chat.
 
 We will be adding additional alerting and status indicators when we discuss [Docker Swarms].
