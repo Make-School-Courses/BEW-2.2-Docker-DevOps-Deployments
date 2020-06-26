@@ -184,7 +184,7 @@ Netdata's data collection is **extensible**, which means you can monitor anythin
 
 ## [**10m**] **Activity**: Working With Netdata
 
-<p align="center"><img src="https://user-images.githubusercontent.com/1153921/80827388-b9fee100-8b98-11ea-8f60-0d7824667cd3.gif" height="450"></p>
+![](https://user-images.githubusercontent.com/1153921/80827388-b9fee100-8b98-11ea-8f60-0d7824667cd3.gif)
 
 <!-- > -->
 
