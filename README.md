@@ -53,7 +53,7 @@ _By the end of this course, you will be able to&hellip;_
 | 11    | Wed, June 24 | [Your Personal PaaS]                                      |
 | 12    | Fri, June 26 | [Alerts]                                                              |
 | 13    | Mon, June 29 | [Continuous Integration]                                                 |
-| 14    | Wed, July 1  | [Multi-Stage Builds] / [Docker Hub]                                  |
+| 14    | Wed, July 1  | [Project Kickoff]                                  |
 | -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED**                                 |
 | 15    | Mon, July 6  | [Docker Swarm]                                                            |
 | 16    | Wed, July 8  | [Security]                                                                |
