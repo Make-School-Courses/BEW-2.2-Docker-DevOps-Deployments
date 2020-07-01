@@ -80,7 +80,7 @@ _Review the [Requirements Document](Projects/FinalProject.md) to learn more abou
 
 - [⭐️ **Project Goals**](Projects/FinalProject.md#️-project-goals) & [**Requirements**](Projects/FinalProject.md#-project-requirements)
 - [🗓 **Deliverables** & **Due Dates**](Projects/FinalProject.md#-deliverables--due-dates)
-  - [1️⃣ **Proposal**: Due 6/26 @ 11:59pm](#1️⃣-proposal-due-626--1159pm)
+  - [1️⃣ **Proposal**: Due 7/01 @ 11:59pm](#1️⃣-proposal-due-701--1159pm)
   - [2️⃣ **Presentation**: Due 7/15 @ 11:59pm](#2️⃣-presentation-due-715--1159pm)
   - [3️⃣ **Blog Post**: Due 7/15 @ 11:59pm](#3️⃣-blog-post-due-715--1159pm)
   - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](#4️⃣-repository-due-715--1159pm)
