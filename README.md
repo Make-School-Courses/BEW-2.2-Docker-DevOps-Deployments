@@ -55,7 +55,7 @@ _By the end of this course, you will be able to&hellip;_
 | 13    | Mon, June 29 | [Continuous Integration]                                                 |
 | 14    | Wed, July 1  | [Project Kickoff]                                  |
 | -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED**                                 |
-| 15    | Mon, July 6  | [Docker Swarm]                                                            |
+| 15    | Mon, July 6  | [Docker Volumes]                                                            |
 | 16    | Wed, July 8  | [Security]                                                                |
 | 17    | Fri, July 10 | [Architecture Diagrams]                                                   |
 | 18    | Mon, July 13 | 📝 **Lab**: Work on Blog Post, Project, or Presentation                   |
@@ -130,3 +130,4 @@ _To pass this course you must meet the following requirements:_
 [Security]: Lessons/Security.md
 [Volumes]: Lessons/Volumes.md
 [Your Personal PaaS]: Lessons/PaaS.md
+[Docker Volumes]: Lessons/Volumes.md
