@@ -56,10 +56,10 @@ _By the end of this course, you will be able to&hellip;_
 | 14    | Wed, July 1  | [Project Kickoff]                                  |
 | -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED**                                 |
 | 15    | Mon, July 6  | [Docker Volumes]                                                            |
-| 16    | Wed, July 8  | 📝 **Lab**: Work on Blog Post, Project, or Presentation                                                                 |
-| 17    | Fri, July 10 | [Security] |
-| 18    | Mon, July 13 | [Architecture Diagrams] |
-| 19    | Wed, July 15 | TBD |
+| 16    | Wed, July 8  | [Advanced Container Orchestration Techniques]  |
+| 17    | Fri, July 10 | [Docker Swarm] |
+| 18    | Mon, July 13 | [Security] |
+| 19    | Wed, July 15 | [Architecture Diagrams] |
 | 20    | Fri, July 17 | [Final Presentations]                                                     |
 
 ## Class Assignments
@@ -132,3 +132,4 @@ _To pass this course you must meet the following requirements:_
 [Volumes]: Lessons/Volumes.md
 [Your Personal PaaS]: Lessons/PaaS.md
 [Docker Volumes]: Lessons/Volumes.md
+[Advanced Container Orchestration Techniques]: Lessons/AdvancedOrchestration.md
