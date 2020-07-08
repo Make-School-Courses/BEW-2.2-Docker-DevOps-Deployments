@@ -56,9 +56,10 @@ _By the end of this course, you will be able to&hellip;_
 | 14    | Wed, July 1  | [Project Kickoff]                                  |
 | -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED**                                 |
 | 15    | Mon, July 6  | [Docker Volumes]                                                            |
-| 16    | Wed, July 8  | [Security]                                                                |
-| 17    | Fri, July 10 | [Architecture Diagrams]                                                   |
-| 18    | Mon, July 13 | 📝 **Lab**: Work on Blog Post, Project, or Presentation                   |
+| 16    | Wed, July 8  | 📝 **Lab**: Work on Blog Post, Project, or Presentation                                                                 |
+| 17    | Fri, July 10 | [Security] |
+| 18    | Mon, July 13 | [Architecture Diagrams] |
+| 19    | Wed, July 15 | TBD |
 | 20    | Fri, July 17 | [Final Presentations]                                                     |
 
 ## Class Assignments
