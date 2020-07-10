@@ -38,7 +38,13 @@ The instructor will ask students to share one idea each.
 
 <!-- > -->
 
-## [**20m**] Investigate: Let's Encrypt
+## [**20m**] Investigate: HTTPS & Let's Encrypt
+
+### Overview
+
+<p align="center"><img src="https://pbs.twimg.com/media/EBh6-PjX4AYol_z?format=jpg&name=large"></p>
+
+### Activity
 
 In breakout groups, use the [CapRover Documentation] and the [Let's Encrypt] documentation to answer the following questions:
 
