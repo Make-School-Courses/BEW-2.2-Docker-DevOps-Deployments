@@ -1,59 +1,89 @@
 <!-- Run as a slideshow: reveal-md README.md -w -->
-# 🐳 Security `🚧 WIP`
+# 🐳 Security
 
-⭐️ **GOAL**: Secure the servers that run your PaaS.
+⭐️ **GOAL**: Learn more about HTTPS, SSL, and how to keep your projects secure using environment variables.
 
 <!-- omit in toc -->
 ## ⏰ Agenda
 
-- [[**00m**] Introduce](#00m-introduce)
-- [[**00m**] Discuss](#00m-discuss)
-- [Practice](#practice)
-- [Dive Deeper](#dive-deeper)
-  - [Instructions](#instructions)
+- [[**20m**] Activity: Blog Brainstorming](#20m-activity-blog-brainstorming)
+- [[**10m**] Discuss: Share Your Ideas](#10m-discuss-share-your-ideas)
+- [[**20m**] Investigate: Let's Encrypt](#20m-investigate-lets-encrypt)
+- [[**10m**] BREAK](#10m-break)
+- [[**20m**] TT: HTTPS and Environment Variables on CapRover](#20m-tt-https-and-environment-variables-on-caprover)
+- [[**15m**] Demo & Mini-Challenge: Enable HTTPS on CapRover](#15m-demo--mini-challenge-enable-https-on-caprover)
+- [[**25m**] Lab Time: Blog Post, Project, or Presentation](#25m-lab-time-blog-post-project-or-presentation)
 
 <!-- > -->
 
 <!-- omit in toc -->
 ## 🏆 Objectives
 
-<!-- TODO: Objectives -->
-
-*By the end of this class, you'll be able to&hellip;*
-
-|   Level   | Verbs |
-| --------- | ----- |
-| **6: Create** | _design, formulate, build, invent, create, compose, generate, derive, modify, develop_ |
-| **5: Evaluate** | *choose, support, relate, determine, defend, compare, contrast, justify, support, convince, select* |
-| **4: Analyze** | *classify, break down, categorize, analyze, diagram, illustrate, criticize, simplify, associate* |
-| **3: Apply** | *calculate, predict, apply, solve, illustrate, use, demonstrate, determine, model, perform, present* |
-| **2: Understand** | *describe, explain, paraphrase, restate, summarize, contrast, interpret, discuss* |
-| **1: Remember** | *list, recite, outline, define, name, match, quote, recall, identify, label, recognize* |
+1. Compare and contrast HTTP and HTTPS.
+1. Enable HTTPS on your CapRover applications.
 
 <!-- > -->
 
-## [**00m**] Activity
+## [**20m**] Activity: Blog Brainstorming
+
+Work on brainstorming potential titles and subjects for your final blog post in a breakout group. Remember, it's due next week!
+
+Write down and decide on your favorites. We'll discuss them later in class!
 
 <!-- > -->
 
-## Challenges
+## [**10m**] Discuss: Share Your Ideas
 
-_Description._
+The instructor will ask students to share one idea each.
 
 <!-- > -->
 
-## Stretch Challenges
+## [**20m**] Investigate: Let's Encrypt
 
-_Description._
+In breakout groups, use the [CapRover Documentation] and the [Let's Encrypt] documentation to answer the following questions:
+
+1. What is Let's Encrypt?
+1. Who uses it?
+1. Why is it important?
+1. How does Let's Encrypt relate to CapRover?
+1. Should you always use HTTPS in your applications?
+
+<!-- > -->
+
+## [**10m**] BREAK
+
+<!-- > -->
+
+## [**20m**] TT: HTTPS and Environment Variables on CapRover
+
+Use the [CapRover Documentation](https://caprover.com/docs/app-configuration.html) to highlight the steps to configuring HTTPS and environment variables on a CapRover instance.
+
+<!-- > -->
+
+## [**15m**] Demo & Mini-Challenge: Enable HTTPS on CapRover
+
+1. Navigate to the Apps page on your CapRover dashboard.
+1. Select the first app you deployed.
+1. Click the `Enable HTTPS` button on the `HTTP Settings` page.
+1. Check the `Force HTTPS by redirecting all HTTP traffic to HTTPS` checkbox.
+1. Click `Save & Update`.
+1. Repeat for the second application you deployed!
+
+<!-- > -->
+
+## [**25m**] Lab Time: Blog Post, Project, or Presentation
+
+Use the remainder of class time to continue working on your final project, due next Friday!
 
 <!-- > -->
 
 <!-- omit in toc -->
 ## 📚 Resources & Credits
 
-
+- [Let's Encrypt]
+- [CapRover Documentation]
 
 <!-- do not edit below this line !-->
-[View]: https://make-school-courses.github.io/BEW-2.3-Web-Security/Slides/00-LESSON_NAME_TODO
+[Let's Encrypt]: https://letsencrypt.org
+[CapRover Documentation]: https://caprover.com/docs
 [Gradescope]: https://www.gradescope.com/courses/133579
-[Link]: https://en.wikipedia.org/wiki/HTTP_404
