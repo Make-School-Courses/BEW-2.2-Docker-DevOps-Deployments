@@ -58,8 +58,8 @@ _By the end of this course, you will be able to&hellip;_
 | 15    | Mon, July 6  | [Docker Volumes]                                                            |
 | 16    | Wed, July 8  | [Advanced Container Orchestration Techniques]  |
 | 17    | Fri, July 10 | [Security] |
-| 18    | Mon, July 13 | [Docker Swarm] |
-| 19    | Wed, July 15 | [Architecture Diagrams] |
+| 18    | Mon, July 13 | Demo: Deploying on CapRover |
+| 19    | Wed, July 15 | 🔬 **Lab**: Final Projects |
 | 20    | Fri, July 17 | [Final Presentations]                                                     |
 
 ## Class Assignments
