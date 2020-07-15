@@ -59,7 +59,7 @@ _By the end of this course, you will be able to&hellip;_
 | 16    | Wed, July 8  | [Advanced Container Orchestration Techniques]  |
 | 17    | Fri, July 10 | [Security] |
 | 18    | Mon, July 13 | Demo: Deploying on CapRover |
-| 19    | Wed, July 15 | 🔬 **Lab**: Final Projects |
+| 19    | Wed, July 15 | [Course Review] |
 | 20    | Fri, July 17 | [Final Presentations]                                                     |
 
 ## Class Assignments
@@ -133,3 +133,4 @@ _To pass this course you must meet the following requirements:_
 [Your Personal PaaS]: Lessons/PaaS.md
 [Docker Volumes]: Lessons/Volumes.md
 [Advanced Container Orchestration Techniques]: Lessons/AdvancedOrchestration.md
+[Course Review]: Lessons/CourseReview.md
