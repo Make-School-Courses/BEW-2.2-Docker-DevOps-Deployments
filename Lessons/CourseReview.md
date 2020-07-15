@@ -7,6 +7,8 @@
 - [[**45m**] 💻 Activity: Jeopardy](#45m--activity-jeopardy)
   - [How to Play](#how-to-play)
 - [[**15m**] 🌴 Break](#15m--break)
+- [[**30m**] ⭐️ Review: Blog Post or Presentations](#30m-️-review-blog-post-or-presentations)
+- [[**10m**] 💬 Discuss: Share Feedback](#10m--discuss-share-feedback)
 - [[**15m**] ✅ Feedback Form](#15m--feedback-form)
 
 <!-- > -->
@@ -41,6 +43,18 @@
 <!-- > -->
 
 ## [**15m**] 🌴 Break
+
+<!-- > -->
+
+## [**30m**] ⭐️ Review: Blog Post or Presentations
+
+Review blog posts or presentations in 3x 10 minute one-on-one breakouts. If not done, discuss what you're working on for your final project, or any blockers you have.
+
+<!-- > -->
+
+## [**10m**] 💬 Discuss: Share Feedback
+
+Ask each student to share one piece of feedback they received during the session.
 
 <!-- > -->
 
