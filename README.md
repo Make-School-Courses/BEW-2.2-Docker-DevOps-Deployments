@@ -24,6 +24,12 @@ In this course students will learn the two main flavors of Developer Operations 
 - [BEW 1.1](https://make.sc/bew1-1)
 - [BEW 1.2](https://make.sc/bew1-2)
 
+## Course Specifics
+
+**Course Delivery**: online | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Outcomes
 
 _By the end of this course, you will be able to&hellip;_
@@ -95,6 +101,12 @@ _To pass this course you must meet the following requirements:_
 - Pass the [final project] and [architecture review] according to the rubric.
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
+
+## Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
