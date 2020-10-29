@@ -41,32 +41,28 @@ _By the end of this course, you will be able to&hellip;_
 
 ## Schedule
 
-**Course Dates**: Monday, June 1<sup>st</sup> &mdash; Friday, July 17<sup>th</sup> 2020 _(7 weeks)_<br>
-**Class Times**: Monday, Wednesday, & Friday: 1:30 &mdash; 3:30pm _(20 class sessions)_
+**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
+
+**Class Times:** Tuesday 1:45-4:30pm PST and Thursday at 2:45–5:30pm PST (13 class sessions)
 
 | Class | Date         | Topics                                                                    |
 |-------|--------------|---------------------------------------------------------------------------|
-| 1     | Mon, June 1  | [Course Orientation]                                                      |
-| 2     | Wed, June 3  | [How Containers Work]                                                     |
-| 3     | Fri, June 5  | [Domains & DNS]                                                           |
-| 4     | Mon, June 8  | 🔬 **Lab**: [Scripting in Bash]                                            |
-| 5     | Wed, June 10 | [Dockerizing Web Apps]                                                    |
-| 6     | Fri, June 12 | 🔬 **Lab**: [Dockerizing Your Web App]                                     |
-| 7     | Mon, June 15 | [Docker Compose]                                                          |
-| 8     | Wed, June 17 | 📝 **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_ |
-| 9     | Fri, June 19 | **❌NO CLASS - JUNETEENTH OBSERVED**                                       |
-| 10    | Mon, June 22 | [Domains & Droplets]                               |
-| 11    | Wed, June 24 | [Your Personal PaaS]                                      |
-| 12    | Fri, June 26 | [Alerts]                                                              |
-| 13    | Mon, June 29 | [Continuous Integration]                                                 |
-| 14    | Wed, July 1  | [Project Kickoff]                                  |
-| -     | Fri, July 3  | **❌NO CLASS - INDEPENDENCE DAY OBSERVED**                                 |
-| 15    | Mon, July 6  | [Docker Volumes]                                                            |
-| 16    | Wed, July 8  | [Advanced Container Orchestration Techniques]  |
-| 17    | Fri, July 10 | [Security] |
-| 18    | Mon, July 13 | Demo: Deploying on CapRover |
-| 19    | Wed, July 15 | [Course Review] |
-| 20    | Fri, July 17 | [Final Presentations]                                                     |
+|  1 |  Thu, Oct 22   | [Course Orientation]                                                      |
+|  2 |  Tue, Oct 27   | [How Containers Work]                                                     |
+|  3 |  Thu, Oct 29   | 🔬 **Lab**: [Scripting in Bash]                                                           |
+|  - |  Tue, Nov 3    |  **Vote! - Civic Responsibility Break**                                           |
+|  4 |  Thu, Nov 5    | [Domains & DNS]                                                     |
+|  5 |  Tue, Nov 10   | [Dockerizing Web Apps] + [Dockerizing Your Web App]                                     |
+|  6 |  Thu, Nov 12   | [Docker Compose] + 📝 **Lab**: [Review Worksheet]: _Containers, Orchestration, Optimization_        |
+|  7 |  Tue, Nov 17   | [Domains & Droplets] |
+|  8 |  Thu, Nov 19   | [Your Personal PaaS]                  |
+|  9 |  Tue, Nov 24   | [Alerts] + [Continuous Integration]                              |
+|  - |  Thu, Nov 26   | **Holiday- Thanksgiving**                                      |
+| 10 |  Tue, Dec 1    | [Project Kickoff]                                                              |
+| 11 |  Thu, Dec 3    | [Docker Volumes] + [Advanced Container Orchestration Techniques]                  |
+| 12 |  Tue, Dec 8    | Demo: Deploying on CapRover + [Course Review]                         |
+| 13 |  Thu, Dec 10   | [Final Presentations]                                 |
+
 
 ## Class Assignments
 
