@@ -122,7 +122,7 @@ Gain valuable real-world experience in DevOps through these hands-on activities.
 **To pass this course, you must**:
 
 - **Complete all five tutorials** listed in the [**Tutorials**](#tutorials) section.
-- **Complete all five DevOps challenges** listed in the [ d](#challenges) section; each submitted on [Gradescope] when complete.
+- **Complete all five DevOps challenges** listed in the [**Challenges**](#challenges) section; each submitted on [Gradescope] when complete.
   - URL-based deliverables must return a valid response to earn full credit.
   - Docker-based deliverables that successfully build and run to earn full credit.
 - **Submit a [final project](Projects/FinalProject.md) on [Gradescope]** and pass according to the [rubric](Projects/FinalProject.md#rubric).
