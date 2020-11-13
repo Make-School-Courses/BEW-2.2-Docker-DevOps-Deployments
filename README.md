@@ -2,17 +2,23 @@
 
 # Docker, DevOps, & Deployments
 
+<span class="refresh-instructions">This syllabus is a living document! Hold down the `SHIFT` key and press `Refresh` to get the latest version.</span>
+
 <!-- omit in toc -->
 ## Table of Contents
 
 - [Course Description](#course-description)
 - [Prerequisites](#prerequisites)
+- [Course Specifics](#course-specifics)
 - [Learning Outcomes](#learning-outcomes)
 - [Schedule](#schedule)
 - [Class Assignments](#class-assignments)
   - [Tutorials](#tutorials)
+  - [Challenges](#challenges)
   - [Final Project](#final-project)
 - [Evaluation](#evaluation)
+- [Academic Honesty Policy](#academic-honesty-policy)
+- [Information Resources](#information-resources)
 - [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
@@ -68,35 +74,76 @@ _By the end of this course, you will be able to&hellip;_
 
 ### Tutorials
 
-_Complete all 5 tutorials to pass the course_:
+To access each tutorial, click the links below. Be sure to complete the exercise in your browser and follow each instruction carefully.
 
-- Tutorial 1: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello)
-- Tutorial 2: [Customizing Docker Images](https://training.play-with-docker.com/ops-s1-images)
-- Tutorial 3: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro)
-- Tutorial 4: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol)
-- Tutorial 5: [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol)
+**_Complete all five tutorials to pass the course_**:
+
+- **Tutorial 1**: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello)
+- **Tutorial 3**: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro)
+- **Tutorial 2**: [Customizing Docker Images](https://training.play-with-docker.com/ops-s1-images)
+- **Tutorial 4**: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol)
+- **Tutorial 5**: [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol)
+
+### Challenges
+
+Gain valuable real-world experience in DevOps through these hands-on activities.
+
+**_Complete all five challenges to pass the course_**:
+
+- **Challenge 1**: Your Own Domain Name _([Instructions](Projects/Challenges.md))_
+- **Challenge 2**: Connect Your Domain to GitHub Pages _([Instructions](Guides/InfiniteGithubPages.md))_
+- **Challenge 3**: Dockerize Any Flask Application _([Instructions](Projects/Challenges.md))_
+- **Challenge 4**: Your First Server _([Instructions](Projects/Challenges.md))_
+- **Challenge 5**: Compose a Web Application _([Instructions](Projects/Challenges.md))_
 
 
 ### Final Project
 
-_Review the [Requirements Document](Projects/FinalProject.md) to learn more about the project, including_:
+**In your final project, you'll add the following features to an existing codebase of your choosing**:
 
-- [⭐️ **Project Goals**](Projects/FinalProject.md#️-project-goals) & [**Requirements**](Projects/FinalProject.md#-project-requirements)
-- [🗓 **Deliverables** & **Due Dates**](Projects/FinalProject.md#-deliverables--due-dates)
-  - [1️⃣ **Proposal**: Due 7/01 @ 11:59pm](#1️⃣-proposal-due-701--1159pm)
-  - [2️⃣ **Presentation**: Due 7/15 @ 11:59pm](#2️⃣-presentation-due-715--1159pm)
-  - [3️⃣ **Blog Post**: Due 7/15 @ 11:59pm](#3️⃣-blog-post-due-715--1159pm)
-  - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](#4️⃣-repository-due-715--1159pm)
+- **Develop** a `Dockerfile` and `docker-compose.yml` file that successfully deploys any web application or open source project.
+- **Deploy** your application's image to your own cloud production server.
+- **Monitor** your application’s uptime using a health check.
+- **Demonstrate** confidence writing and speaking about Docker, DevOps, and deployment topics by summarizing the experience in a blog post.
+
+**_Review the [Requirements Document](Projects/FinalProject.md) to learn more about the project, including_**:
+
+- [⭐️ Project Goals](#%e2%ad%90%ef%b8%8f-project-goals)
+- [📋 Project Requirements](#%f0%9f%93%8b-project-requirements)
+- [🗓 Deliverables & Due Dates](#%f0%9f%97%93-deliverables--due-dates)
+  - [1️⃣ **Presentation**: Due 12/9 @ 11:59pm](#1%ef%b8%8f%e2%83%a3-presentation-due-129--1159pm)
+  - [2️⃣ **Blog Post**: Due 12/9 @ 11:59pm](#2%ef%b8%8f%e2%83%a3-blog-post-due-129--1159pm)
+  - [3️⃣ **Repository**: Due 12/9 @ 11:59pm](#3%ef%b8%8f%e2%83%a3-repository-due-129--1159pm)
 
 ## Evaluation
 
-_To pass this course you must meet the following requirements:_
+**To pass this course, you must**:
 
-- Complete all required tutorials, challenges, and projects as listed in this syllabus.
-- Turn in all deliverables on [Gradescope].
-- Pass the [final project] and [architecture review] according to the rubric.
-- Actively participate in class and abide by the attendance policy.
-- Make up all classwork from all absences.
+- **Complete all five tutorials** listed in the [Tutorials](#tutorials) section of this syllabus.
+- **Complete all five DevOps challenges** listed in the [Challenges](#challenges) section of this syllabus. Each challenge must be submitted on [Gradescope].
+- **Submit a [final project](Projects/FinalProject.md) on [Gradescope]** and pass according to the [rubric](Projects/FinalProject.md#rubric).
+- Actively **participate in class** and **abide by the attendance policy**.
+- **Make up all classwork** from all absences.
+
+## Academic Honesty Policy
+
+At Make School, we highly encourage collaboration between students on assignments. Working with other people is the best way to learn!
+
+However, there's a big difference between **collaboration** (writing code together with another person) and **plagiarism** (copying code from a classmate or outside source without providing proper attribution).
+
+Here are some guidelines to follow in order to avoid plagiarism:
+
+1. If you are looking at an outside source for help, **close the window** containing the code before writing your own solution.
+1. Do not write down a line of code unless you **completely understand** how it works. (This is true even if the source you're referencing is the lesson slides/examples/etc!)
+1. If your code is still similar to an outside source or another student's, **provide attribution** by adding a comment to your code explaining where it was taken from.
+
+We take academic honesty very seriously at Make School. The consequences for violating the policy are as follows:
+
+- You will be required to write a [Self-Reflection Letter](https://docs.google.com/document/d/140_PHfDh7gu33OZI_caxEtvNzAlAepjnGcbQcXZ-MRo/edit?usp=sharing) to reflect on how your actions affected others.
+- If this is your first offense, you may be permitted to redo the assignment for a reduced grade (at the instructor's discretion).
+- The incident will be added to your permanent record at Make School and you may be placed on a Participation Improvement Plan (PIP).
+
+For subsequent offenses, more serious consequences may be considered. For more information, please see [Make School's academic honesty policy](https://make.sc/academic-honesty-policy).
 
 ## Information Resources
 
