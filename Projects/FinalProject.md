@@ -2,13 +2,12 @@
 
 <!-- TODO: Add description. -->
 
-- [⭐️ Project Goals](#️-project-goals)
-- [📋 Project Requirements](#-project-requirements)
-- [🗓 Deliverables & Due Dates](#-deliverables--due-dates)
-  - [1️⃣ **Proposal**: Due 7/01 @ 11:59pm](#1️⃣-proposal-due-701--1159pm)
-  - [2️⃣ **Presentation**: Due 7/15 @ 11:59pm](#2️⃣-presentation-due-715--1159pm)
-  - [3️⃣ **Blog Post**: Due 7/15 @ 11:59pm](#3️⃣-blog-post-due-715--1159pm)
-  - [4️⃣ **Repository**: Due 7/15 @ 11:59pm](#4️⃣-repository-due-715--1159pm)
+- [⭐️ Project Goals](#%e2%ad%90%ef%b8%8f-project-goals)
+- [📋 Project Requirements](#%f0%9f%93%8b-project-requirements)
+- [🗓 Deliverables & Due Dates](#%f0%9f%97%93-deliverables--due-dates)
+  - [1️⃣ **Presentation**: Due 12/9 @ 11:59pm](#1%ef%b8%8f%e2%83%a3-presentation-due-129--1159pm)
+  - [2️⃣ **Blog Post**: Due 12/9 @ 11:59pm](#2%ef%b8%8f%e2%83%a3-blog-post-due-129--1159pm)
+  - [3️⃣ **Repository**: Due 12/9 @ 11:59pm](#3%ef%b8%8f%e2%83%a3-repository-due-129--1159pm)
 
 ## ⭐️ Project Goals
 
@@ -39,21 +38,14 @@ Create a file in the root of your project named `requirements.md`, then paste th
 
 _All submissions are due at **11:59pm** unless otherwise specified._
 
-### 1️⃣ **Proposal**: Due 7/01 @ 11:59pm
+### 1️⃣ **Presentation**: Due 12/9 @ 11:59pm
 
-🔗 Submit your **[Proposal Repo Link](https://www.gradescope.com/courses/133579/assignments/467884)** on Gradescope.
+🔗 Submit your **[Recorded Presentation](https://www.gradescope.com/courses/203051/assignments/844179)** on Gradescope.
 
-- **Students who do not submit a proposal will be required to meet one on one with the instructor within the week to get unblocked**.
-- The instructor will **approve your proposal** via Gradescope **before the following class**.
+### 2️⃣ **Blog Post**: Due 12/9 @ 11:59pm
 
-### 2️⃣ **Presentation**: Due 7/15 @ 11:59pm
+🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/203051/assignments/467890)** on Gradescope.
 
-🔗 Submit your **[Recorded Presentation](https://www.gradescope.com/courses/133579/assignments/462693)** on Gradescope.
+### 3️⃣ **Repository**: Due 12/9 @ 11:59pm
 
-### 3️⃣ **Blog Post**: Due 7/15 @ 11:59pm
-
-🔗 Submit your **[Blog Post Link](https://www.gradescope.com/courses/133579/assignments/467890)** on Gradescope.
-
-### 4️⃣ **Repository**: Due 7/15 @ 11:59pm
-
-🔗 Submit your **[Finished GitHub Repository](https://www.gradescope.com/courses/133579/assignments/428249)** on Gradescope.
+🔗 Submit your **[Finished GitHub Repository](https://www.gradescope.com/courses/203051/assignments/844177)** on Gradescope.
