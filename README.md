@@ -76,13 +76,15 @@ _By the end of this course, you will be able to&hellip;_
 
 To access each tutorial, click the links below. Be sure to complete the exercise in your browser and follow each instruction carefully.
 
-**_Complete all five tutorials to pass the course_**:
+**_Complete all five tutorials before the midterm_**:
 
 - **Tutorial 1**: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello)
 - **Tutorial 3**: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro)
 - **Tutorial 2**: [Customizing Docker Images](https://training.play-with-docker.com/ops-s1-images)
 - **Tutorial 4**: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol)
 - **Tutorial 5**: [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol)
+
+Knowledge gained in the tutorials will be evaluated on the [Containers, Orchestration, Optimization](https://www.gradescope.com/courses/203051/assignments/835995) worksheet as well as participation during the final [Course Review].
 
 ### Challenges
 
@@ -119,8 +121,10 @@ Gain valuable real-world experience in DevOps through these hands-on activities.
 
 **To pass this course, you must**:
 
-- **Complete all five tutorials** listed in the [Tutorials](#tutorials) section of this syllabus.
-- **Complete all five DevOps challenges** listed in the [Challenges](#challenges) section of this syllabus. Each challenge must be submitted on [Gradescope].
+- **Complete all five tutorials** listed in the [**Tutorials**](#tutorials) section.
+- **Complete all five DevOps challenges** listed in the [ d](#challenges) section; each submitted on [Gradescope] when complete.
+  - URL-based deliverables must return a valid response to earn full credit.
+  - Docker-based deliverables that successfully build and run to earn full credit.
 - **Submit a [final project](Projects/FinalProject.md) on [Gradescope]** and pass according to the [rubric](Projects/FinalProject.md#rubric).
 - Actively **participate in class** and **abide by the attendance policy**.
 - **Make up all classwork** from all absences.
@@ -176,12 +180,12 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 [Domains & Droplets]: Lessons/Droplets.md
 [Final Presentations]: Projects/FinalProject.md#Deliverables
 [Final Project]: Projects/FinalProject.md
-[Gradescope]: https://www.gradescope.com/courses/133579
+[Gradescope]: https://www.gradescope.com/courses/203051
 [How Containers Work]: Lessons/Dockerfiles.md
 [Multi-Stage Builds]: Lessons/Builds.md
 [Networking]: Lessons/Networking.md
 [Project Kickoff]: Projects/FinalProject.md
-[Review Worksheet]: https://www.gradescope.com/courses/133579/assignments/536592
+[Review Worksheet]: https://www.gradescope.com/courses/203051/assignments/835995
 [Scripting in Bash]: https://github.com/veltman/clmystery
 [Security]: Lessons/Security.md
 [Volumes]: Lessons/Volumes.md
