@@ -78,11 +78,14 @@ To access each tutorial, click the links below. Be sure to complete the exercise
 
 **_Complete all five tutorials before the midterm_**:
 
-- **Tutorial 1**: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello)
-- **Tutorial 3**: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro)
-- **Tutorial 2**: [Customizing Docker Images](https://training.play-with-docker.com/ops-s1-images)
-- **Tutorial 4**: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol)
-- **Tutorial 5**: [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol)
+| Name | Description | Due Date |
+| ---- | ----------- | -------- |
+| **Tutorial 1**: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello) | _Explore Docker fundamentals._ | **11/16 @ 11:59PM** |
+| **Tutorial 2**: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro) | _Scale like the pros using Swarm and Compose._ | **11/16 @ 11:59PM** |
+| **Tutorial 3**: [Doing More with Docker Images](https://training.play-with-docker.com/ops-s1-images) | _Create & share Docker images; examine the layers inside._ | **11/16 @ 11:59PM** |
+| **Tutorial 4**: [Docker Networking Lab](https://training.play-with-docker.com/docker-networking-hol) | _Hands-on practice using key Docker Networking concepts_. | **11/16 @ 11:59PM** |
+| **Tutorial 5**: [Docker Orchestration Lab](https://training.play-with-docker.com/orchestration-hol) | _Hands-on practice in high-availability techniques._ |
+
 
 Knowledge gained in the tutorials will be evaluated on the [Containers, Orchestration, Optimization](https://www.gradescope.com/courses/203051/assignments/835995) worksheet as well as participation during the final [Course Review].
 
