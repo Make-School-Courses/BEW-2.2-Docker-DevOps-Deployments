@@ -32,8 +32,7 @@ In this course students will learn the two main flavors of Developer Operations 
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
-
+**Course Delivery**: online | 7 weeks | 14 sessions<br>
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Learning Outcomes
@@ -47,9 +46,8 @@ _By the end of this course, you will be able to&hellip;_
 
 ## Schedule
 
-**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
-
-**Class Times:** Tuesday 1:45-4:30pm PST and Thursday at 2:45–5:30pm PST (13 class sessions)
+**Course Dates:** Thursday, October 22 &mdash; Thursday, December 10, 2020 _(8 weeks)_<br>
+**Class Times:** Tuesday 1:45 &mdash; 4:30pm PST & Thursday at 2:45 &mdash; 5:30pm PST _(13 class sessions)_
 
 | Class | Date         | Topics                                                                    |
 |-------|--------------|---------------------------------------------------------------------------|
