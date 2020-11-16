@@ -83,8 +83,8 @@ To access each tutorial, click the links below. Be sure to complete the exercise
 | **Tutorial 1**: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello) | _Explore Docker fundamentals._ | **11/16 @ 11:59PM** |
 | **Tutorial 2**: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro) | _Scale like the pros using Swarm and Compose._ | **11/16 @ 11:59PM** |
 | **Tutorial 3**: [Doing More with Docker Images](https://training.play-with-docker.com/ops-s1-images) | _Create & share Docker images; examine the layers inside._ | **11/16 @ 11:59PM** |
-| **Tutorial 4**: [Docker Networking Lab](https://training.play-with-docker.com/docker-networking-hol) | _Hands-on practice using key Docker Networking concepts_. | **11/16 @ 11:59PM** |
-| **Tutorial 5**: [Docker Orchestration Lab](https://training.play-with-docker.com/orchestration-hol) | _Hands-on practice in high-availability techniques._ |
+| **Tutorial 4**: [Docker Networking Lab](https://training.play-with-docker.com/docker-networking-hol) | _Hands-on practice using key Docker Networking concepts_. | **11/19 @ 11:59PM** |
+| **Tutorial 5**: [Docker Orchestration Lab](https://training.play-with-docker.com/orchestration-hol) | _Hands-on practice in high-availability techniques._ | **11/19 @ 11:59PM** |
 
 
 Knowledge gained in the tutorials will be evaluated on the [Containers, Orchestration, Optimization](https://www.gradescope.com/courses/203051/assignments/835995) worksheet as well as participation during the final [Course Review].
@@ -95,11 +95,13 @@ Gain valuable real-world experience in DevOps through these hands-on activities.
 
 **_Complete all five challenges to pass the course_**:
 
-- **Challenge 1**: Your Own Domain Name _([Instructions](Projects/Challenges.md))_
-- **Challenge 2**: Connect Your Domain to GitHub Pages _([Instructions](Guides/InfiniteGithubPages.md))_
-- **Challenge 3**: Dockerize Any Flask Application _([Instructions](Projects/Challenges.md))_
-- **Challenge 4**: Your First Server _([Instructions](Projects/Challenges.md))_
-- **Challenge 5**: Compose a Web Application _([Instructions](Projects/Challenges.md))_
+| Name | More Info | Due Date |
+| ---- | ----------- | -------- |
+| **Challenge 1**: Your Own Domain Name  | [Instructions](Projects/Challenges.md) | **11/10 @ 11:59PM** |
+| **Challenge 2**: Connect Your Domain to GitHub Pages | [Instructions](Guides/InfiniteGithubPages.md) | **11/12 @ 11:59PM** |
+| **Challenge 3**: Dockerize Any Flask Application | [Instructions](Projects/Challenges.md) | **11/19 @ 11:59PM** |
+| **Challenge 4**: Your First Server | [Instructions](Projects/Challenges.md) | **11/24 @ 11:59PM** |
+| **Challenge 5**: Compose a Web Application | [Instructions](Projects/Challenges.md) | **12/03 @ 11:59PM**  |
 
 
 ### Final Project
