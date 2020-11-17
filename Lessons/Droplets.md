@@ -167,7 +167,14 @@ _We'll practice how to upload files manually, as well as how to take advantage o
 1. Visit your domain name registrar's website and log in.
 1. Add an A record pointing `*.dev` to your new droplet's IP address.
 1. Visit `http://IP_ADDRESS:3000` in your browser and log in with the default password: `captain42`.
-1. Follow the instructions to complete the CapRover installation. **Be sure to use a very secure password.**
+1. **Follow the instructions to complete the CapRover installation**:
+
+    <img src="Images/caprover-setup.png">
+
+   1. Scroll to the bottom of the page and change the root domain to `dev.YOURDOMAIN.com`. You will need to log in again.
+   1. Scroll to the bottom of the page. Click the Enable HTTPS button. Enter a valid email address.
+   1.  Scroll to the bottom of the page. Click the Force HTTPS button.
+   1.  Click `Settings` > Scroll to the bottom of the page > `Change Password`. **Be sure to use a very secure password.**
 1. **Submit your new droplet's IP address on [Gradescope] to complete this activity**.
 
 **NOTE**: From now on, access the CapRover dashboard by visiting `https://captain.dev.YOURDOMAIN.com`.
