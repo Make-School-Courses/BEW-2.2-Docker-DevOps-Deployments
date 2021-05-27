@@ -69,7 +69,7 @@ _By the end of this course, you will be able to&hellip;_
 | 11 |  Mon, July 12        | [Docker Volumes] + [Advanced Container Orchestration Techniques]                  |
 | 12 |  Wed, July 14        | Demo: Deploying on CapRover + [Course Review]                         |
 
-< !-- | [Final Presentations]                                 | -- >
+<!-- [Final Presentations] -->
 
 ## Class Assignments
 
