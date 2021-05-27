@@ -46,8 +46,6 @@ _By the end of this course, you will be able to&hellip;_
 
 ## Schedule
 
-### **M/W S&L Template **
-
 **Course Dates:** Monday, May 31 – Wednesday, July 28, 2021 (9 weeks)
 
 **Class Times:** Monday, Wednesday at 4:00pm–5:30pm (16 class sessions)
