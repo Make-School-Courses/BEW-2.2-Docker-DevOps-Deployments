@@ -79,11 +79,11 @@ To access each tutorial, click the links below. Be sure to complete the exercise
 
 | Name | Description | Due Date |
 | ---- | ----------- | -------- |
-| **Tutorial 1**: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello) | _Explore Docker fundamentals._ | **11/16 @ 11:59PM** |
-| **Tutorial 2**: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro) | _Scale like the pros using Swarm and Compose._ | **11/16 @ 11:59PM** |
-| **Tutorial 3**: [Doing More with Docker Images](https://training.play-with-docker.com/ops-s1-images) | _Create & share Docker images; examine the layers inside._ | **11/16 @ 11:59PM** |
-| **Tutorial 4**: [Docker Networking Lab](https://training.play-with-docker.com/docker-networking-hol) | _Hands-on practice using key Docker Networking concepts_. | **11/19 @ 11:59PM** |
-| **Tutorial 5**: [Docker Orchestration Lab](https://training.play-with-docker.com/orchestration-hol) | _Hands-on practice in high-availability techniques._ | **11/19 @ 11:59PM** |
+| **Tutorial 1**: [Your First Linux Containers](https://training.play-with-docker.com/ops-s1-hello) | _Explore Docker fundamentals._ | **June 7 @ 11:59PM** |
+| **Tutorial 2**: [Deploy and Manage Multiple Containers](https://training.play-with-docker.com/ops-s1-swarm-intro) | _Scale like the pros using Swarm and Compose._ | **June 7 @ 11:59PM** |
+| **Tutorial 3**: [Doing More with Docker Images](https://training.play-with-docker.com/ops-s1-images) | _Create & share Docker images; examine the layers inside._ | **June 7 @ 11:59PM** |
+| **Tutorial 4**: [Docker Networking Lab](https://training.play-with-docker.com/docker-networking-hol) | _Hands-on practice using key Docker Networking concepts_. | **June 14 @ 11:59PM** |
+| **Tutorial 5**: [Docker Orchestration Lab](https://training.play-with-docker.com/orchestration-hol) | _Hands-on practice in high-availability techniques._ | **June 14  @ 11:59PM** |
 
 
 Knowledge gained in the tutorials will be evaluated on the [Containers, Orchestration, Optimization](https://www.gradescope.com/courses/203051/assignments/835995) worksheet as well as participation during the final [Course Review].
@@ -96,11 +96,11 @@ Gain valuable real-world experience in DevOps through these hands-on activities.
 
 | Name | More Info | Due Date |
 | ---- | ----------- | -------- |
-| **Challenge 1**: Your Own Domain Name  | [Instructions](Projects/Challenges.md) | **11/10 @ 11:59PM** |
-| **Challenge 2**: Connect Your Domain to GitHub Pages | [Instructions](Guides/InfiniteGithubPages.md) | **11/12 @ 11:59PM** |
-| **Challenge 3**: Dockerize Any Flask Application | [Instructions](Projects/Challenges.md) | **11/19 @ 11:59PM** |
-| **Challenge 4**: Your First Server | [Instructions](Projects/Challenges.md) | **11/24 @ 11:59PM** |
-| **Challenge 5**: Compose a Web Application | [Instructions](Projects/Challenges.md) | **12/03 @ 11:59PM**  |
+| **Challenge 1**: Your Own Domain Name  | [Instructions](Projects/Challenges.md) | **June 10 @ 11:59PM** |
+| **Challenge 2**: Connect Your Domain to GitHub Pages | [Instructions](Guides/InfiniteGithubPages.md) | **June 12 @ 11:59PM** |
+| **Challenge 3**: Dockerize Any Flask Application | [Instructions](Projects/Challenges.md) | **June 17 @ 11:59PM** |
+| **Challenge 4**: Your First Server | [Instructions](Projects/Challenges.md) | **June 19 @ 11:59PM** |
+| **Challenge 5**: Compose a Web Application | [Instructions](Projects/Challenges.md) | **June 24 @ 11:59PM**  |
 
 
 ### Final Project
@@ -117,9 +117,9 @@ Gain valuable real-world experience in DevOps through these hands-on activities.
 - [⭐️ Project Goals](#%e2%ad%90%ef%b8%8f-project-goals)
 - [📋 Project Requirements](#%f0%9f%93%8b-project-requirements)
 - [🗓 Deliverables & Due Dates](#%f0%9f%97%93-deliverables--due-dates)
-  - [1️⃣ **Presentation**: Due 12/9 @ 11:59pm](#1%ef%b8%8f%e2%83%a3-presentation-due-129--1159pm)
-  - [2️⃣ **Blog Post**: Due 12/9 @ 11:59pm](#2%ef%b8%8f%e2%83%a3-blog-post-due-129--1159pm)
-  - [3️⃣ **Repository**: Due 12/9 @ 11:59pm](#3%ef%b8%8f%e2%83%a3-repository-due-129--1159pm)
+  - [1️⃣ **Presentation**: Due July 12 @ 11:59pm](#1%ef%b8%8f%e2%83%a3-presentation-due-129--1159pm)
+  - [2️⃣ **Blog Post**: Due July 12 @ 11:59pm](#2%ef%b8%8f%e2%83%a3-blog-post-due-129--1159pm)
+  - [3️⃣ **Repository**: Due July 12 @ 11:59pm](#3%ef%b8%8f%e2%83%a3-repository-due-129--1159pm)
 
 ## Evaluation
 
