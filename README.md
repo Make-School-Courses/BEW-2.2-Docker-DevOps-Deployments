@@ -69,6 +69,10 @@ _By the end of this course, you will be able to&hellip;_
 
 <!-- [Final Presentations] -->
 
+## Class Recordings
+
+All class recordings will be available [here](https://drive.google.com/drive/folders/17yRdgDIsZoD4XjOUTwqH2U-F2_nY6b6P?usp=sharing) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the Make School student body.
+
 ## Class Assignments
 
 ### Tutorials
