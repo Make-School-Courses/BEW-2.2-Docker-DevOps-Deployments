@@ -14,7 +14,7 @@
 
 <!-- > -->
 
-### 🏆 Learning Objectives
+### 🏆 [5m] Learning Objectives
 
 By the end of this class you will be able to...
 1. explain the role of DNS and domain names 
@@ -24,35 +24,42 @@ By the end of this class you will be able to...
 
 <!-- > -->
 
-### 📚 Review DNS Comic
+### 📚 [15m] Review DNS Comic
 
-Students should go through this [DNS comic which explains with graphics how DNS systems work and communicate!](https://howdns.works)
+##### ACTIVITY
+
+Students should enter breakout rooms and go through this [DNS comic which explains with graphics how DNS systems work and communicate!](https://howdns.works)
 
 Take notes on the vocabulary term that comes up in each page and "trace" the example ping from the comic.
 
+Upon return to the main room, the instructor should "trace" the example ping to see if it matches the students understanding.
+
 <!-- > -->
 
-### 🔥 Trace a request 
+### 🔥 [10m] Trace a request 
 
-Instructor demo usage of the `traceroute` command.
+##### ACTIVITY
+
+Open breakout rooms for 10 minutes and experiment with `traceroute` command.
 
 Use the `traceroute` terminal command with the following websites and explore the output:
 - google.com
 - makeschool.com
 - nsa.gov
 
-Discussion questions:
+What's going on with the nsa.gov `traceroute`? Seems like a strange behavior...
+
+Discussion questions (Google them if nobody knows):
 - what happens if we paste the IP addresses found in the route into a web browser?
 - How does the route change with a VPN?
-- What about something like a TOR browser?
-
-Can we truly mask our activity?
+- What would happen if we were using a TOR browser?
+- Can we truly mask our activity on the internet?
 
 <!-- > -->
 
-### 🗣️ Register a Domain Name + Link to GitHub
+### [30m] 🗣️ Register a Domain Name + Link to GitHub
 
--- Instructor Demo --
+##### -- Instructor Demo --
 
 A .xyz domain name can be purchased from [namecheap.com for ~$1.](namecheap.com)
 
@@ -78,10 +85,10 @@ ogjaylowe.github.io.	3600	IN	A	185.199.110.153
 
 <!-- > -->
 
-### 🛏️ BREAK   
+### 🛏️ [10m] BREAK   
 
 <!-- > -->
-### 💪 Tutorial Q&A + Work Time 
+### 💪 [-m] Tutorial Q&A + Work Time 
 
 Use this time to ask questions about the tutorials and/or complete them in preperation for the upcoming Docker lessons.
 
