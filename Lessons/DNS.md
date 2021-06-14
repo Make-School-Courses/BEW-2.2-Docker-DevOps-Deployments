@@ -65,7 +65,7 @@ A .xyz domain name can be purchased from [namecheap.com for ~$1.](namecheap.com)
 
 Reference materials:
 - Great guide to [connect a namecheap.com domain to GitHub Pages](https://dev.to/pauljwil/connect-github-pages-to-your-namecheap-domain-4gjj)
-- Documentation from GitHub that specifies current IP address to use for your domains `A Records`.
+- Documentation from GitHub that specifies [current IP address to use for your domains] (https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) `A Records`.
 - Troubleshooting [tips from GitHub for ideas to use when things don't work](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#cname-errors)
 -- NOTE: dropping the CNAME certificate and then readding seems to be the best quick debugging fix for namecheap.com
 
